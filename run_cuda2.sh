@@ -1,7 +1,8 @@
-tasks=pr_lc_no_limit
+tasks=passive_to_active,obj_to_subj,compose_passive_to_active_obj_to_subj
 
 
-declare -a models=("EleutherAI/gpt-j-6b" "EleutherAI/gpt-neox-20b" "meta-llama/Llama-2-70b-hf")
+
+declare -a models=("meta-llama/Llama-2-70b-hf")
 
 for model in "${models[@]}"; do
     model_filename=$(echo "$model" | tr '/' '_')

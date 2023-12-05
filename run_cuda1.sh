@@ -1,7 +1,6 @@
 
+tasks=passive_to_active,obj_to_subj,compose_passive_to_active_obj_to_subj
 
-
-tasks=pr_lc_no_limit
 
 
 declare -a models=("EleutherAI/gpt-j-6b" "EleutherAI/gpt-neox-20b")

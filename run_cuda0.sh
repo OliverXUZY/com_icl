@@ -1,8 +1,8 @@
 
 
 
-# tasks=dn,lc,pr,psa,ps
-tasks=pr_lc_no_limit
+# tasks=dn,lc,pr,psa,ps,pr_lc_no_limit
+tasks=passive_to_active,obj_to_subj,compose_passive_to_active_obj_to_subj
 declare -a models=("gpt2" "gpt2-large" "gpt2-xl")
 
 for model in "${models[@]}"; do

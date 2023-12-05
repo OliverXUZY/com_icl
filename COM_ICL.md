@@ -23,7 +23,7 @@ python submit_euler.py --run_bash run_cuda0.sh
 
 python submit_euler.py --run_bash run_cuda1.sh --gpu_num 2
 
-python submit_euler.py --run_bash run_cuda0.sh --gpu_num 4
+python submit_euler.py --run_bash run_cuda2.sh --gpu_num 4
 ```
 
 ### aggregate result

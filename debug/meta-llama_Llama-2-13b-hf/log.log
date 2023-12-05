@@ -1,0 +1,255 @@
+Selected Tasks: ['dn', 'lc', 'pr', 'ps', 'psa']
+Task: dn; number of docs: 985
+Task: dn; document 0; context prompt (starting on next line):
+input: A rose was helped by a dog .
+output: HELP ( DOG , ROSE , NONE )
+
+input: Skylar gave the donut beside a bench to the girl .
+output: GIVE ( SKYLAR , BESIDE ( DONUT , BENCH ) , GIRL )
+
+input: A girl threw the box on a book .
+output: THROW ( GIRL , ON ( BOX , BOOK ) , NONE )
+
+input: The boy was given the donut in a cage .
+output: GIVE ( NONE , IN ( DONUT , CAGE ) , BOY )
+
+input: The cat burned a cake on a road .
+output: BURN ( CAT , ON ( CAKE , ROAD ) , NONE )
+
+input: Emma ate a donut in the vessel .
+output: EAT ( EMMA , IN ( DONUT , VESSEL ) , NONE )
+
+input: Liam was given the strawberry in a cabinet .
+output: GIVE ( NONE , IN ( STRAWBERRY , CABINET ) , LIAM )
+
+input: The girl was handed the drink beside a rock beside a shoe .
+output: HAND ( NONE , BESIDE ( DRINK , BESIDE ( ROCK , SHOE ) ) , GIRL )
+
+input: The queen was mailed the rose on a chair in a garden .
+output: MAIL ( NONE , ON ( ROSE , IN ( CHAIR , GARDEN ) ) , QUEEN )
+
+input: The cat froze the cake beside a bed on a table .
+output: FREEZE ( CAT , BESIDE ( CAKE , ON ( BED , TABLE ) ) , NONE )
+
+input: The queen froze the strawberry in the cabinet beside the shoe on the chair in the box on a road on a rock on a bench in a cage beside the bed on a vessel on the table beside the book .
+
+output:
+(end of prompt on previous line)
+Requests: Req_greedy_until('input: A rose was helped by a dog .\noutput: HELP ( DOG , ROSE , NONE )\n\ninput: Skylar gave the donut beside a bench to the girl .\noutput: GIVE ( SKYLAR , BESIDE ( DONUT , BENCH ) , GIRL )\n\ninput: A girl threw the box on a book .\noutput: THROW ( GIRL , ON ( BOX , BOOK ) , NONE )\n\ninput: The boy was given the donut in a cage .\noutput: GIVE ( NONE , IN ( DONUT , CAGE ) , BOY )\n\ninput: The cat burned a cake on a road .\noutput: BURN ( CAT , ON ( CAKE , ROAD ) , NONE )\n\ninput: Emma ate a donut in the vessel .\noutput: EAT ( EMMA , IN ( DONUT , VESSEL ) , NONE )\n\ninput: Liam was given the strawberry in a cabinet .\noutput: GIVE ( NONE , IN ( STRAWBERRY , CABINET ) , LIAM )\n\ninput: The girl was handed the drink beside a rock beside a shoe .\noutput: HAND ( NONE , BESIDE ( DRINK , BESIDE ( ROCK , SHOE ) ) , GIRL )\n\ninput: The queen was mailed the rose on a chair in a garden .\noutput: MAIL ( NONE , ON ( ROSE , IN ( CHAIR , GARDEN ) ) , QUEEN )\n\ninput: The cat froze the cake beside a bed on a table .\noutput: FREEZE ( CAT , BESIDE ( CAKE , ON ( BED , TABLE ) ) , NONE )\n\ninput: The queen froze the strawberry in the cabinet beside the shoe on the chair in the box on a road on a rock on a bench in a cage beside the bed on a vessel on the table beside the book .\n\noutput:', {'until': ['\n']})[None]
+
+ground_truth:  FREEZE ( QUEEN , IN ( STRAWBERRY , BESIDE ( CABINET , ON ( SHOE , IN ( CHAIR , ON ( BOX , ON ( ROAD , ON ( ROCK , IN ( BENCH , BESIDE ( CAGE , ON ( BED , ON ( VESSEL , BESIDE ( TABLE , BOOK ) ) ) ) ) ) ) ) ) ) ) ) , NONE )
+=========
+Task: lc; number of docs: 1000
+Task: lc; document 0; context prompt (starting on next line):
+input: A rose was helped by a dog .
+output: HELP ( DOG , ROSE , NONE )
+
+input: The sailor dusted a boy .
+output: DUST ( SAILOR , BOY , NONE )
+
+input: Evelyn rolled the girl .
+output: ROLL ( EVELYN , GIRL , NONE )
+
+input: The block was tolerated by Samuel .
+output: TOLERATE ( SAMUEL , BLOCK , NONE )
+
+input: Emma rolled a teacher .
+output: ROLL ( EMMA , TEACHER , NONE )
+
+input: A lawyer grew Amelia .
+output: GROW ( LAWYER , AMELIA , NONE )
+
+input: The penguin liked that Oliver slipped a cake in the house to Luna .
+output: LIKE ( PENGUIN , NONE , NONE ) CCOMP SLIP ( OLIVER , IN ( CAKE , HOUSE ) , LUNA )
+
+input: Emma noticed that the monkey was posted a cookie .
+output: NOTICE ( EMMA , NONE , NONE ) CCOMP POST ( NONE , COOKIE , MONKEY )
+
+input: Emma valued that the girl hoped that Olivia saw the pretzel beside a bed .
+output: VALUE ( EMMA , NONE , NONE ) CCOMP HOPE ( GIRL , NONE , NONE ) CCOMP SEE ( OLIVIA , BESIDE ( PRETZEL , BED ) , NONE )
+
+input: Savannah respected that Emily hoped that the drink was admired .
+output: RESPECT ( SAVANNAH , NONE , NONE ) CCOMP HOPE ( EMILY , NONE , NONE ) CCOMP ADMIRE ( NONE , DRINK , NONE )
+
+input: A girl valued that Samuel admired that a monkey liked that Luna liked that Oliver respected that Savannah hoped that a penguin noticed that Emma noticed that the lawyer noticed that a cake grew .
+
+output:
+(end of prompt on previous line)
+Requests: Req_greedy_until('input: A rose was helped by a dog .\noutput: HELP ( DOG , ROSE , NONE )\n\ninput: The sailor dusted a boy .\noutput: DUST ( SAILOR , BOY , NONE )\n\ninput: Evelyn rolled the girl .\noutput: ROLL ( EVELYN , GIRL , NONE )\n\ninput: The block was tolerated by Samuel .\noutput: TOLERATE ( SAMUEL , BLOCK , NONE )\n\ninput: Emma rolled a teacher .\noutput: ROLL ( EMMA , TEACHER , NONE )\n\ninput: A lawyer grew Amelia .\noutput: GROW ( LAWYER , AMELIA , NONE )\n\ninput: The penguin liked that Oliver slipped a cake in the house to Luna .\noutput: LIKE ( PENGUIN , NONE , NONE ) CCOMP SLIP ( OLIVER , IN ( CAKE , HOUSE ) , LUNA )\n\ninput: Emma noticed that the monkey was posted a cookie .\noutput: NOTICE ( EMMA , NONE , NONE ) CCOMP POST ( NONE , COOKIE , MONKEY )\n\ninput: Emma valued that the girl hoped that Olivia saw the pretzel beside a bed .\noutput: VALUE ( EMMA , NONE , NONE ) CCOMP HOPE ( GIRL , NONE , NONE ) CCOMP SEE ( OLIVIA , BESIDE ( PRETZEL , BED ) , NONE )\n\ninput: Savannah respected that Emily hoped that the drink was admired .\noutput: RESPECT ( SAVANNAH , NONE , NONE ) CCOMP HOPE ( EMILY , NONE , NONE ) CCOMP ADMIRE ( NONE , DRINK , NONE )\n\ninput: A girl valued that Samuel admired that a monkey liked that Luna liked that Oliver respected that Savannah hoped that a penguin noticed that Emma noticed that the lawyer noticed that a cake grew .\n\noutput:', {'until': ['\n']})[None]
+
+ground_truth:  VALUE ( GIRL , NONE , NONE ) CCOMP ADMIRE ( SAMUEL , NONE , NONE ) CCOMP LIKE ( MONKEY , NONE , NONE ) CCOMP LIKE ( LUNA , NONE , NONE ) CCOMP RESPECT ( OLIVER , NONE , NONE ) CCOMP HOPE ( SAVANNAH , NONE , NONE ) CCOMP NOTICE ( PENGUIN , NONE , NONE ) CCOMP NOTICE ( EMMA , NONE , NONE ) CCOMP NOTICE ( LAWYER , NONE , NONE ) CCOMP GROW ( NONE , CAKE , NONE )
+=========
+Task: pr; number of docs: 1000
+Task: pr; document 0; context prompt (starting on next line):
+input: A cake was forwarded to Levi by Charlotte .
+output: FORWARD ( CHARLOTTE , CAKE , LEVI )
+
+input: Evelyn rolled the girl .
+output: ROLL ( EVELYN , GIRL , NONE )
+
+input: Emma rolled a teacher .
+output: ROLL ( EMMA , TEACHER , NONE )
+
+input: A rose was helped by a dog .
+output: HELP ( DOG , ROSE , NONE )
+
+input: The sailor dusted a boy .
+output: DUST ( SAILOR , BOY , NONE )
+
+input: The girl needed to cook .
+output: NEED ( GIRL , NONE , NONE ) XCOMP COOK ( GIRL , NONE , NONE )
+
+input: The captain ate .
+output: EAT ( CAPTAIN , NONE , NONE )
+
+input: William shortened the cookie on a tray .
+output: SHORTEN ( WILLIAM , ON ( COOKIE , TRAY ) , NONE )
+
+input: The crocodile screamed .
+output: SCREAM ( CROCODILE , NONE , NONE )
+
+input: Olivia respected that Asher returned a ball on the table in a house to a baby .
+output: RESPECT ( OLIVIA , NONE , NONE ) CCOMP RETURN ( ASHER , ON ( BALL , IN ( TABLE , HOUSE ) ) , BABY )
+
+input: The baby on a tray in the house screamed .
+
+output:
+(end of prompt on previous line)
+Requests: Req_greedy_until('input: A cake was forwarded to Levi by Charlotte .\noutput: FORWARD ( CHARLOTTE , CAKE , LEVI )\n\ninput: Evelyn rolled the girl .\noutput: ROLL ( EVELYN , GIRL , NONE )\n\ninput: Emma rolled a teacher .\noutput: ROLL ( EMMA , TEACHER , NONE )\n\ninput: A rose was helped by a dog .\noutput: HELP ( DOG , ROSE , NONE )\n\ninput: The sailor dusted a boy .\noutput: DUST ( SAILOR , BOY , NONE )\n\ninput: The girl needed to cook .\noutput: NEED ( GIRL , NONE , NONE ) XCOMP COOK ( GIRL , NONE , NONE )\n\ninput: The captain ate .\noutput: EAT ( CAPTAIN , NONE , NONE )\n\ninput: William shortened the cookie on a tray .\noutput: SHORTEN ( WILLIAM , ON ( COOKIE , TRAY ) , NONE )\n\ninput: The crocodile screamed .\noutput: SCREAM ( CROCODILE , NONE , NONE )\n\ninput: Olivia respected that Asher returned a ball on the table in a house to a baby .\noutput: RESPECT ( OLIVIA , NONE , NONE ) CCOMP RETURN ( ASHER , ON ( BALL , IN ( TABLE , HOUSE ) ) , BABY )\n\ninput: The baby on a tray in the house screamed .\n\noutput:', {'until': ['\n']})[None]
+
+ground_truth:  SCREAM ( ON ( BABY , IN ( TRAY , HOUSE ) ) , NONE , NONE )
+=========
+Task: ps; number of docs: 1100
+Task: ps; document 0; context prompt (starting on next line):
+input: Paula
+output: PAULA
+
+input: The girl needed to cook .
+output: NEED ( GIRL , NONE , NONE ) XCOMP COOK ( GIRL , NONE , NONE )
+
+input: The captain ate .
+output: EAT ( CAPTAIN , NONE , NONE )
+
+input: A cake was forwarded to Levi by Charlotte .
+output: FORWARD ( CHARLOTTE , CAKE , LEVI )
+
+input: Evelyn rolled the girl .
+output: ROLL ( EVELYN , GIRL , NONE )
+
+input: Emma rolled a teacher .
+output: ROLL ( EMMA , TEACHER , NONE )
+
+input: A rose was helped by a dog .
+output: HELP ( DOG , ROSE , NONE )
+
+input: The sailor dusted a boy .
+output: DUST ( SAILOR , BOY , NONE )
+
+input: Luke gave a cat a hamburger in a closet .
+output: GIVE ( LUKE , IN ( HAMBURGER , CLOSET ) , CAT )
+
+input: Liam painted a cake in the house .
+output: PAINT ( LIAM , IN ( CAKE , HOUSE ) , NONE )
+
+input: Paula painted a cake in a closet .
+
+output:
+(end of prompt on previous line)
+Requests: Req_greedy_until('input: Paula\noutput: PAULA\n\ninput: The girl needed to cook .\noutput: NEED ( GIRL , NONE , NONE ) XCOMP COOK ( GIRL , NONE , NONE )\n\ninput: The captain ate .\noutput: EAT ( CAPTAIN , NONE , NONE )\n\ninput: A cake was forwarded to Levi by Charlotte .\noutput: FORWARD ( CHARLOTTE , CAKE , LEVI )\n\ninput: Evelyn rolled the girl .\noutput: ROLL ( EVELYN , GIRL , NONE )\n\ninput: Emma rolled a teacher .\noutput: ROLL ( EMMA , TEACHER , NONE )\n\ninput: A rose was helped by a dog .\noutput: HELP ( DOG , ROSE , NONE )\n\ninput: The sailor dusted a boy .\noutput: DUST ( SAILOR , BOY , NONE )\n\ninput: Luke gave a cat a hamburger in a closet .\noutput: GIVE ( LUKE , IN ( HAMBURGER , CLOSET ) , CAT )\n\ninput: Liam painted a cake in the house .\noutput: PAINT ( LIAM , IN ( CAKE , HOUSE ) , NONE )\n\ninput: Paula painted a cake in a closet .\n\noutput:', {'until': ['\n']})[None]
+
+ground_truth:  PAINT ( PAULA , IN ( CAKE , CLOSET ) , NONE )
+=========
+Task: psa; number of docs: 700
+Task: psa; document 0; context prompt (starting on next line):
+input: A cake was forwarded to Levi by Charlotte .
+output: FORWARD ( CHARLOTTE , CAKE , LEVI )
+
+input: Evelyn rolled the girl .
+output: ROLL ( EVELYN , GIRL , NONE )
+
+input: Emma rolled a teacher .
+output: ROLL ( EMMA , TEACHER , NONE )
+
+input: The sailor dusted a boy .
+output: DUST ( SAILOR , BOY , NONE )
+
+input: A rose was helped by a dog .
+output: HELP ( DOG , ROSE , NONE )
+
+input: The captain ate .
+output: EAT ( CAPTAIN , NONE , NONE )
+
+input: Zoe cleaned a turtle .
+output: CLEAN ( ZOE , TURTLE , NONE )
+
+input: The girl needed to cook .
+output: NEED ( GIRL , NONE , NONE ) XCOMP COOK ( GIRL , NONE , NONE )
+
+input: A landlord hoped that the hippo decomposed .
+output: HOPE ( LANDLORD , NONE , NONE ) CCOMP DECOMPOSE ( NONE , HIPPO , NONE )
+
+input: The bee thought that a rose was decomposed by Liam .
+output: THINK ( BEE , NONE , NONE ) CCOMP DECOMPOSE ( LIAM , ROSE , NONE )
+
+input: Zoe thought that a hippo cleaned .
+
+output:
+(end of prompt on previous line)
+Requests: Req_greedy_until('input: A cake was forwarded to Levi by Charlotte .\noutput: FORWARD ( CHARLOTTE , CAKE , LEVI )\n\ninput: Evelyn rolled the girl .\noutput: ROLL ( EVELYN , GIRL , NONE )\n\ninput: Emma rolled a teacher .\noutput: ROLL ( EMMA , TEACHER , NONE )\n\ninput: The sailor dusted a boy .\noutput: DUST ( SAILOR , BOY , NONE )\n\ninput: A rose was helped by a dog .\noutput: HELP ( DOG , ROSE , NONE )\n\ninput: The captain ate .\noutput: EAT ( CAPTAIN , NONE , NONE )\n\ninput: Zoe cleaned a turtle .\noutput: CLEAN ( ZOE , TURTLE , NONE )\n\ninput: The girl needed to cook .\noutput: NEED ( GIRL , NONE , NONE ) XCOMP COOK ( GIRL , NONE , NONE )\n\ninput: A landlord hoped that the hippo decomposed .\noutput: HOPE ( LANDLORD , NONE , NONE ) CCOMP DECOMPOSE ( NONE , HIPPO , NONE )\n\ninput: The bee thought that a rose was decomposed by Liam .\noutput: THINK ( BEE , NONE , NONE ) CCOMP DECOMPOSE ( LIAM , ROSE , NONE )\n\ninput: Zoe thought that a hippo cleaned .\n\noutput:', {'until': ['\n']})[None]
+
+ground_truth:  THINK ( ZOE , NONE , NONE ) CCOMP CLEAN ( HIPPO , NONE , NONE )
+=========
+Running greedy_until requests
+{
+  "results": {
+    "dn": {
+      "acc": 0.44431286990889496,
+      "acc_stderr": 0.007241842940047723
+    },
+    "lc": {
+      "acc": 0.7597069095892356,
+      "acc_stderr": 0.006836603542076408
+    },
+    "pr": {
+      "acc": 0.4226716575862896,
+      "acc_stderr": 0.008002333575147121
+    },
+    "ps": {
+      "acc": 0.9145161197982064,
+      "acc_stderr": 0.005344286743716912
+    },
+    "psa": {
+      "acc": 0.8989635273363921,
+      "acc_stderr": 0.006475034020308049
+    }
+  },
+  "versions": {
+    "dn": 0,
+    "lc": 0,
+    "pr": 0,
+    "ps": 0,
+    "psa": 0
+  },
+  "config": {
+    "model": "hf-causal-experimental",
+    "model_args": "pretrained=meta-llama/Llama-2-13b-hf,use_accelerate=True",
+    "num_fewshot": 0,
+    "batch_size": null,
+    "batch_sizes": [],
+    "device": "cuda",
+    "no_cache": false,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "description_dict": {}
+  }
+}
+hf-causal-experimental (pretrained=meta-llama/Llama-2-13b-hf,use_accelerate=True), limit: None, provide_description: False, num_fewshot: 0, batch_size: None
+|Task|Version|Metric|Value |   |Stderr|
+|----|------:|------|-----:|---|-----:|
+|dn  |      0|acc   |0.4443|±  |0.0072|
+|lc  |      0|acc   |0.7597|±  |0.0068|
+|pr  |      0|acc   |0.4227|±  |0.0080|
+|ps  |      0|acc   |0.9145|±  |0.0053|
+|psa |      0|acc   |0.8990|±  |0.0065|
+
+run rnd_seed:42 with fewshot 0 [took 46.2s]

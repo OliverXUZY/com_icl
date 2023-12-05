@@ -42,13 +42,13 @@ def run_sbatch_Euler(cmd, job_name, args):
 
     slurm_cmd = "sbatch " + path
     
-    # output = subprocess.check_output(shlex.split(slurm_cmd)).decode('utf8')
-    # print(output)
-    # job_names = list(re.findall(r'\d+', output))
-    # assert(len(job_names) == 1)
+    output = subprocess.check_output(shlex.split(slurm_cmd)).decode('utf8')
+    print(output)
+    job_names = list(re.findall(r'\d+', output))
+    assert(len(job_names) == 1)
 
-    # os.remove(path)
-    # return job_names[0]
+    os.remove(path)
+    return job_names[0]
 
 def parse_args():
     parser = argparse.ArgumentParser()

@@ -186,6 +186,7 @@ TASK_REGISTRY = {
     "passive_to_active": cofe.passive_to_active,
     "obj_to_subj": cofe.obj_to_subj,
     "compose_passive_to_active_obj_to_subj": cofe.compose_passive_to_active_obj_to_subj,
+    "compose_passive_to_active_obj_to_subj_incontext": cofe.compose_passive_to_active_obj_to_subj_compose_incontext,
 
 
     # dialogue

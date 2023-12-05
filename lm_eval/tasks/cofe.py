@@ -174,3 +174,5 @@ class obj_to_subj(cofe):
 class compose_passive_to_active_obj_to_subj(cofe):
     data_files = 'data/cofe/pas_act_obj_subj/compose_pa_os.json'
 
+class compose_passive_to_active_obj_to_subj_compose_incontext(cofe):
+    data_files = 'data/cofe/pas_act_obj_subj/pa_os_compose_incontext.json'

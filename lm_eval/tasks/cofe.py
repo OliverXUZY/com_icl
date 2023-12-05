@@ -162,6 +162,9 @@ class PR_LC(cofe):
 class PR_LC_no_limit(cofe):
     data_files = 'data/cofe/only_primitive_coverage/PR_LC_no_limit_context.json'
 
+class PR_LC_compose_incontext(cofe):
+    data_files = 'data/cofe/only_primitive_coverage/PR_LC_compose_incontext.json'
+
 class passive_to_active(cofe):
     data_files = 'data/cofe/pas_act_obj_subj/passive_to_active.json'
 

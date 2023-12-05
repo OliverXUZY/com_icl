@@ -1,5 +1,5 @@
 
-tasks=passive_to_active,obj_to_subj,compose_passive_to_active_obj_to_subj
+tasks=passive_to_active,obj_to_subj,compose_passive_to_active_obj_to_subj,pr_lc_compose_incontext
 
 
 

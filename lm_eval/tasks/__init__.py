@@ -182,6 +182,7 @@ TASK_REGISTRY = {
     "ps": cofe.Primitive_Substitution,
     "pr_lc": cofe.PR_LC,
     "pr_lc_no_limit": cofe.PR_LC_no_limit,
+    "pr_lc_compose_incontext": cofe.PR_LC_compose_incontext,
     "passive_to_active": cofe.passive_to_active,
     "obj_to_subj": cofe.obj_to_subj,
     "compose_passive_to_active_obj_to_subj": cofe.compose_passive_to_active_obj_to_subj,

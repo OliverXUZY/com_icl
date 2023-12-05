@@ -1,6 +1,11 @@
 # Language Model Evaluation Harness
 
 ## Basic Usage
+### Setup
+```
+conda create --name lmeval python==3.9
+pip install -r requirements.txt
+```
 ### run tasks
 
 ```bash

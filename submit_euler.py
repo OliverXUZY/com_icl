@@ -68,7 +68,7 @@ def main():
     with open(args.run_bash, "r") as file:
         cmd = file.read()
     
-    run_sbatch_Euler(cmd, "zhuoyan_test", args)
+    run_sbatch_Euler(cmd = cmd, job_name = args.run_bash, args = args)
     
 if __name__ == "__main__":
     main()

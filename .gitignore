@@ -8,4 +8,7 @@ __pycache__/
 # output/
 
 # ignore eulerlog
-eulerlog/
+# eulerlog/
+
+# ignore lm_cache
+lm_cache/

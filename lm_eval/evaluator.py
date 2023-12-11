@@ -248,8 +248,12 @@ def evaluate(
         # print("task_docs[0]: ", task_docs[0])
         # assert False
         rnd = random.Random()
+        
         rnd.seed(rnd_seed)
-        # rnd.shuffle(task_docs) # TODO: tem zhuoyan
+
+        rnd_test_shuffle = random.Random()
+        rnd_test_shuffle.seed(1234)
+        rnd_test_shuffle.shuffle(task_docs) # TODO: tem zhuoyan
         print(f"Task: {task_name}; number of docs: {len(task_docs)}")
 
         if write_out:
@@ -354,7 +358,6 @@ def evaluate(
                 # print(f"resp =={resp}==")
                 # print("remove first and last white space")
                 resp = resp.strip()
-                # pass
                 # print(f"resp =={resp}==")
             # assert False
             if write_out:
@@ -436,7 +439,7 @@ def evaluate(
 
         for task_name, _ in task_dict_items:
             with open(
-                output_base_path.joinpath(f"{task_name}_write_out_info.json"),
+                output_base_path.joinpath(f"{task_name}_write_out_info_shot{num_fewshot}.json"),
                 "w",
                 encoding="utf8",
             ) as fp:

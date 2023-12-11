@@ -14,8 +14,8 @@ class cofe(Task):
     DATASET_PATH = "json"
     DATASET_NAME = None
 
-    cache_dir = "./cofe/cache"
-    data_files = 'cofe/raw/only_primitive_coverage.json'
+    cache_dir = "./data/cofe/cache"
+    data_files = 'data/cofe/raw/only_primitive_coverage.json'
     # data_dir = 'cofe/only_primitive_coverage'
 
     def download(self, data_dir=None, cache_dir=None, download_mode=None):

@@ -68,7 +68,7 @@ from . import csatqa
 from . import haerae
 from . import cmmlu
 from . import cofe
-
+from . import equation
 ########################################
 # Translation tasks
 ########################################
@@ -174,6 +174,7 @@ TASK_REGISTRY = {
     "truthfulqa_gen": truthfulqa.TruthfulQAGeneration,
 
     # added by Zhuoyan
+    ## cofe
     "cofe": cofe.cofe,
     "dn": cofe.Deeper_Nesting,
     "lc":cofe.Longer_Chain,
@@ -188,6 +189,10 @@ TASK_REGISTRY = {
     "compose_passive_to_active_obj_to_subj": cofe.compose_passive_to_active_obj_to_subj,
     "compose_passive_to_active_obj_to_subj_incontext": cofe.compose_passive_to_active_obj_to_subj_compose_incontext,
 
+    ## reverse+two_sum
+    "reverse": equation.reverse,
+    "twoSum": equation.two_sum,
+    "reverse_twoSum": equation.reverse_two_sum,
 
     # dialogue
     "mutual": mutual.MuTual,

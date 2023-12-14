@@ -14,7 +14,7 @@
 #SBATCH --cpus-per-task=16     ## CPUs per task; number of threads of each task
 #SBATCH -t 256:00:00          ## Walltime
 #SBATCH --mem=80GB
-#SBATCH -p lianglab
+#SBATCH -p lianglab,research
 #SBATCH --exclude=euler[01-16],euler[20-28]
 source ~/.bashrc
 conda activate /srv/home/zxu444/anaconda3/envs/lmeval

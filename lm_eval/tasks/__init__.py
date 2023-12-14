@@ -68,7 +68,9 @@ from . import csatqa
 from . import haerae
 from . import cmmlu
 from . import cofe
+# from . import twoSum_reverse_ciphar
 from . import equation
+from . import swap
 ########################################
 # Translation tasks
 ########################################
@@ -189,10 +191,30 @@ TASK_REGISTRY = {
     "compose_passive_to_active_obj_to_subj": cofe.compose_passive_to_active_obj_to_subj,
     "compose_passive_to_active_obj_to_subj_incontext": cofe.compose_passive_to_active_obj_to_subj_compose_incontext,
 
-    ## reverse+two_sum
-    "reverse": equation.reverse,
-    "twoSum": equation.two_sum,
-    "reverse_twoSum": equation.reverse_two_sum,
+    ## reverse+two_sum_cipher
+    # "reverse": twoSum_reverse_ciphar.reverse,
+    # "twoSum": twoSum_reverse_ciphar.two_sum,
+    # "reverse_twoSum": twoSum_reverse_ciphar.reverse_two_sum,
+    # "ciphar": twoSum_reverse_ciphar.ciphar,
+    # "cipher_twoSum": twoSum_reverse_ciphar.cipher_two_sum,
+    # "reverse_twoSum_compose_incontext": twoSum_reverse_ciphar.reverse_two_sum_compose_incontext,
+    # "cipher_twoSum_compose_incontext": twoSum_reverse_ciphar.cipher_two_sum_compose_incontext,
+
+    # upper + twoSum
+    "upper": equation.upper,
+    "twoSum": equation.twoSum,
+    "upper_twoSum": equation.upper_twoSum,
+    "upper_twoSum_compose_incontext": equation.upper_twoSum_compose_incontext,
+
+    # upper + swap
+    "names_upper": swap.upper,
+    "swap": swap.swap,
+    "upper_swap": swap.upper_swap,
+    "upper_swap_compose_incontext": swap.upper_swap_compose_incontext,
+    "swap_upper": swap.swap_upper,
+    "swap_upper_compose_incontext": swap.swap_upper_compose_incontext,
+    
+
 
     # dialogue
     "mutual": mutual.MuTual,

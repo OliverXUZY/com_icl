@@ -61,7 +61,7 @@ class swap(Task):
         return self.dataset["validation"]
 
     def doc_to_text(self, doc):
-        return f"input: {doc['input']}\noutput:"
+        return f"input: {doc['input']}\noutput: "
 
 
     def doc_to_target(self, doc):
@@ -255,6 +255,8 @@ class upper_swap_compose_incontext(upper_swap):
         retval = rnd.sample(self._task1_training_docs, k) + rnd.sample(self._task2_training_docs, k) + compose
         rnd.shuffle(retval)
 
+        return retval
+
 
 
 class swap_upper(upper_swap):
@@ -280,3 +282,5 @@ class swap_upper_compose_incontext(swap_upper):
         
         retval = rnd.sample(self._task1_training_docs, k) + rnd.sample(self._task2_training_docs, k) + compose
         rnd.shuffle(retval)
+
+        return retval

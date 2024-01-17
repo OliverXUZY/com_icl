@@ -139,43 +139,21 @@ class equation(Task):
 
 
 class upper(equation):
-    train_files = 'data/equation/upper_train.json'
-    test_files = 'data/equation/upper_test.json'
+    train_files = 'data/equation/upper_twoSum/upper_train.json'
+    test_files = 'data/equation/upper_twoSum/upper_test.json'
 
 
 class twoSum(equation):
-    train_files = 'data/equation/two_sum_train.json'
-    test_files = 'data/equation/two_sum_test.json'
+    train_files = 'data/equation/upper_twoSum/two_sum_train.json'
+    test_files = 'data/equation/upper_twoSum/two_sum_test.json'
 
 class upper_twoSum(equation):
-    train_files = 'data/equation/upper_twoSum_train.json'
-    test_files = 'data/equation/upper_twoSum_test.json'
-    task_1_files = 'data/equation/upper_train.json'
-    task_2_files = 'data/equation/two_sum_train.json'
+    train_files = 'data/equation/upper_twoSum/upper_twoSum_train.json'
+    test_files = 'data/equation/upper_twoSum/upper_twoSum_test.json'
+    task_1_files = 'data/equation/upper_twoSum/upper_train.json'
+    task_2_files = 'data/equation/upper_twoSum/two_sum_train.json'
 
     def __init__(self, data_dir=None, cache_dir=None, download_mode=None):
-        """
-        :param data_dir: str
-            Stores the path to a local folder containing the `Task`'s data files.
-            Use this to specify the path to manually downloaded data (usually when
-            the dataset is not publicly accessible).
-        :param cache_dir: str
-            The directory to read/write the `Task` dataset. This follows the
-            HuggingFace `datasets` API with the default cache directory located at:
-                `~/.cache/huggingface/datasets`
-            NOTE: You can change the cache location globally for a given process
-            by setting the shell environment variable, `HF_DATASETS_CACHE`,
-            to another directory:
-                `export HF_DATASETS_CACHE="/path/to/another/directory"`
-        :param download_mode: datasets.DownloadMode
-            How to treat pre-existing `Task` downloads and data.
-            - `datasets.DownloadMode.REUSE_DATASET_IF_EXISTS`
-                Reuse download and reuse dataset.
-            - `datasets.DownloadMode.REUSE_CACHE_IF_EXISTS`
-                Reuse download with fresh dataset.
-            - `datasets.DownloadMode.FORCE_REDOWNLOAD`
-                Fresh download and fresh dataset.
-        """
         self.download(data_dir, cache_dir, download_mode)
         self._training_docs = None
         self._fewshot_docs = None
@@ -244,16 +222,7 @@ class upper_twoSum(equation):
     def validation_docs(self):
         return self.dataset["validation"]
     
-    def fewshot_examples(self, k, rnd, composed_in_context = False):
-        if composed_in_context:
-            if self._training_docs is None:
-                self._training_docs = list(self.training_docs())
-
-            return rnd.sample(self._training_docs, k)
-        
-        # k1 = k//2
-        # k2 = k - k1
-
+    def fewshot_examples(self, k, rnd):
         if self._task1_training_docs is None:
                 self._task1_training_docs = list(self.dataset["task1"])
         
@@ -269,5 +238,82 @@ class upper_twoSum_compose_incontext(upper_twoSum):
         if self._training_docs is None:
             self._training_docs = list(self.training_docs())
 
-        return rnd.sample(self._training_docs, k)
+        compose = rnd.sample(self._training_docs, k)
+
+        if self._task1_training_docs is None:
+                self._task1_training_docs = list(self.dataset["task1"])
         
+        if self._task2_training_docs is None:
+                self._task2_training_docs = list(self.dataset["task2"])
+        
+        retval = rnd.sample(self._task1_training_docs, k) + rnd.sample(self._task2_training_docs, k) + compose
+        rnd.shuffle(retval)
+
+        return retval
+        
+# ================================================
+
+class mod(equation):
+    train_files = 'data/equation/mod_twoSum/mod_train.json'
+    test_files = 'data/equation/mod_twoSum/mod_test.json'
+
+
+class twoSumPlus(equation):
+    train_files = 'data/equation/mod_twoSum/two_sum_train.json'
+    test_files = 'data/equation/mod_twoSum/two_sum_test.json'
+
+
+class mod_twoSum(upper_twoSum):
+    train_files = 'data/equation/mod_twoSum/mod_twoSum_train.json'
+    test_files = 'data/equation/mod_twoSum/mod_twoSum_test.json'
+    task_1_files = 'data/equation/mod_twoSum/mod_train.json'
+    task_2_files = 'data/equation/mod_twoSum/two_sum_train.json'
+
+    def fewshot_examples(self, k, rnd):
+        if self._task1_training_docs is None:
+                self._task1_training_docs = list(self.dataset["task1"])
+        
+        if self._task2_training_docs is None:
+                self._task2_training_docs = list(self.dataset["task2"])
+        
+        retval = rnd.sample(self._task1_training_docs, k) + rnd.sample(self._task2_training_docs, k)
+        rnd.shuffle(retval)
+        return retval
+    
+    def process_results(self, doc, results):
+        continuation = self._normalize_answer(results[0])
+        answers = doc["output"]
+
+        # print(f"continuation:  =={continuation}==")
+        # print(f"answers: =={answers}==")
+
+        preds = continuation.split(" ")
+        refs = answers.split(" ")
+        # print("preds: ", preds)
+        # print("refs: ", refs)
+
+        # assert False
+
+        
+        return {"acc":  float(preds[0] in refs)}
+
+
+class mod_twoSum_compose_incontext(mod_twoSum):
+    def fewshot_examples(self, k, rnd):
+        if self._training_docs is None:
+            self._training_docs = list(self.training_docs())
+
+        compose = rnd.sample(self._training_docs, k)
+
+        if self._task1_training_docs is None:
+                self._task1_training_docs = list(self.dataset["task1"])
+        
+        if self._task2_training_docs is None:
+                self._task2_training_docs = list(self.dataset["task2"])
+        
+        retval = rnd.sample(self._task1_training_docs, k) + rnd.sample(self._task2_training_docs, k) + compose
+        rnd.shuffle(retval)
+
+        return retval
+    
+

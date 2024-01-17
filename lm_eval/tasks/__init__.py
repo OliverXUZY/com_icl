@@ -71,6 +71,7 @@ from . import cofe
 # from . import twoSum_reverse_ciphar
 from . import equation
 from . import swap
+from . import induction_head
 ########################################
 # Translation tasks
 ########################################
@@ -206,6 +207,15 @@ TASK_REGISTRY = {
     "upper_twoSum": equation.upper_twoSum,
     "upper_twoSum_compose_incontext": equation.upper_twoSum_compose_incontext,
 
+    # mod + twoSumPlos
+    "mod": equation.mod,
+    "twoSumPlus": equation.twoSumPlus,
+    "mod_twoSum": equation.mod_twoSum,
+    "mod_twoSum_compose_incontext": equation.mod_twoSum_compose_incontext,
+
+
+
+
     # upper + swap
     "names_upper": swap.upper,
     "swap": swap.swap,
@@ -213,6 +223,10 @@ TASK_REGISTRY = {
     "upper_swap_compose_incontext": swap.upper_swap_compose_incontext,
     "swap_upper": swap.swap_upper,
     "swap_upper_compose_incontext": swap.swap_upper_compose_incontext,
+
+    # induction_head:
+    "induction_head_sen": induction_head.ind_head_sen,
+    "ind_head_random": induction_head.ind_head_random,
     
 
 

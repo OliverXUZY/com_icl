@@ -72,6 +72,7 @@ from . import cofe
 from . import equation
 from . import swap
 from . import induction_head
+from . import upper_plusOne
 ########################################
 # Translation tasks
 ########################################
@@ -227,6 +228,14 @@ TASK_REGISTRY = {
     # induction_head:
     "induction_head_sen": induction_head.ind_head_sen,
     "ind_head_random": induction_head.ind_head_random,
+
+    # upper + plusOne
+    "names2_upper": upper_plusOne.upper,
+    "plusOne": upper_plusOne.plusOne,
+    "upper_plusOne": upper_plusOne.upper_plusOne,
+    "upper_plusOne_compose_incontext": upper_plusOne.upper_plusOne_compose_incontext,
+    "plusOne_upper":upper_plusOne.plusOne_upper,
+    "plusOne_upper_compose_incontext": upper_plusOne.plusOne_upper_compose_incontext,
     
 
 

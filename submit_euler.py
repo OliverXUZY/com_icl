@@ -17,11 +17,11 @@ def run_sbatch_Euler(cmd, job_name, args):
     text = text.replace("run_command", cmd)
     text = text.replace("job_name", job_name)
     if args.research:
-        text = text.replace("#SBATCH -p lianglab,research", "#SBATCH -p research")
+        text = text.replace("#SBATCH -p lianglab", "#SBATCH -p research")
     elif args.cpu:
         text = text.replace("#SBATCH --gres=gpu:1          ## GPUs", "")
-    elif args.lianglab:
-        text = text.replace("#SBATCH -p lianglab,research", "#SBATCH -p lianglab")
+    elif args.both:
+        text = text.replace("#SBATCH -p lianglab", "#SBATCH -p lianglab,research")
     else:
         pass
 
@@ -55,7 +55,7 @@ def parse_args():
     parser.add_argument("--run_bash", type=str, default="run_cuda0.sh", help="select bash file to run")
     parser.add_argument("--print_command", action="store_true", default=False)
     parser.add_argument("--research", action="store_true", default=False)
-    parser.add_argument("--lianglab", action="store_true", default=False)
+    parser.add_argument("--both", action="store_true", default=False)
     parser.add_argument("--cpu", action="store_true", default=False)
     parser.add_argument("--gpu", type=str, default="", help="GPU name")
     parser.add_argument("--gpu_num", type=int, default=1)

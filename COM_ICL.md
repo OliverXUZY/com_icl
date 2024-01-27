@@ -6,6 +6,11 @@
 conda create --name lmeval python==3.9
 pip install -r requirements.txt
 ```
+
+### task table
+Task data in `data/` , task name-file-mapping in `lm_eval_tasks/__init__.py`, task file in `lm_eval_tasks/`.
+
+
 ### run tasks
 
 ```bash

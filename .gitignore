@@ -12,3 +12,5 @@ __pycache__/
 
 # ignore lm_cache
 lm_cache/
+
+data/cofe/cache/

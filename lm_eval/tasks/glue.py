@@ -15,7 +15,7 @@ Homepage: https://gluebenchmark.com/
 """
 import numpy as np
 from lm_eval.base import rf, Task
-from lm_eval.metrics import mean, matthews_corrcoef, f1_score, yesno
+from lm_eval.metrics import mean, matthews_corrcoef, f1_score, yesno, yesno_flip
 from lm_eval.utils import general_detokenize
 
 
@@ -128,6 +128,9 @@ class SST(Task):
 
     def doc_to_target(self, doc):
         return " {}".format({1: "positive", 0: "negative"}[doc["label"]])
+    
+    def doc_to_target_flip(self, doc):
+        return " {}".format({0: "positive", 1: "negative"}[doc["label"]])
 
     def construct_requests(self, doc, ctx):
         ll_positive, _ = rf.loglikelihood(ctx, " positive")
@@ -356,6 +359,12 @@ class RTE(Task):
         # 0 = entailment
         # 1 = not_entailment
         return " {}".format({0: "True", 1: "False"}[doc["label"]])
+    
+    def doc_to_target_flip(self, doc):
+        # 0 = entailment
+        # 1 = not_entailment
+        return " {}".format({1: "True", 0: "False"}[doc["label"]])
+
 
     def construct_requests(self, doc, ctx):
         ll_true, _ = rf.loglikelihood(ctx, " True")
@@ -460,6 +469,9 @@ class QQP(Task):
 
     def doc_to_target(self, doc):
         return " {}".format(yesno(doc["label"]))
+    
+    def doc_to_target_flip(self, doc):
+        return " {}".format(yesno_flip(doc["label"]))
 
     def construct_requests(self, doc, ctx):
         ll_yes, _ = rf.loglikelihood(ctx, " yes")

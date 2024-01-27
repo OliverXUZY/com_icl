@@ -252,7 +252,7 @@ def evaluate(
         rnd.seed(rnd_seed)
 
         rnd_test_shuffle = random.Random()
-        rnd_test_shuffle.seed(1234)
+        rnd_test_shuffle.seed(3407)
         rnd_test_shuffle.shuffle(task_docs) # TODO: tem zhuoyan
         print(f"Task: {task_name}; number of docs: {len(task_docs)}")
 
@@ -354,11 +354,12 @@ def evaluate(
             # print("zhuoyan: ", type(resp))
             # assert False
             # print(f"resp: =={resp}==")
-            if len(resp) > 0 and resp[0] == " ":
-                # print(f"resp =={resp}==")
-                # print("remove first and last white space")
-                resp = resp.strip()
-                # print(f"resp =={resp}==")
+            if type(resp) == str:
+                if len(resp) > 0 and resp[0] == " ":
+                    # print(f"resp =={resp}==")
+                    # print("remove first and last white space")
+                    resp = resp.strip()
+                    # print(f"resp =={resp}==")
             # assert False
             if write_out:
                 write_out_info[task_name][doc_id][f"logit_{i}"] = resp
@@ -439,6 +440,8 @@ def evaluate(
 
         for task_name, _ in task_dict_items:
             with open(
+                # TODO: rnd seed!!!
+                # output_base_path.joinpath(f"{task_name}_write_out_info_shot{num_fewshot}_seed{rnd_seed}.json"),
                 output_base_path.joinpath(f"{task_name}_write_out_info_shot{num_fewshot}.json"),
                 "w",
                 encoding="utf8",

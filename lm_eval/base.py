@@ -735,10 +735,11 @@ class Task(abc.ABC):
 
                 # get rid of the doc that's the one we're evaluating, if it's in the fewshot
                 fewshotex = [x for x in fewshotex if x != doc][:num_fewshot]
-
+            # print("fewshotex", fewshotex)
             labeled_examples = (
                 "\n\n".join(
                     [
+                        # TODO: temporarily!!!
                         self.doc_to_text(doc) + self.doc_to_target(doc)
                         for doc in fewshotex
                     ]
@@ -746,7 +747,14 @@ class Task(abc.ABC):
                 + "\n\n"
             )
 
+        #print("labeled_examples", [labeled_examples])
+
         example = self.doc_to_text(doc)
+
+        #print("example", [example])
+
+
+        #print("=====")
         return description + labeled_examples + example
 
 

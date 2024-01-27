@@ -257,3 +257,9 @@ def yesno(x):
         return "yes"
     else:
         return "no"
+
+def yesno_flip(x):
+    if x:
+        return "no"
+    else:
+        return "yes"

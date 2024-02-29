@@ -1,18 +1,21 @@
 
 #tasks=upper,twoSum,upper_twoSum,upper_twoSum_compose_incontext
-tasks=plusOne_upper,plusOne_upper_compose_incontext
+tasks=names2_upper,plusOne,plusOne_upper,plusOne_upper_compose_incontext
+# tasks=names_upper,swap,upper_swap,upper_swap_compose_incontext
 declare -a num_fewshots=(10)
 #dir=upper_plusOne
 #
 #declare -a models=("EleutherAI/pythia-2.8b" "EleutherAI/pythia-6.9b" "EleutherAI/pythia-12b" "huggyllama/llama-7b" "huggyllama/llama-13b" "huggyllama/llama-30b" "huggyllama/llama-65b")
-declare -a models=("EleutherAI/pythia-2.8b" "EleutherAI/pythia-6.9b" "EleutherAI/pythia-12b" "meta-llama/Llama-2-7b-hf" "meta-llama/Llama-2-13b-hf" "meta-llama/Llama-2-70b-hf")
+#declare -a models=("EleutherAI/pythia-2.8b" "EleutherAI/pythia-6.9b" "EleutherAI/pythia-12b" "meta-llama/Llama-2-7b-hf" "meta-llama/Llama-2-13b-hf" "meta-llama/Llama-2-70b-hf")
 #declare -a models=("huggyllama/llama-65b")
 #declare -a models=("meta-llama/Llama-2-70b-hf")
+declare -a models=("openai-community/gpt2-large" "EleutherAI/gpt-neo-1.3B" "EleutherAI/gpt-neo-2.7B" "EleutherAI/gpt-j-6b" "EleutherAI/gpt-neox-20B")
 declare -a seeds=(3407)
 
 for seed in "${seeds[@]}"; do
     #dir=equation/upper_twoSum/"seed${seed}"
     dir=upper_plusOne/"seed${seed}"
+    #dir=swap/no_instruction
     for model in "${models[@]}"; do
         model_filename=$(echo "$model" | tr '/' '_')
         echo "Model: $model"

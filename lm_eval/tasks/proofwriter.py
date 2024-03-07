@@ -1,4 +1,5 @@
-from .task import Task
+from lm_eval.base import rf, Task
+from lm_eval.metrics import mean, matthews_corrcoef, f1_score, yesno, yesno_flip
 import datasets
 class proofwriter(Task):
     VERSION = 0

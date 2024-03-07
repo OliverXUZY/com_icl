@@ -1,7 +1,7 @@
 
 #tasks=upper,twoSum,upper_twoSum,upper_twoSum_compose_incontext
 tasks=names2_upper,plusOne,plusOne_upper,plusOne_upper_compose_incontext
-# tasks=names_upper,swap,upper_swap,upper_swap_compose_incontext
+#tasks=names_upper,swap,upper_swap,upper_swap_compose_incontext
 declare -a num_fewshots=(10)
 #dir=upper_plusOne
 #
@@ -9,7 +9,8 @@ declare -a num_fewshots=(10)
 #declare -a models=("EleutherAI/pythia-2.8b" "EleutherAI/pythia-6.9b" "EleutherAI/pythia-12b" "meta-llama/Llama-2-7b-hf" "meta-llama/Llama-2-13b-hf" "meta-llama/Llama-2-70b-hf")
 #declare -a models=("huggyllama/llama-65b")
 #declare -a models=("meta-llama/Llama-2-70b-hf")
-declare -a models=("openai-community/gpt2-large" "EleutherAI/gpt-neo-1.3B" "EleutherAI/gpt-neo-2.7B" "EleutherAI/gpt-j-6b" "EleutherAI/gpt-neox-20B")
+#declare -a models=("openai-community/gpt2-large" "EleutherAI/gpt-neo-1.3B" "EleutherAI/gpt-neo-2.7B" "EleutherAI/gpt-j-6b" "EleutherAI/gpt-neox-20B")
+declare -a models=("allenai/OLMo-1B" "allenai/OLMo-7B-Instruct")
 declare -a seeds=(3407)
 
 for seed in "${seeds[@]}"; do
@@ -24,7 +25,7 @@ for seed in "${seeds[@]}"; do
         for num_fewshot in "${num_fewshots[@]}"; do
             python main.py \
                 --model hf-causal-experimental \
-                --model_args pretrained="$model",use_accelerate=True \
+                --model_args pretrained="$model",use_accelerate=True,trust_remote_code=True \
                 --tasks $tasks \
                 --device cuda \
                 --write_out \

@@ -73,6 +73,7 @@ from . import equation
 from . import swap
 from . import induction_head
 from . import upper_plusOne
+from . import proofwriter
 ########################################
 # Translation tasks
 ########################################
@@ -236,7 +237,11 @@ TASK_REGISTRY = {
     "upper_plusOne_compose_incontext": upper_plusOne.upper_plusOne_compose_incontext,
     "plusOne_upper":upper_plusOne.plusOne_upper,
     "plusOne_upper_compose_incontext": upper_plusOne.plusOne_upper_compose_incontext,
+
+    # proof writer
+    "proofwriter": proofwriter.proofwriter,
     
+    # added by Zhuoyan
 
 
     # dialogue

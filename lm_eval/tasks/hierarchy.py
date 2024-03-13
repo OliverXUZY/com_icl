@@ -148,7 +148,7 @@ class ab_level(a_level):
     test_files = './data/hierarchy/ab_level_test.json'
     task_1_files = './data/hierarchy/a_level_train.json'
     task_2_files = './data/hierarchy/b_level_train.json'
-    task_2_files_test = './hierarchy/data/b_level_test.json'
+    task_2_files_test = './data/hierarchy/b_level_test.json'
 
 
     def __init__(self, data_dir=None, cache_dir=None, download_mode=None):

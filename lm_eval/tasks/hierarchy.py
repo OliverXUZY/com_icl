@@ -244,7 +244,7 @@ class ab_level(a_level):
         else:
             fewshotex = self.fewshot_examples(k = num_fewshot, rnd = rnd, doc_id=doc_id)
             
-            print("fewshotex", fewshotex)
+            # print("fewshotex", fewshotex)
             labeled_examples = (
                 "\n\n".join(
                     [
@@ -282,5 +282,39 @@ class ab_level_compose_incontext(ab_level):
         rnd.shuffle(retval)
 
         return compose
+
+    def fewshot_context(
+        self, doc, num_fewshot, rnd=None, description=None
+    ):
+        assert (
+            rnd is not None
+        ), "A `random.Random` generator argument must be provided to `rnd`"
+        description = description + "\n\n" if description else ""
+        
+        if num_fewshot == 0:
+            labeled_examples = ""
+        else:
+            fewshotex = self.fewshot_examples(k = num_fewshot, rnd = rnd)
+            
+            # print("fewshotex", fewshotex)
+            labeled_examples = (
+                "\n\n".join(
+                    [
+                        self.doc_to_text(doc) + self.doc_to_target(doc)
+                        for doc in fewshotex
+                    ]
+                )
+                + "\n\n"
+            )
+
+        # print("labeled_examples", [labeled_examples])
+
+        example = self.doc_to_text(doc)
+
+        # print("example", [example])
+
+
+        # print("=====")
+        return description + labeled_examples + example
 
 

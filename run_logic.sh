@@ -12,10 +12,11 @@ declare -a num_fewshots=(10)
 #,swap_upper,swap_upper_compose_incontext
 # declare -a models=("openlm-research/open_llama_3b_v2")
 # declare -a models=("openai-community/gpt2-large")
-# declare -a models=("meta-llama/Llama-2-7b-hf")
 # declare -a models=("mistralai/Mixtral-8x7B-Instruct-v0.1")
 #declare -a models=("google/gemma-2b-it" "google/gemma-7b-it") 
-declare -a models=("meta-llama/Llama-2-13b-hf" "mistralai/Mistral-7B-Instruct-v0.2" "mistralai/Mixtral-8x7B-Instruct-v0.1")
+# declare -a models=("meta-llama/Llama-2-7b-hf")
+declare -a models=("mistralai/Mistral-7B-Instruct-v0.2")
+# declare -a models=("meta-llama/Llama-2-13b-hf"  "mistralai/Mixtral-8x7B-Instruct-v0.1")
 #declare -a models=("allenai/OLMo-1B" "allenai/OLMo-7B-Instruct")
 
 declare -a seeds=(3407)
@@ -25,7 +26,7 @@ for seed in "${seeds[@]}"; do
     #dir=equation/mod_twoSum
     #dir=upper_plusOne/"seed${seed}"
     #dir=swap/no_instruction
-    dir=hierarchy   
+    dir=hierarchy/instruction   
     for model in "${models[@]}"; do
         model_filename=$(echo "$model" | tr '/' '_')
         echo "Model: $model"
@@ -41,6 +42,7 @@ for seed in "${seeds[@]}"; do
                 --num_fewshot $num_fewshot \
                 --limit 100 \
                 --rnd_seed "$seed" \
+                --description_dict_path "./templates/description.json" \
                 --output_base_path "output/${dir}/${model_filename}" | tee "output/${dir}/${model_filename}/log.log"
         done
     done

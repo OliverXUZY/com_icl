@@ -11,6 +11,36 @@ exact_match = evaluate.load("exact_match")
 
 import random
 
+a_level_dict = {
+    "Mammals": "animal",
+    "Birds": "animal",
+    "Reptiles": "animal",
+    "Amphibians": "animal",
+    "Fish": "animal",
+    "Insects": "animal",
+    "Arachnids": "animal",
+    "Crustaceans": "animal",
+    "Mollusks": "animal",
+    "Fruit": "food",
+    "Vegetable": "food",
+    "Meat": "food",
+    "Seafood": "food",
+    "Dairy": "food",
+    "Grain": "food",
+    "Nut_and_Seed": "food",
+    "Beverage": "food",
+    "Spice_and_Herb": "food",
+    "Confectionery": "food",
+    "Car": "vehicle",
+    "Bicycle": "vehicle",
+    "Motorcycle": "vehicle",
+    "Truck": "vehicle",
+    "Bus": "vehicle",
+    "Tram": "vehicle",
+    "Train": "vehicle",
+    "Airplane": "vehicle",
+    "Boat": "vehicle"
+}
 class a_level(Task):
     VERSION = 0
     DATASET_PATH = "json"
@@ -256,6 +286,10 @@ class ab_level(a_level):
             )
 
         # print("labeled_examples", [labeled_examples])
+
+        ### add a_level demonstrations
+        b_level_category_for_doc = self.doc_to_target(self.b_level_task_docs[doc_id])
+        labeled_examples += f"{b_level_category_for_doc} is {a_level_dict[b_level_category_for_doc]}" + "\n\n"
 
         example = self.doc_to_text(doc)
 

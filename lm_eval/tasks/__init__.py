@@ -74,6 +74,7 @@ from . import swap
 from . import induction_head
 from . import upper_plusOne
 from . import proofwriter
+from . import hierarchy
 ########################################
 # Translation tasks
 ########################################
@@ -240,6 +241,12 @@ TASK_REGISTRY = {
 
     # proof writer
     "proofwriter": proofwriter.proofwriter,
+
+    # hierarchy
+    "a_level": hierarchy.a_level,
+    "b_level": hierarchy.b_level,
+    "ab_level": hierarchy.ab_level,
+    "ab_level_compose_incontext": hierarchy.ab_level_compose_incontext,
     
     # added by Zhuoyan
 

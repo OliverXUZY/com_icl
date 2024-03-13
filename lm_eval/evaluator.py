@@ -255,6 +255,8 @@ def evaluate(
         rnd_test_shuffle.seed(3407)
         rnd_test_shuffle.shuffle(task_docs) # TODO: tem zhuoyan
         print(f"Task: {task_name}; number of docs: {len(task_docs)}")
+        kwangs_fewshot_context = {}
+        
 
         if write_out:
             prompt_details = []
@@ -277,8 +279,11 @@ def evaluate(
             docs[(task_name, doc_id)] = doc
             # print("zhuoyan doc: ", doc)
 
+            if task_name == "ab_level":
+                kwangs_fewshot_context.update({"doc_id": doc_id})
+
             ctx = task.fewshot_context(
-                doc=doc, num_fewshot=num_fewshot, rnd=rnd, description=description
+                doc=doc, num_fewshot=num_fewshot, rnd=rnd, description=description, **kwangs_fewshot_context,
             )
             
             # print("zhuoyan ctx: ", ctx)

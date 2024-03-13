@@ -9,6 +9,8 @@ from lm_eval.utils import general_detokenize
 import evaluate
 exact_match = evaluate.load("exact_match")
 
+import random
+
 class a_level(Task):
     VERSION = 0
     DATASET_PATH = "json"
@@ -146,6 +148,8 @@ class ab_level(a_level):
     test_files = './data/hierarchy/ab_level_test.json'
     task_1_files = './data/hierarchy/a_level_train.json'
     task_2_files = './data/hierarchy/b_level_train.json'
+    task_2_files_test = './hierarchy/data/b_level_test.json'
+
 
     def __init__(self, data_dir=None, cache_dir=None, download_mode=None):
         
@@ -192,23 +196,74 @@ class ab_level(a_level):
             split = "train" # zhuoyan: this dataset does not have train/val/test split, only the dataset object
         )
 
+        task_2_set_test = datasets.load_dataset(
+            path=self.DATASET_PATH,
+            name=self.DATASET_NAME,
+            data_files=self.task_2_files_test,
+            cache_dir=cache_dir,
+            download_mode=download_mode,
+            split = "train" # zhuoyan: this dataset does not have train/val/test split, only the dataset object
+        )
+
+
         self.dataset = datasets.DatasetDict({
             "train": trainset,
             "validation": testset,
             "task1": task_1_set,
-            "task2": task_2_set
+            "task2": task_2_set,
+            "task2_test": task_2_set_test,
         })
 
-    def fewshot_examples(self, k, rnd):
+        b_level_task_docs = list(self.dataset["task2_test"])
+        rnd_test_shuffle = random.Random()
+        rnd_test_shuffle.seed(3407)
+        rnd_test_shuffle.shuffle(b_level_task_docs)
+        self.b_level_task_docs = b_level_task_docs
+
+    def fewshot_examples(self, k, rnd, doc_id):
         if self._task1_training_docs is None:
                 self._task1_training_docs = list(self.dataset["task1"])
         
         if self._task2_training_docs is None:
                 self._task2_training_docs = list(self.dataset["task2"])
         
-        retval = rnd.sample(self._task1_training_docs, k) + rnd.sample(self._task2_training_docs, k)
+        retval = rnd.sample(self._task1_training_docs, k) + rnd.sample(self._task2_training_docs, k) + [self.b_level_task_docs[doc_id]]
         rnd.shuffle(retval)
         return retval
+    
+    def fewshot_context(
+        self, doc, num_fewshot, rnd=None, description=None, doc_id = 0
+    ):
+        assert (
+            rnd is not None
+        ), "A `random.Random` generator argument must be provided to `rnd`"
+        description = description + "\n\n" if description else ""
+        
+        if num_fewshot == 0:
+            labeled_examples = ""
+        else:
+            fewshotex = self.fewshot_examples(k = num_fewshot, rnd = rnd, doc_id=doc_id)
+            
+            print("fewshotex", fewshotex)
+            labeled_examples = (
+                "\n\n".join(
+                    [
+                        self.doc_to_text(doc) + self.doc_to_target(doc)
+                        for doc in fewshotex
+                    ]
+                )
+                + "\n\n"
+            )
+
+        # print("labeled_examples", [labeled_examples])
+
+        example = self.doc_to_text(doc)
+
+        # print("example", [example])
+
+
+        # print("=====")
+        return description + labeled_examples + example
 
 class ab_level_compose_incontext(ab_level):
     def fewshot_examples(self, k, rnd):

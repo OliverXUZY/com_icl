@@ -8,5 +8,8 @@
     "a_level": "Below you are given examples showing how items fit into categories. Use what you've learned to determine the category for any new item.",
     "b_level": "Below you are given examples showing how items fit into categories. Use what you've learned to determine the category for any new item.",
     "ab_level": "Below you are given examples showing how items fit into categories and larger groups. If an item is in a category that's part of a larger group, remember the connection. Use what you've learned to determine the larger group for any new item.",
-    "ab_level_compose_incontext": "Below you are given examples showing how items fit into categories. Use what you've learned to determine the category for any new item."
+    "ab_level_compose_incontext": "Below you are given examples showing how items fit into categories. Use what you've learned to determine the category for any new item.",
+    "a_level_symbol": "Below you are given examples showing how items fit into categories. Use what you've learned to determine the category for any new item.",
+    "ab_level_symbol": "Below you are given examples showing how items fit into categories and larger groups. If an item is in a category that's part of a larger group, remember the connection. Use what you've learned to determine the larger group for any new item.",
+    "ab_level_compose_incontext_symbol": "Below you are given examples showing how items fit into categories. Use what you've learned to determine the category for any new item."
 }

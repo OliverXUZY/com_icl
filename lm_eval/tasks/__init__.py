@@ -248,9 +248,9 @@ TASK_REGISTRY = {
     "ab_level": hierarchy.ab_level,
     "ab_level_compose_incontext": hierarchy.ab_level_compose_incontext,
 
-    "a_level_symbol": a_level_symbol,
-    "ab_level_symbol": ab_level_symbol,
-    "ab_level_compose_incontext_symbol": ab_level_compose_incontext_symbol,
+    "a_level_symbol": hierarchy.a_level_symbol,
+    "ab_level_symbol": hierarchy.ab_level_symbol,
+    "ab_level_compose_incontext_symbol": hierarchy.ab_level_compose_incontext_symbol,
     
     # added by Zhuoyan
 

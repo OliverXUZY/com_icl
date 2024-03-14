@@ -41,6 +41,13 @@ a_level_dict = {
     "Airplane": "vehicle",
     "Boat": "vehicle"
 }
+
+superclass_symbol = {
+    "animal": "*&",
+    "food": "!%",
+    "vehicle": "$#"
+}
+
 class a_level(Task):
     VERSION = 0
     DATASET_PATH = "json"
@@ -131,7 +138,7 @@ class a_level(Task):
             The results of the requests created in construct_requests.
         """
         continuation = self._normalize_answer(results[0])
-        answers = doc["output"]
+        answers = self.doc_to_target(doc)
 
         # print(f"continuation:  =={continuation}==")
         # print(f"answers: =={answers}==")
@@ -144,8 +151,13 @@ class a_level(Task):
             preds.extend([""] * (len(refs) - len(preds)))
         elif len(preds) > len(refs):
             preds = preds[:len(refs)]  # Slicing preds to match the length of refs
-        
+
+        # print(f"preds =={preds}===")
+        # print(f"refs =={refs}===")
+
         results = exact_match.compute(references=refs, predictions=preds)
+        # print(results)
+        # print("done")
         
         return {"acc": results['exact_match']}
 

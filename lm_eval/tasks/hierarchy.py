@@ -352,3 +352,18 @@ class ab_level_compose_incontext(ab_level):
         return description + labeled_examples + example
 
 
+### symbol
+class a_level_symbol(a_level):
+    def doc_to_target(self, doc):
+        label = superclass_symbol.get(doc["output"]) or doc["output"]
+        return label
+
+class ab_level_symbol(ab_level):
+    def doc_to_target(self, doc):
+        label = superclass_symbol.get(doc["output"]) or doc["output"]
+        return label
+
+class ab_level_compose_incontext_symbol(ab_level_compose_incontext):
+    def doc_to_target(self, doc):
+        label = superclass_symbol.get(doc["output"]) or doc["output"]
+        return label

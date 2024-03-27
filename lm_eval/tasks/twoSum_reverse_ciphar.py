@@ -148,10 +148,10 @@ class twoSum(equation):
     test_files = 'data/twoSum_reverse_cipher/twoSum_test.json'
 
 class reverse_twoSum(equation):
-    train_files = 'data/equation/twoSum_reverse_cipher/compose_train.json'
-    test_files = 'data/equation/twoSum_reverse_cipher/compose_test.json'
-    task_1_files = 'data/equation/twoSum_reverse_cipher/reverse_train.json'
-    task_2_files = 'data/equation/twoSum_reverse_cipher/two_sum_train.json'
+    train_files = 'data/twoSum_reverse_cipher/compose_train.json'
+    test_files = 'data/twoSum_reverse_cipher/compose_test.json'
+    task_1_files = 'data/twoSum_reverse_cipher/reverse_train.json'
+    task_2_files = 'data/twoSum_reverse_cipher/two_sum_train.json'
 
     def __init__(self, data_dir=None, cache_dir=None, download_mode=None):
         self.download(data_dir, cache_dir, download_mode)
@@ -259,10 +259,10 @@ class ciphar(equation):
 
 
 class ciphar_twoSum(reverse_twoSum):
-    train_files = 'data/equation/twoSum_reverse_cipher/twoSum_ciphar_train.json'
-    test_files = 'data/equation/twoSum_reverse_cipher/twoSum_ciphar_test.json'
-    task_1_files = 'data/equation/twoSum_reverse_cipher/ciphar_train.json'
-    task_2_files = 'data/equation/twoSum_reverse_cipher/two_sum_train.json'
+    train_files = 'data/twoSum_reverse_cipher/twoSum_ciphar_train.json'
+    test_files = 'data/twoSum_reverse_cipher/twoSum_ciphar_test.json'
+    task_1_files = 'data/twoSum_reverse_cipher/ciphar_train.json'
+    task_2_files = 'data/twoSum_reverse_cipher/two_sum_train.json'
 
     def fewshot_examples(self, k, rnd):
         if self._task1_training_docs is None:

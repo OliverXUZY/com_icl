@@ -68,7 +68,7 @@ from . import csatqa
 from . import haerae
 from . import cmmlu
 from . import cofe
-# from . import twoSum_reverse_ciphar
+from . import twoSum_reverse_ciphar
 from . import equation
 from . import swap
 from . import induction_head
@@ -200,9 +200,9 @@ TASK_REGISTRY = {
     "twoSum": twoSum_reverse_ciphar.twoSum,
     "reverse_twoSum": twoSum_reverse_ciphar.reverse_twoSum,
     "ciphar": twoSum_reverse_ciphar.ciphar,
-    "cipher_twoSum": twoSum_reverse_ciphar.cipher_twoSum,
+    "cipher_twoSum": twoSum_reverse_ciphar.ciphar_twoSum,
     "reverse_twoSum_compose_incontext": twoSum_reverse_ciphar.reverse_twoSum_compose_incontext,
-    "cipher_twoSum_compose_incontext": twoSum_reverse_ciphar.cipher_twoSum_compose_incontext,
+    "cipher_twoSum_compose_incontext": twoSum_reverse_ciphar.ciphar_twoSum_compose_incontext,
 
     # upper + twoSum
     "upper": equation.upper,

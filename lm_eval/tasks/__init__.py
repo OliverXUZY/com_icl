@@ -195,14 +195,14 @@ TASK_REGISTRY = {
     "compose_passive_to_active_obj_to_subj": cofe.compose_passive_to_active_obj_to_subj,
     "compose_passive_to_active_obj_to_subj_incontext": cofe.compose_passive_to_active_obj_to_subj_compose_incontext,
 
-    ## reverse+two_sum_cipher
-    # "reverse": twoSum_reverse_ciphar.reverse,
-    # "twoSum": twoSum_reverse_ciphar.two_sum,
-    # "reverse_twoSum": twoSum_reverse_ciphar.reverse_two_sum,
-    # "ciphar": twoSum_reverse_ciphar.ciphar,
-    # "cipher_twoSum": twoSum_reverse_ciphar.cipher_two_sum,
-    # "reverse_twoSum_compose_incontext": twoSum_reverse_ciphar.reverse_two_sum_compose_incontext,
-    # "cipher_twoSum_compose_incontext": twoSum_reverse_ciphar.cipher_two_sum_compose_incontext,
+    # reverse+two_sum_cipher
+    "reverse": twoSum_reverse_ciphar.reverse,
+    "twoSum": twoSum_reverse_ciphar.twoSum,
+    "reverse_twoSum": twoSum_reverse_ciphar.reverse_twoSum,
+    "ciphar": twoSum_reverse_ciphar.ciphar,
+    "cipher_twoSum": twoSum_reverse_ciphar.cipher_twoSum,
+    "reverse_twoSum_compose_incontext": twoSum_reverse_ciphar.reverse_twoSum_compose_incontext,
+    "cipher_twoSum_compose_incontext": twoSum_reverse_ciphar.cipher_twoSum_compose_incontext,
 
     # upper + twoSum
     "upper": equation.upper,

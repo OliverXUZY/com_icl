@@ -1,4002 +1,4002 @@
 [
     {
-        "input": "*(tench)",
+        "input": "* ( tench )",
         "output": "whqfk"
     },
     {
-        "input": "*(goldfish)",
+        "input": "* ( goldfish )",
         "output": "jrogilvk"
     },
     {
-        "input": "*(great white shark)",
+        "input": "* ( great white shark )",
         "output": "juhdw zklwh vkdun"
     },
     {
-        "input": "*(tiger shark)",
+        "input": "* ( tiger shark )",
         "output": "wljhu vkdun"
     },
     {
-        "input": "*(hammerhead shark)",
+        "input": "* ( hammerhead shark )",
         "output": "kdpphukhdg vkdun"
     },
     {
-        "input": "*(electric ray)",
+        "input": "* ( electric ray )",
         "output": "hohfwulf udb"
     },
     {
-        "input": "*(stingray)",
+        "input": "* ( stingray )",
         "output": "vwlqjudb"
     },
     {
-        "input": "*(rooster)",
+        "input": "* ( rooster )",
         "output": "urrvwhu"
     },
     {
-        "input": "*(hen)",
+        "input": "* ( hen )",
         "output": "khq"
     },
     {
-        "input": "*(ostrich)",
+        "input": "* ( ostrich )",
         "output": "rvwulfk"
     },
     {
-        "input": "*(brambling)",
+        "input": "* ( brambling )",
         "output": "eudpeolqj"
     },
     {
-        "input": "*(goldfinch)",
+        "input": "* ( goldfinch )",
         "output": "jrogilqfk"
     },
     {
-        "input": "*(house finch)",
+        "input": "* ( house finch )",
         "output": "krxvh ilqfk"
     },
     {
-        "input": "*(junco)",
+        "input": "* ( junco )",
         "output": "mxqfr"
     },
     {
-        "input": "*(indigo bunting)",
+        "input": "* ( indigo bunting )",
         "output": "lqgljr exqwlqj"
     },
     {
-        "input": "*(American robin)",
+        "input": "* ( American robin )",
         "output": "Dphulfdq urelq"
     },
     {
-        "input": "*(bulbul)",
+        "input": "* ( bulbul )",
         "output": "exoexo"
     },
     {
-        "input": "*(jay)",
+        "input": "* ( jay )",
         "output": "mdb"
     },
     {
-        "input": "*(magpie)",
+        "input": "* ( magpie )",
         "output": "pdjslh"
     },
     {
-        "input": "*(chickadee)",
+        "input": "* ( chickadee )",
         "output": "fklfndghh"
     },
     {
-        "input": "*(American dipper)",
+        "input": "* ( American dipper )",
         "output": "Dphulfdq glsshu"
     },
     {
-        "input": "*(kite (bird of prey))",
+        "input": "* ( kite (bird of prey) )",
         "output": "nlwh (elug ri suhb)"
     },
     {
-        "input": "*(bald eagle)",
+        "input": "* ( bald eagle )",
         "output": "edog hdjoh"
     },
     {
-        "input": "*(vulture)",
+        "input": "* ( vulture )",
         "output": "yxowxuh"
     },
     {
-        "input": "*(great grey owl)",
+        "input": "* ( great grey owl )",
         "output": "juhdw juhb rzo"
     },
     {
-        "input": "*(fire salamander)",
+        "input": "* ( fire salamander )",
         "output": "iluh vdodpdqghu"
     },
     {
-        "input": "*(smooth newt)",
+        "input": "* ( smooth newt )",
         "output": "vprrwk qhzw"
     },
     {
-        "input": "*(newt)",
+        "input": "* ( newt )",
         "output": "qhzw"
     },
     {
-        "input": "*(spotted salamander)",
+        "input": "* ( spotted salamander )",
         "output": "vsrwwhg vdodpdqghu"
     },
     {
-        "input": "*(axolotl)",
+        "input": "* ( axolotl )",
         "output": "darorwo"
     },
     {
-        "input": "*(American bullfrog)",
+        "input": "* ( American bullfrog )",
         "output": "Dphulfdq exooiurj"
     },
     {
-        "input": "*(tree frog)",
+        "input": "* ( tree frog )",
         "output": "wuhh iurj"
     },
     {
-        "input": "*(tailed frog)",
+        "input": "* ( tailed frog )",
         "output": "wdlohg iurj"
     },
     {
-        "input": "*(loggerhead sea turtle)",
+        "input": "* ( loggerhead sea turtle )",
         "output": "orjjhukhdg vhd wxuwoh"
     },
     {
-        "input": "*(leatherback sea turtle)",
+        "input": "* ( leatherback sea turtle )",
         "output": "ohdwkhuedfn vhd wxuwoh"
     },
     {
-        "input": "*(mud turtle)",
+        "input": "* ( mud turtle )",
         "output": "pxg wxuwoh"
     },
     {
-        "input": "*(terrapin)",
+        "input": "* ( terrapin )",
         "output": "whuudslq"
     },
     {
-        "input": "*(box turtle)",
+        "input": "* ( box turtle )",
         "output": "era wxuwoh"
     },
     {
-        "input": "*(banded gecko)",
+        "input": "* ( banded gecko )",
         "output": "edqghg jhfnr"
     },
     {
-        "input": "*(green iguana)",
+        "input": "* ( green iguana )",
         "output": "juhhq ljxdqd"
     },
     {
-        "input": "*(Carolina anole)",
+        "input": "* ( Carolina anole )",
         "output": "Fdurolqd dqroh"
     },
     {
-        "input": "*(desert grassland whiptail lizard)",
+        "input": "* ( desert grassland whiptail lizard )",
         "output": "ghvhuw judvvodqg zklswdlo olcdug"
     },
     {
-        "input": "*(agama)",
+        "input": "* ( agama )",
         "output": "djdpd"
     },
     {
-        "input": "*(frilled-necked lizard)",
+        "input": "* ( frilled-necked lizard )",
         "output": "iuloohg-qhfnhg olcdug"
     },
     {
-        "input": "*(alligator lizard)",
+        "input": "* ( alligator lizard )",
         "output": "dooljdwru olcdug"
     },
     {
-        "input": "*(Gila monster)",
+        "input": "* ( Gila monster )",
         "output": "Jlod prqvwhu"
     },
     {
-        "input": "*(European green lizard)",
+        "input": "* ( European green lizard )",
         "output": "Hxurshdq juhhq olcdug"
     },
     {
-        "input": "*(chameleon)",
+        "input": "* ( chameleon )",
         "output": "fkdphohrq"
     },
     {
-        "input": "*(Komodo dragon)",
+        "input": "* ( Komodo dragon )",
         "output": "Nrprgr gudjrq"
     },
     {
-        "input": "*(Nile crocodile)",
+        "input": "* ( Nile crocodile )",
         "output": "Qloh furfrgloh"
     },
     {
-        "input": "*(American alligator)",
+        "input": "* ( American alligator )",
         "output": "Dphulfdq dooljdwru"
     },
     {
-        "input": "*(triceratops)",
+        "input": "* ( triceratops )",
         "output": "wulfhudwrsv"
     },
     {
-        "input": "*(worm snake)",
+        "input": "* ( worm snake )",
         "output": "zrup vqdnh"
     },
     {
-        "input": "*(ring-necked snake)",
+        "input": "* ( ring-necked snake )",
         "output": "ulqj-qhfnhg vqdnh"
     },
     {
-        "input": "*(eastern hog-nosed snake)",
+        "input": "* ( eastern hog-nosed snake )",
         "output": "hdvwhuq krj-qrvhg vqdnh"
     },
     {
-        "input": "*(smooth green snake)",
+        "input": "* ( smooth green snake )",
         "output": "vprrwk juhhq vqdnh"
     },
     {
-        "input": "*(kingsnake)",
+        "input": "* ( kingsnake )",
         "output": "nlqjvqdnh"
     },
     {
-        "input": "*(garter snake)",
+        "input": "* ( garter snake )",
         "output": "jduwhu vqdnh"
     },
     {
-        "input": "*(water snake)",
+        "input": "* ( water snake )",
         "output": "zdwhu vqdnh"
     },
     {
-        "input": "*(vine snake)",
+        "input": "* ( vine snake )",
         "output": "ylqh vqdnh"
     },
     {
-        "input": "*(night snake)",
+        "input": "* ( night snake )",
         "output": "qljkw vqdnh"
     },
     {
-        "input": "*(boa constrictor)",
+        "input": "* ( boa constrictor )",
         "output": "erd frqvwulfwru"
     },
     {
-        "input": "*(African rock python)",
+        "input": "* ( African rock python )",
         "output": "Diulfdq urfn sbwkrq"
     },
     {
-        "input": "*(Indian cobra)",
+        "input": "* ( Indian cobra )",
         "output": "Lqgldq freud"
     },
     {
-        "input": "*(green mamba)",
+        "input": "* ( green mamba )",
         "output": "juhhq pdped"
     },
     {
-        "input": "*(sea snake)",
+        "input": "* ( sea snake )",
         "output": "vhd vqdnh"
     },
     {
-        "input": "*(Saharan horned viper)",
+        "input": "* ( Saharan horned viper )",
         "output": "Vdkdudq kruqhg ylshu"
     },
     {
-        "input": "*(eastern diamondback rattlesnake)",
+        "input": "* ( eastern diamondback rattlesnake )",
         "output": "hdvwhuq gldprqgedfn udwwohvqdnh"
     },
     {
-        "input": "*(sidewinder rattlesnake)",
+        "input": "* ( sidewinder rattlesnake )",
         "output": "vlghzlqghu udwwohvqdnh"
     },
     {
-        "input": "*(trilobite)",
+        "input": "* ( trilobite )",
         "output": "wulorelwh"
     },
     {
-        "input": "*(harvestman)",
+        "input": "* ( harvestman )",
         "output": "kduyhvwpdq"
     },
     {
-        "input": "*(scorpion)",
+        "input": "* ( scorpion )",
         "output": "vfruslrq"
     },
     {
-        "input": "*(yellow garden spider)",
+        "input": "* ( yellow garden spider )",
         "output": "bhoorz jdughq vslghu"
     },
     {
-        "input": "*(barn spider)",
+        "input": "* ( barn spider )",
         "output": "eduq vslghu"
     },
     {
-        "input": "*(European garden spider)",
+        "input": "* ( European garden spider )",
         "output": "Hxurshdq jdughq vslghu"
     },
     {
-        "input": "*(southern black widow)",
+        "input": "* ( southern black widow )",
         "output": "vrxwkhuq eodfn zlgrz"
     },
     {
-        "input": "*(tarantula)",
+        "input": "* ( tarantula )",
         "output": "wdudqwxod"
     },
     {
-        "input": "*(wolf spider)",
+        "input": "* ( wolf spider )",
         "output": "zroi vslghu"
     },
     {
-        "input": "*(tick)",
+        "input": "* ( tick )",
         "output": "wlfn"
     },
     {
-        "input": "*(centipede)",
+        "input": "* ( centipede )",
         "output": "fhqwlshgh"
     },
     {
-        "input": "*(black grouse)",
+        "input": "* ( black grouse )",
         "output": "eodfn jurxvh"
     },
     {
-        "input": "*(ptarmigan)",
+        "input": "* ( ptarmigan )",
         "output": "swdupljdq"
     },
     {
-        "input": "*(ruffed grouse)",
+        "input": "* ( ruffed grouse )",
         "output": "uxiihg jurxvh"
     },
     {
-        "input": "*(prairie grouse)",
+        "input": "* ( prairie grouse )",
         "output": "sudlulh jurxvh"
     },
     {
-        "input": "*(peafowl)",
+        "input": "* ( peafowl )",
         "output": "shdirzo"
     },
     {
-        "input": "*(quail)",
+        "input": "* ( quail )",
         "output": "txdlo"
     },
     {
-        "input": "*(partridge)",
+        "input": "* ( partridge )",
         "output": "sduwulgjh"
     },
     {
-        "input": "*(african grey parrot)",
+        "input": "* ( african grey parrot )",
         "output": "diulfdq juhb sduurw"
     },
     {
-        "input": "*(macaw)",
+        "input": "* ( macaw )",
         "output": "pdfdz"
     },
     {
-        "input": "*(sulphur-crested cockatoo)",
+        "input": "* ( sulphur-crested cockatoo )",
         "output": "vxoskxu-fuhvwhg frfndwrr"
     },
     {
-        "input": "*(lorikeet)",
+        "input": "* ( lorikeet )",
         "output": "orulnhhw"
     },
     {
-        "input": "*(coucal)",
+        "input": "* ( coucal )",
         "output": "frxfdo"
     },
     {
-        "input": "*(bee eater)",
+        "input": "* ( bee eater )",
         "output": "ehh hdwhu"
     },
     {
-        "input": "*(hornbill)",
+        "input": "* ( hornbill )",
         "output": "kruqeloo"
     },
     {
-        "input": "*(hummingbird)",
+        "input": "* ( hummingbird )",
         "output": "kxpplqjelug"
     },
     {
-        "input": "*(jacamar)",
+        "input": "* ( jacamar )",
         "output": "mdfdpdu"
     },
     {
-        "input": "*(toucan)",
+        "input": "* ( toucan )",
         "output": "wrxfdq"
     },
     {
-        "input": "*(duck)",
+        "input": "* ( duck )",
         "output": "gxfn"
     },
     {
-        "input": "*(red-breasted merganser)",
+        "input": "* ( red-breasted merganser )",
         "output": "uhg-euhdvwhg phujdqvhu"
     },
     {
-        "input": "*(goose)",
+        "input": "* ( goose )",
         "output": "jrrvh"
     },
     {
-        "input": "*(black swan)",
+        "input": "* ( black swan )",
         "output": "eodfn vzdq"
     },
     {
-        "input": "*(tusker)",
+        "input": "* ( tusker )",
         "output": "wxvnhu"
     },
     {
-        "input": "*(echidna)",
+        "input": "* ( echidna )",
         "output": "hfklgqd"
     },
     {
-        "input": "*(platypus)",
+        "input": "* ( platypus )",
         "output": "sodwbsxv"
     },
     {
-        "input": "*(wallaby)",
+        "input": "* ( wallaby )",
         "output": "zdoodeb"
     },
     {
-        "input": "*(koala)",
+        "input": "* ( koala )",
         "output": "nrdod"
     },
     {
-        "input": "*(wombat)",
+        "input": "* ( wombat )",
         "output": "zrpedw"
     },
     {
-        "input": "*(jellyfish)",
+        "input": "* ( jellyfish )",
         "output": "mhoobilvk"
     },
     {
-        "input": "*(sea anemone)",
+        "input": "* ( sea anemone )",
         "output": "vhd dqhprqh"
     },
     {
-        "input": "*(brain coral)",
+        "input": "* ( brain coral )",
         "output": "eudlq frudo"
     },
     {
-        "input": "*(flatworm)",
+        "input": "* ( flatworm )",
         "output": "iodwzrup"
     },
     {
-        "input": "*(nematode)",
+        "input": "* ( nematode )",
         "output": "qhpdwrgh"
     },
     {
-        "input": "*(conch)",
+        "input": "* ( conch )",
         "output": "frqfk"
     },
     {
-        "input": "*(snail)",
+        "input": "* ( snail )",
         "output": "vqdlo"
     },
     {
-        "input": "*(slug)",
+        "input": "* ( slug )",
         "output": "voxj"
     },
     {
-        "input": "*(sea slug)",
+        "input": "* ( sea slug )",
         "output": "vhd voxj"
     },
     {
-        "input": "*(chiton)",
+        "input": "* ( chiton )",
         "output": "fklwrq"
     },
     {
-        "input": "*(chambered nautilus)",
+        "input": "* ( chambered nautilus )",
         "output": "fkdpehuhg qdxwloxv"
     },
     {
-        "input": "*(Dungeness crab)",
+        "input": "* ( Dungeness crab )",
         "output": "Gxqjhqhvv fude"
     },
     {
-        "input": "*(rock crab)",
+        "input": "* ( rock crab )",
         "output": "urfn fude"
     },
     {
-        "input": "*(fiddler crab)",
+        "input": "* ( fiddler crab )",
         "output": "ilggohu fude"
     },
     {
-        "input": "*(red king crab)",
+        "input": "* ( red king crab )",
         "output": "uhg nlqj fude"
     },
     {
-        "input": "*(American lobster)",
+        "input": "* ( American lobster )",
         "output": "Dphulfdq orevwhu"
     },
     {
-        "input": "*(spiny lobster)",
+        "input": "* ( spiny lobster )",
         "output": "vslqb orevwhu"
     },
     {
-        "input": "*(crayfish)",
+        "input": "* ( crayfish )",
         "output": "fudbilvk"
     },
     {
-        "input": "*(hermit crab)",
+        "input": "* ( hermit crab )",
         "output": "khuplw fude"
     },
     {
-        "input": "*(isopod)",
+        "input": "* ( isopod )",
         "output": "lvrsrg"
     },
     {
-        "input": "*(white stork)",
+        "input": "* ( white stork )",
         "output": "zklwh vwrun"
     },
     {
-        "input": "*(black stork)",
+        "input": "* ( black stork )",
         "output": "eodfn vwrun"
     },
     {
-        "input": "*(spoonbill)",
+        "input": "* ( spoonbill )",
         "output": "vsrrqeloo"
     },
     {
-        "input": "*(flamingo)",
+        "input": "* ( flamingo )",
         "output": "iodplqjr"
     },
     {
-        "input": "*(little blue heron)",
+        "input": "* ( little blue heron )",
         "output": "olwwoh eoxh khurq"
     },
     {
-        "input": "*(great egret)",
+        "input": "* ( great egret )",
         "output": "juhdw hjuhw"
     },
     {
-        "input": "*(bittern bird)",
+        "input": "* ( bittern bird )",
         "output": "elwwhuq elug"
     },
     {
-        "input": "*(crane bird)",
+        "input": "* ( crane bird )",
         "output": "fudqh elug"
     },
     {
-        "input": "*(limpkin)",
+        "input": "* ( limpkin )",
         "output": "olpsnlq"
     },
     {
-        "input": "*(common gallinule)",
+        "input": "* ( common gallinule )",
         "output": "frpprq jdoolqxoh"
     },
     {
-        "input": "*(American coot)",
+        "input": "* ( American coot )",
         "output": "Dphulfdq frrw"
     },
     {
-        "input": "*(bustard)",
+        "input": "* ( bustard )",
         "output": "exvwdug"
     },
     {
-        "input": "*(ruddy turnstone)",
+        "input": "* ( ruddy turnstone )",
         "output": "uxggb wxuqvwrqh"
     },
     {
-        "input": "*(dunlin)",
+        "input": "* ( dunlin )",
         "output": "gxqolq"
     },
     {
-        "input": "*(common redshank)",
+        "input": "* ( common redshank )",
         "output": "frpprq uhgvkdqn"
     },
     {
-        "input": "*(dowitcher)",
+        "input": "* ( dowitcher )",
         "output": "grzlwfkhu"
     },
     {
-        "input": "*(oystercatcher)",
+        "input": "* ( oystercatcher )",
         "output": "rbvwhufdwfkhu"
     },
     {
-        "input": "*(pelican)",
+        "input": "* ( pelican )",
         "output": "sholfdq"
     },
     {
-        "input": "*(king penguin)",
+        "input": "* ( king penguin )",
         "output": "nlqj shqjxlq"
     },
     {
-        "input": "*(albatross)",
+        "input": "* ( albatross )",
         "output": "doedwurvv"
     },
     {
-        "input": "*(grey whale)",
+        "input": "* ( grey whale )",
         "output": "juhb zkdoh"
     },
     {
-        "input": "*(killer whale)",
+        "input": "* ( killer whale )",
         "output": "nloohu zkdoh"
     },
     {
-        "input": "*(dugong)",
+        "input": "* ( dugong )",
         "output": "gxjrqj"
     },
     {
-        "input": "*(sea lion)",
+        "input": "* ( sea lion )",
         "output": "vhd olrq"
     },
     {
-        "input": "*(Chihuahua)",
+        "input": "* ( Chihuahua )",
         "output": "Fklkxdkxd"
     },
     {
-        "input": "*(Japanese Chin)",
+        "input": "* ( Japanese Chin )",
         "output": "Mdsdqhvh Fklq"
     },
     {
-        "input": "*(Maltese)",
+        "input": "* ( Maltese )",
         "output": "Pdowhvh"
     },
     {
-        "input": "*(Pekingese)",
+        "input": "* ( Pekingese )",
         "output": "Shnlqjhvh"
     },
     {
-        "input": "*(Shih Tzu)",
+        "input": "* ( Shih Tzu )",
         "output": "Vklk Wcx"
     },
     {
-        "input": "*(King Charles Spaniel)",
+        "input": "* ( King Charles Spaniel )",
         "output": "Nlqj Fkduohv Vsdqlho"
     },
     {
-        "input": "*(Papillon)",
+        "input": "* ( Papillon )",
         "output": "Sdsloorq"
     },
     {
-        "input": "*(toy terrier)",
+        "input": "* ( toy terrier )",
         "output": "wrb whuulhu"
     },
     {
-        "input": "*(Rhodesian Ridgeback)",
+        "input": "* ( Rhodesian Ridgeback )",
         "output": "Ukrghvldq Ulgjhedfn"
     },
     {
-        "input": "*(Afghan Hound)",
+        "input": "* ( Afghan Hound )",
         "output": "Dijkdq Krxqg"
     },
     {
-        "input": "*(Basset Hound)",
+        "input": "* ( Basset Hound )",
         "output": "Edvvhw Krxqg"
     },
     {
-        "input": "*(Beagle)",
+        "input": "* ( Beagle )",
         "output": "Ehdjoh"
     },
     {
-        "input": "*(Bloodhound)",
+        "input": "* ( Bloodhound )",
         "output": "Eorrgkrxqg"
     },
     {
-        "input": "*(Bluetick Coonhound)",
+        "input": "* ( Bluetick Coonhound )",
         "output": "Eoxhwlfn Frrqkrxqg"
     },
     {
-        "input": "*(Black and Tan Coonhound)",
+        "input": "* ( Black and Tan Coonhound )",
         "output": "Eodfn dqg Wdq Frrqkrxqg"
     },
     {
-        "input": "*(Treeing Walker Coonhound)",
+        "input": "* ( Treeing Walker Coonhound )",
         "output": "Wuhhlqj Zdonhu Frrqkrxqg"
     },
     {
-        "input": "*(English foxhound)",
+        "input": "* ( English foxhound )",
         "output": "Hqjolvk irakrxqg"
     },
     {
-        "input": "*(Redbone Coonhound)",
+        "input": "* ( Redbone Coonhound )",
         "output": "Uhgerqh Frrqkrxqg"
     },
     {
-        "input": "*(borzoi)",
+        "input": "* ( borzoi )",
         "output": "erucrl"
     },
     {
-        "input": "*(Irish Wolfhound)",
+        "input": "* ( Irish Wolfhound )",
         "output": "Lulvk Zroikrxqg"
     },
     {
-        "input": "*(Italian Greyhound)",
+        "input": "* ( Italian Greyhound )",
         "output": "Lwdoldq Juhbkrxqg"
     },
     {
-        "input": "*(Whippet)",
+        "input": "* ( Whippet )",
         "output": "Zklsshw"
     },
     {
-        "input": "*(Ibizan Hound)",
+        "input": "* ( Ibizan Hound )",
         "output": "Lelcdq Krxqg"
     },
     {
-        "input": "*(Norwegian Elkhound)",
+        "input": "* ( Norwegian Elkhound )",
         "output": "Qruzhjldq Honkrxqg"
     },
     {
-        "input": "*(Otterhound)",
+        "input": "* ( Otterhound )",
         "output": "Rwwhukrxqg"
     },
     {
-        "input": "*(Saluki)",
+        "input": "* ( Saluki )",
         "output": "Vdoxnl"
     },
     {
-        "input": "*(Scottish Deerhound)",
+        "input": "* ( Scottish Deerhound )",
         "output": "Vfrwwlvk Ghhukrxqg"
     },
     {
-        "input": "*(Weimaraner)",
+        "input": "* ( Weimaraner )",
         "output": "Zhlpdudqhu"
     },
     {
-        "input": "*(Staffordshire Bull Terrier)",
+        "input": "* ( Staffordshire Bull Terrier )",
         "output": "Vwdiirugvkluh Exoo Whuulhu"
     },
     {
-        "input": "*(American Staffordshire Terrier)",
+        "input": "* ( American Staffordshire Terrier )",
         "output": "Dphulfdq Vwdiirugvkluh Whuulhu"
     },
     {
-        "input": "*(Bedlington Terrier)",
+        "input": "* ( Bedlington Terrier )",
         "output": "Ehgolqjwrq Whuulhu"
     },
     {
-        "input": "*(Border Terrier)",
+        "input": "* ( Border Terrier )",
         "output": "Erughu Whuulhu"
     },
     {
-        "input": "*(Kerry Blue Terrier)",
+        "input": "* ( Kerry Blue Terrier )",
         "output": "Nhuub Eoxh Whuulhu"
     },
     {
-        "input": "*(Irish Terrier)",
+        "input": "* ( Irish Terrier )",
         "output": "Lulvk Whuulhu"
     },
     {
-        "input": "*(Norfolk Terrier)",
+        "input": "* ( Norfolk Terrier )",
         "output": "Qruiron Whuulhu"
     },
     {
-        "input": "*(Norwich Terrier)",
+        "input": "* ( Norwich Terrier )",
         "output": "Qruzlfk Whuulhu"
     },
     {
-        "input": "*(Yorkshire Terrier)",
+        "input": "* ( Yorkshire Terrier )",
         "output": "Brunvkluh Whuulhu"
     },
     {
-        "input": "*(Wire Fox Terrier)",
+        "input": "* ( Wire Fox Terrier )",
         "output": "Zluh Ira Whuulhu"
     },
     {
-        "input": "*(Lakeland Terrier)",
+        "input": "* ( Lakeland Terrier )",
         "output": "Odnhodqg Whuulhu"
     },
     {
-        "input": "*(Sealyham Terrier)",
+        "input": "* ( Sealyham Terrier )",
         "output": "Vhdobkdp Whuulhu"
     },
     {
-        "input": "*(Airedale Terrier)",
+        "input": "* ( Airedale Terrier )",
         "output": "Dluhgdoh Whuulhu"
     },
     {
-        "input": "*(Cairn Terrier)",
+        "input": "* ( Cairn Terrier )",
         "output": "Fdluq Whuulhu"
     },
     {
-        "input": "*(Australian Terrier)",
+        "input": "* ( Australian Terrier )",
         "output": "Dxvwudoldq Whuulhu"
     },
     {
-        "input": "*(Dandie Dinmont Terrier)",
+        "input": "* ( Dandie Dinmont Terrier )",
         "output": "Gdqglh Glqprqw Whuulhu"
     },
     {
-        "input": "*(Boston Terrier)",
+        "input": "* ( Boston Terrier )",
         "output": "Ervwrq Whuulhu"
     },
     {
-        "input": "*(Miniature Schnauzer)",
+        "input": "* ( Miniature Schnauzer )",
         "output": "Plqldwxuh Vfkqdxchu"
     },
     {
-        "input": "*(Giant Schnauzer)",
+        "input": "* ( Giant Schnauzer )",
         "output": "Jldqw Vfkqdxchu"
     },
     {
-        "input": "*(Standard Schnauzer)",
+        "input": "* ( Standard Schnauzer )",
         "output": "Vwdqgdug Vfkqdxchu"
     },
     {
-        "input": "*(Scottish Terrier)",
+        "input": "* ( Scottish Terrier )",
         "output": "Vfrwwlvk Whuulhu"
     },
     {
-        "input": "*(Tibetan Terrier)",
+        "input": "* ( Tibetan Terrier )",
         "output": "Wlehwdq Whuulhu"
     },
     {
-        "input": "*(Australian Silky Terrier)",
+        "input": "* ( Australian Silky Terrier )",
         "output": "Dxvwudoldq Vlonb Whuulhu"
     },
     {
-        "input": "*(Soft-coated Wheaten Terrier)",
+        "input": "* ( Soft-coated Wheaten Terrier )",
         "output": "Vriw-frdwhg Zkhdwhq Whuulhu"
     },
     {
-        "input": "*(West Highland White Terrier)",
+        "input": "* ( West Highland White Terrier )",
         "output": "Zhvw Kljkodqg Zklwh Whuulhu"
     },
     {
-        "input": "*(Lhasa Apso)",
+        "input": "* ( Lhasa Apso )",
         "output": "Okdvd Dsvr"
     },
     {
-        "input": "*(Flat-Coated Retriever)",
+        "input": "* ( Flat-Coated Retriever )",
         "output": "Iodw-Frdwhg Uhwulhyhu"
     },
     {
-        "input": "*(Curly-coated Retriever)",
+        "input": "* ( Curly-coated Retriever )",
         "output": "Fxuob-frdwhg Uhwulhyhu"
     },
     {
-        "input": "*(Golden Retriever)",
+        "input": "* ( Golden Retriever )",
         "output": "Jroghq Uhwulhyhu"
     },
     {
-        "input": "*(Labrador Retriever)",
+        "input": "* ( Labrador Retriever )",
         "output": "Odeudgru Uhwulhyhu"
     },
     {
-        "input": "*(Chesapeake Bay Retriever)",
+        "input": "* ( Chesapeake Bay Retriever )",
         "output": "Fkhvdshdnh Edb Uhwulhyhu"
     },
     {
-        "input": "*(German Shorthaired Pointer)",
+        "input": "* ( German Shorthaired Pointer )",
         "output": "Jhupdq Vkruwkdluhg Srlqwhu"
     },
     {
-        "input": "*(Vizsla)",
+        "input": "* ( Vizsla )",
         "output": "Ylcvod"
     },
     {
-        "input": "*(English Setter)",
+        "input": "* ( English Setter )",
         "output": "Hqjolvk Vhwwhu"
     },
     {
-        "input": "*(Irish Setter)",
+        "input": "* ( Irish Setter )",
         "output": "Lulvk Vhwwhu"
     },
     {
-        "input": "*(Gordon Setter)",
+        "input": "* ( Gordon Setter )",
         "output": "Jrugrq Vhwwhu"
     },
     {
-        "input": "*(Brittany dog)",
+        "input": "* ( Brittany dog )",
         "output": "Eulwwdqb grj"
     },
     {
-        "input": "*(Clumber Spaniel)",
+        "input": "* ( Clumber Spaniel )",
         "output": "Foxpehu Vsdqlho"
     },
     {
-        "input": "*(English Springer Spaniel)",
+        "input": "* ( English Springer Spaniel )",
         "output": "Hqjolvk Vsulqjhu Vsdqlho"
     },
     {
-        "input": "*(Welsh Springer Spaniel)",
+        "input": "* ( Welsh Springer Spaniel )",
         "output": "Zhovk Vsulqjhu Vsdqlho"
     },
     {
-        "input": "*(Cocker Spaniel)",
+        "input": "* ( Cocker Spaniel )",
         "output": "Frfnhu Vsdqlho"
     },
     {
-        "input": "*(Sussex Spaniel)",
+        "input": "* ( Sussex Spaniel )",
         "output": "Vxvvha Vsdqlho"
     },
     {
-        "input": "*(Irish Water Spaniel)",
+        "input": "* ( Irish Water Spaniel )",
         "output": "Lulvk Zdwhu Vsdqlho"
     },
     {
-        "input": "*(Kuvasz)",
+        "input": "* ( Kuvasz )",
         "output": "Nxydvc"
     },
     {
-        "input": "*(Schipperke)",
+        "input": "* ( Schipperke )",
         "output": "Vfklsshunh"
     },
     {
-        "input": "*(Groenendael dog)",
+        "input": "* ( Groenendael dog )",
         "output": "Jurhqhqgdho grj"
     },
     {
-        "input": "*(Malinois)",
+        "input": "* ( Malinois )",
         "output": "Pdolqrlv"
     },
     {
-        "input": "*(Briard)",
+        "input": "* ( Briard )",
         "output": "Euldug"
     },
     {
-        "input": "*(Australian Kelpie)",
+        "input": "* ( Australian Kelpie )",
         "output": "Dxvwudoldq Nhoslh"
     },
     {
-        "input": "*(Komondor)",
+        "input": "* ( Komondor )",
         "output": "Nrprqgru"
     },
     {
-        "input": "*(Old English Sheepdog)",
+        "input": "* ( Old English Sheepdog )",
         "output": "Rog Hqjolvk Vkhhsgrj"
     },
     {
-        "input": "*(Shetland Sheepdog)",
+        "input": "* ( Shetland Sheepdog )",
         "output": "Vkhwodqg Vkhhsgrj"
     },
     {
-        "input": "*(collie)",
+        "input": "* ( collie )",
         "output": "froolh"
     },
     {
-        "input": "*(Border Collie)",
+        "input": "* ( Border Collie )",
         "output": "Erughu Froolh"
     },
     {
-        "input": "*(Bouvier des Flandres dog)",
+        "input": "* ( Bouvier des Flandres dog )",
         "output": "Erxylhu ghv Iodqguhv grj"
     },
     {
-        "input": "*(Rottweiler)",
+        "input": "* ( Rottweiler )",
         "output": "Urwwzhlohu"
     },
     {
-        "input": "*(German Shepherd Dog)",
+        "input": "* ( German Shepherd Dog )",
         "output": "Jhupdq Vkhskhug Grj"
     },
     {
-        "input": "*(Dobermann)",
+        "input": "* ( Dobermann )",
         "output": "Grehupdqq"
     },
     {
-        "input": "*(Miniature Pinscher)",
+        "input": "* ( Miniature Pinscher )",
         "output": "Plqldwxuh Slqvfkhu"
     },
     {
-        "input": "*(Greater Swiss Mountain Dog)",
+        "input": "* ( Greater Swiss Mountain Dog )",
         "output": "Juhdwhu Vzlvv Prxqwdlq Grj"
     },
     {
-        "input": "*(Bernese Mountain Dog)",
+        "input": "* ( Bernese Mountain Dog )",
         "output": "Ehuqhvh Prxqwdlq Grj"
     },
     {
-        "input": "*(Appenzeller Sennenhund)",
+        "input": "* ( Appenzeller Sennenhund )",
         "output": "Dsshqchoohu Vhqqhqkxqg"
     },
     {
-        "input": "*(Entlebucher Sennenhund)",
+        "input": "* ( Entlebucher Sennenhund )",
         "output": "Hqwohexfkhu Vhqqhqkxqg"
     },
     {
-        "input": "*(Boxer)",
+        "input": "* ( Boxer )",
         "output": "Erahu"
     },
     {
-        "input": "*(Bullmastiff)",
+        "input": "* ( Bullmastiff )",
         "output": "Exoopdvwlii"
     },
     {
-        "input": "*(Tibetan Mastiff)",
+        "input": "* ( Tibetan Mastiff )",
         "output": "Wlehwdq Pdvwlii"
     },
     {
-        "input": "*(French Bulldog)",
+        "input": "* ( French Bulldog )",
         "output": "Iuhqfk Exoogrj"
     },
     {
-        "input": "*(Great Dane)",
+        "input": "* ( Great Dane )",
         "output": "Juhdw Gdqh"
     },
     {
-        "input": "*(St. Bernard)",
+        "input": "* ( St. Bernard )",
         "output": "Vw. Ehuqdug"
     },
     {
-        "input": "*(husky)",
+        "input": "* ( husky )",
         "output": "kxvnb"
     },
     {
-        "input": "*(Alaskan Malamute)",
+        "input": "* ( Alaskan Malamute )",
         "output": "Dodvndq Pdodpxwh"
     },
     {
-        "input": "*(Siberian Husky)",
+        "input": "* ( Siberian Husky )",
         "output": "Vlehuldq Kxvnb"
     },
     {
-        "input": "*(Dalmatian)",
+        "input": "* ( Dalmatian )",
         "output": "Gdopdwldq"
     },
     {
-        "input": "*(Affenpinscher)",
+        "input": "* ( Affenpinscher )",
         "output": "Diihqslqvfkhu"
     },
     {
-        "input": "*(Basenji)",
+        "input": "* ( Basenji )",
         "output": "Edvhqml"
     },
     {
-        "input": "*(pug)",
+        "input": "* ( pug )",
         "output": "sxj"
     },
     {
-        "input": "*(Leonberger)",
+        "input": "* ( Leonberger )",
         "output": "Ohrqehujhu"
     },
     {
-        "input": "*(Newfoundland dog)",
+        "input": "* ( Newfoundland dog )",
         "output": "Qhzirxqgodqg grj"
     },
     {
-        "input": "*(Great Pyrenees dog)",
+        "input": "* ( Great Pyrenees dog )",
         "output": "Juhdw Sbuhqhhv grj"
     },
     {
-        "input": "*(Samoyed)",
+        "input": "* ( Samoyed )",
         "output": "Vdprbhg"
     },
     {
-        "input": "*(Pomeranian)",
+        "input": "* ( Pomeranian )",
         "output": "Srphudqldq"
     },
     {
-        "input": "*(Chow Chow)",
+        "input": "* ( Chow Chow )",
         "output": "Fkrz Fkrz"
     },
     {
-        "input": "*(Keeshond)",
+        "input": "* ( Keeshond )",
         "output": "Nhhvkrqg"
     },
     {
-        "input": "*(brussels griffon)",
+        "input": "* ( brussels griffon )",
         "output": "euxvvhov juliirq"
     },
     {
-        "input": "*(Pembroke Welsh Corgi)",
+        "input": "* ( Pembroke Welsh Corgi )",
         "output": "Shpeurnh Zhovk Frujl"
     },
     {
-        "input": "*(Cardigan Welsh Corgi)",
+        "input": "* ( Cardigan Welsh Corgi )",
         "output": "Fdugljdq Zhovk Frujl"
     },
     {
-        "input": "*(Toy Poodle)",
+        "input": "* ( Toy Poodle )",
         "output": "Wrb Srrgoh"
     },
     {
-        "input": "*(Miniature Poodle)",
+        "input": "* ( Miniature Poodle )",
         "output": "Plqldwxuh Srrgoh"
     },
     {
-        "input": "*(Standard Poodle)",
+        "input": "* ( Standard Poodle )",
         "output": "Vwdqgdug Srrgoh"
     },
     {
-        "input": "*(Mexican hairless dog (xoloitzcuintli))",
+        "input": "* ( Mexican hairless dog (xoloitzcuintli) )",
         "output": "Phalfdq kdluohvv grj (arorlwcfxlqwol)"
     },
     {
-        "input": "*(grey wolf)",
+        "input": "* ( grey wolf )",
         "output": "juhb zroi"
     },
     {
-        "input": "*(Alaskan tundra wolf)",
+        "input": "* ( Alaskan tundra wolf )",
         "output": "Dodvndq wxqgud zroi"
     },
     {
-        "input": "*(red wolf or maned wolf)",
+        "input": "* ( red wolf or maned wolf )",
         "output": "uhg zroi ru pdqhg zroi"
     },
     {
-        "input": "*(coyote)",
+        "input": "* ( coyote )",
         "output": "frbrwh"
     },
     {
-        "input": "*(dingo)",
+        "input": "* ( dingo )",
         "output": "glqjr"
     },
     {
-        "input": "*(dhole)",
+        "input": "* ( dhole )",
         "output": "gkroh"
     },
     {
-        "input": "*(African wild dog)",
+        "input": "* ( African wild dog )",
         "output": "Diulfdq zlog grj"
     },
     {
-        "input": "*(hyena)",
+        "input": "* ( hyena )",
         "output": "kbhqd"
     },
     {
-        "input": "*(red fox)",
+        "input": "* ( red fox )",
         "output": "uhg ira"
     },
     {
-        "input": "*(kit fox)",
+        "input": "* ( kit fox )",
         "output": "nlw ira"
     },
     {
-        "input": "*(Arctic fox)",
+        "input": "* ( Arctic fox )",
         "output": "Dufwlf ira"
     },
     {
-        "input": "*(grey fox)",
+        "input": "* ( grey fox )",
         "output": "juhb ira"
     },
     {
-        "input": "*(tabby cat)",
+        "input": "* ( tabby cat )",
         "output": "wdeeb fdw"
     },
     {
-        "input": "*(tiger cat)",
+        "input": "* ( tiger cat )",
         "output": "wljhu fdw"
     },
     {
-        "input": "*(Persian cat)",
+        "input": "* ( Persian cat )",
         "output": "Shuvldq fdw"
     },
     {
-        "input": "*(Siamese cat)",
+        "input": "* ( Siamese cat )",
         "output": "Vldphvh fdw"
     },
     {
-        "input": "*(Egyptian Mau)",
+        "input": "* ( Egyptian Mau )",
         "output": "Hjbswldq Pdx"
     },
     {
-        "input": "*(cougar)",
+        "input": "* ( cougar )",
         "output": "frxjdu"
     },
     {
-        "input": "*(lynx)",
+        "input": "* ( lynx )",
         "output": "obqa"
     },
     {
-        "input": "*(leopard)",
+        "input": "* ( leopard )",
         "output": "ohrsdug"
     },
     {
-        "input": "*(snow leopard)",
+        "input": "* ( snow leopard )",
         "output": "vqrz ohrsdug"
     },
     {
-        "input": "*(jaguar)",
+        "input": "* ( jaguar )",
         "output": "mdjxdu"
     },
     {
-        "input": "*(lion)",
+        "input": "* ( lion )",
         "output": "olrq"
     },
     {
-        "input": "*(tiger)",
+        "input": "* ( tiger )",
         "output": "wljhu"
     },
     {
-        "input": "*(cheetah)",
+        "input": "* ( cheetah )",
         "output": "fkhhwdk"
     },
     {
-        "input": "*(brown bear)",
+        "input": "* ( brown bear )",
         "output": "eurzq ehdu"
     },
     {
-        "input": "*(American black bear)",
+        "input": "* ( American black bear )",
         "output": "Dphulfdq eodfn ehdu"
     },
     {
-        "input": "*(polar bear)",
+        "input": "* ( polar bear )",
         "output": "srodu ehdu"
     },
     {
-        "input": "*(sloth bear)",
+        "input": "* ( sloth bear )",
         "output": "vorwk ehdu"
     },
     {
-        "input": "*(mongoose)",
+        "input": "* ( mongoose )",
         "output": "prqjrrvh"
     },
     {
-        "input": "*(meerkat)",
+        "input": "* ( meerkat )",
         "output": "phhundw"
     },
     {
-        "input": "*(tiger beetle)",
+        "input": "* ( tiger beetle )",
         "output": "wljhu ehhwoh"
     },
     {
-        "input": "*(ladybug)",
+        "input": "* ( ladybug )",
         "output": "odgbexj"
     },
     {
-        "input": "*(ground beetle)",
+        "input": "* ( ground beetle )",
         "output": "jurxqg ehhwoh"
     },
     {
-        "input": "*(longhorn beetle)",
+        "input": "* ( longhorn beetle )",
         "output": "orqjkruq ehhwoh"
     },
     {
-        "input": "*(leaf beetle)",
+        "input": "* ( leaf beetle )",
         "output": "ohdi ehhwoh"
     },
     {
-        "input": "*(dung beetle)",
+        "input": "* ( dung beetle )",
         "output": "gxqj ehhwoh"
     },
     {
-        "input": "*(rhinoceros beetle)",
+        "input": "* ( rhinoceros beetle )",
         "output": "uklqrfhurv ehhwoh"
     },
     {
-        "input": "*(weevil)",
+        "input": "* ( weevil )",
         "output": "zhhylo"
     },
     {
-        "input": "*(fly)",
+        "input": "* ( fly )",
         "output": "iob"
     },
     {
-        "input": "*(bee)",
+        "input": "* ( bee )",
         "output": "ehh"
     },
     {
-        "input": "*(ant)",
+        "input": "* ( ant )",
         "output": "dqw"
     },
     {
-        "input": "*(grasshopper)",
+        "input": "* ( grasshopper )",
         "output": "judvvkrsshu"
     },
     {
-        "input": "*(cricket insect)",
+        "input": "* ( cricket insect )",
         "output": "fulfnhw lqvhfw"
     },
     {
-        "input": "*(stick insect)",
+        "input": "* ( stick insect )",
         "output": "vwlfn lqvhfw"
     },
     {
-        "input": "*(cockroach)",
+        "input": "* ( cockroach )",
         "output": "frfnurdfk"
     },
     {
-        "input": "*(praying mantis)",
+        "input": "* ( praying mantis )",
         "output": "sudblqj pdqwlv"
     },
     {
-        "input": "*(cicada)",
+        "input": "* ( cicada )",
         "output": "flfdgd"
     },
     {
-        "input": "*(leafhopper)",
+        "input": "* ( leafhopper )",
         "output": "ohdikrsshu"
     },
     {
-        "input": "*(lacewing)",
+        "input": "* ( lacewing )",
         "output": "odfhzlqj"
     },
     {
-        "input": "*(dragonfly)",
+        "input": "* ( dragonfly )",
         "output": "gudjrqiob"
     },
     {
-        "input": "*(damselfly)",
+        "input": "* ( damselfly )",
         "output": "gdpvhoiob"
     },
     {
-        "input": "*(red admiral butterfly)",
+        "input": "* ( red admiral butterfly )",
         "output": "uhg dgpludo exwwhuiob"
     },
     {
-        "input": "*(ringlet butterfly)",
+        "input": "* ( ringlet butterfly )",
         "output": "ulqjohw exwwhuiob"
     },
     {
-        "input": "*(monarch butterfly)",
+        "input": "* ( monarch butterfly )",
         "output": "prqdufk exwwhuiob"
     },
     {
-        "input": "*(small white butterfly)",
+        "input": "* ( small white butterfly )",
         "output": "vpdoo zklwh exwwhuiob"
     },
     {
-        "input": "*(sulphur butterfly)",
+        "input": "* ( sulphur butterfly )",
         "output": "vxoskxu exwwhuiob"
     },
     {
-        "input": "*(gossamer-winged butterfly)",
+        "input": "* ( gossamer-winged butterfly )",
         "output": "jrvvdphu-zlqjhg exwwhuiob"
     },
     {
-        "input": "*(starfish)",
+        "input": "* ( starfish )",
         "output": "vwduilvk"
     },
     {
-        "input": "*(sea urchin)",
+        "input": "* ( sea urchin )",
         "output": "vhd xufklq"
     },
     {
-        "input": "*(sea cucumber)",
+        "input": "* ( sea cucumber )",
         "output": "vhd fxfxpehu"
     },
     {
-        "input": "*(cottontail rabbit)",
+        "input": "* ( cottontail rabbit )",
         "output": "frwwrqwdlo udeelw"
     },
     {
-        "input": "*(hare)",
+        "input": "* ( hare )",
         "output": "kduh"
     },
     {
-        "input": "*(Angora rabbit)",
+        "input": "* ( Angora rabbit )",
         "output": "Dqjrud udeelw"
     },
     {
-        "input": "*(hamster)",
+        "input": "* ( hamster )",
         "output": "kdpvwhu"
     },
     {
-        "input": "*(porcupine)",
+        "input": "* ( porcupine )",
         "output": "srufxslqh"
     },
     {
-        "input": "*(fox squirrel)",
+        "input": "* ( fox squirrel )",
         "output": "ira vtxluuho"
     },
     {
-        "input": "*(marmot)",
+        "input": "* ( marmot )",
         "output": "pduprw"
     },
     {
-        "input": "*(beaver)",
+        "input": "* ( beaver )",
         "output": "ehdyhu"
     },
     {
-        "input": "*(guinea pig)",
+        "input": "* ( guinea pig )",
         "output": "jxlqhd slj"
     },
     {
-        "input": "*(common sorrel horse)",
+        "input": "* ( common sorrel horse )",
         "output": "frpprq vruuho kruvh"
     },
     {
-        "input": "*(zebra)",
+        "input": "* ( zebra )",
         "output": "cheud"
     },
     {
-        "input": "*(pig)",
+        "input": "* ( pig )",
         "output": "slj"
     },
     {
-        "input": "*(wild boar)",
+        "input": "* ( wild boar )",
         "output": "zlog erdu"
     },
     {
-        "input": "*(warthog)",
+        "input": "* ( warthog )",
         "output": "zduwkrj"
     },
     {
-        "input": "*(hippopotamus)",
+        "input": "* ( hippopotamus )",
         "output": "klssrsrwdpxv"
     },
     {
-        "input": "*(ox)",
+        "input": "* ( ox )",
         "output": "ra"
     },
     {
-        "input": "*(water buffalo)",
+        "input": "* ( water buffalo )",
         "output": "zdwhu exiidor"
     },
     {
-        "input": "*(bison)",
+        "input": "* ( bison )",
         "output": "elvrq"
     },
     {
-        "input": "*(ram (adult male sheep))",
+        "input": "* ( ram (adult male sheep) )",
         "output": "udp (dgxow pdoh vkhhs)"
     },
     {
-        "input": "*(bighorn sheep)",
+        "input": "* ( bighorn sheep )",
         "output": "eljkruq vkhhs"
     },
     {
-        "input": "*(Alpine ibex)",
+        "input": "* ( Alpine ibex )",
         "output": "Doslqh leha"
     },
     {
-        "input": "*(hartebeest)",
+        "input": "* ( hartebeest )",
         "output": "kduwhehhvw"
     },
     {
-        "input": "*(impala (antelope))",
+        "input": "* ( impala (antelope) )",
         "output": "lpsdod (dqwhorsh)"
     },
     {
-        "input": "*(gazelle)",
+        "input": "* ( gazelle )",
         "output": "jdchooh"
     },
     {
-        "input": "*(arabian camel)",
+        "input": "* ( arabian camel )",
         "output": "dudeldq fdpho"
     },
     {
-        "input": "*(llama)",
+        "input": "* ( llama )",
         "output": "oodpd"
     },
     {
-        "input": "*(weasel)",
+        "input": "* ( weasel )",
         "output": "zhdvho"
     },
     {
-        "input": "*(mink)",
+        "input": "* ( mink )",
         "output": "plqn"
     },
     {
-        "input": "*(European polecat)",
+        "input": "* ( European polecat )",
         "output": "Hxurshdq srohfdw"
     },
     {
-        "input": "*(black-footed ferret)",
+        "input": "* ( black-footed ferret )",
         "output": "eodfn-irrwhg ihuuhw"
     },
     {
-        "input": "*(otter)",
+        "input": "* ( otter )",
         "output": "rwwhu"
     },
     {
-        "input": "*(skunk)",
+        "input": "* ( skunk )",
         "output": "vnxqn"
     },
     {
-        "input": "*(badger)",
+        "input": "* ( badger )",
         "output": "edgjhu"
     },
     {
-        "input": "*(armadillo)",
+        "input": "* ( armadillo )",
         "output": "dupdgloor"
     },
     {
-        "input": "*(three-toed sloth)",
+        "input": "* ( three-toed sloth )",
         "output": "wkuhh-wrhg vorwk"
     },
     {
-        "input": "*(orangutan)",
+        "input": "* ( orangutan )",
         "output": "rudqjxwdq"
     },
     {
-        "input": "*(gorilla)",
+        "input": "* ( gorilla )",
         "output": "jrulood"
     },
     {
-        "input": "*(chimpanzee)",
+        "input": "* ( chimpanzee )",
         "output": "fklpsdqchh"
     },
     {
-        "input": "*(gibbon)",
+        "input": "* ( gibbon )",
         "output": "jleerq"
     },
     {
-        "input": "*(siamang)",
+        "input": "* ( siamang )",
         "output": "vldpdqj"
     },
     {
-        "input": "*(guenon)",
+        "input": "* ( guenon )",
         "output": "jxhqrq"
     },
     {
-        "input": "*(patas monkey)",
+        "input": "* ( patas monkey )",
         "output": "sdwdv prqnhb"
     },
     {
-        "input": "*(baboon)",
+        "input": "* ( baboon )",
         "output": "ederrq"
     },
     {
-        "input": "*(macaque)",
+        "input": "* ( macaque )",
         "output": "pdfdtxh"
     },
     {
-        "input": "*(langur)",
+        "input": "* ( langur )",
         "output": "odqjxu"
     },
     {
-        "input": "*(black-and-white colobus)",
+        "input": "* ( black-and-white colobus )",
         "output": "eodfn-dqg-zklwh frorexv"
     },
     {
-        "input": "*(proboscis monkey)",
+        "input": "* ( proboscis monkey )",
         "output": "surervflv prqnhb"
     },
     {
-        "input": "*(marmoset)",
+        "input": "* ( marmoset )",
         "output": "pduprvhw"
     },
     {
-        "input": "*(white-headed capuchin)",
+        "input": "* ( white-headed capuchin )",
         "output": "zklwh-khdghg fdsxfklq"
     },
     {
-        "input": "*(howler monkey)",
+        "input": "* ( howler monkey )",
         "output": "krzohu prqnhb"
     },
     {
-        "input": "*(titi monkey)",
+        "input": "* ( titi monkey )",
         "output": "wlwl prqnhb"
     },
     {
-        "input": "*(Geoffroy's spider monkey)",
+        "input": "* ( Geoffroy's spider monkey )",
         "output": "Jhriiurb'v vslghu prqnhb"
     },
     {
-        "input": "*(common squirrel monkey)",
+        "input": "* ( common squirrel monkey )",
         "output": "frpprq vtxluuho prqnhb"
     },
     {
-        "input": "*(ring-tailed lemur)",
+        "input": "* ( ring-tailed lemur )",
         "output": "ulqj-wdlohg ohpxu"
     },
     {
-        "input": "*(indri)",
+        "input": "* ( indri )",
         "output": "lqgul"
     },
     {
-        "input": "*(Asian elephant)",
+        "input": "* ( Asian elephant )",
         "output": "Dvldq hohskdqw"
     },
     {
-        "input": "*(African bush elephant)",
+        "input": "* ( African bush elephant )",
         "output": "Diulfdq exvk hohskdqw"
     },
     {
-        "input": "*(red panda)",
+        "input": "* ( red panda )",
         "output": "uhg sdqgd"
     },
     {
-        "input": "*(giant panda)",
+        "input": "* ( giant panda )",
         "output": "jldqw sdqgd"
     },
     {
-        "input": "*(snoek fish)",
+        "input": "* ( snoek fish )",
         "output": "vqrhn ilvk"
     },
     {
-        "input": "*(eel)",
+        "input": "* ( eel )",
         "output": "hho"
     },
     {
-        "input": "*(silver salmon)",
+        "input": "* ( silver salmon )",
         "output": "vloyhu vdoprq"
     },
     {
-        "input": "*(rock beauty fish)",
+        "input": "* ( rock beauty fish )",
         "output": "urfn ehdxwb ilvk"
     },
     {
-        "input": "*(clownfish)",
+        "input": "* ( clownfish )",
         "output": "forzqilvk"
     },
     {
-        "input": "*(sturgeon)",
+        "input": "* ( sturgeon )",
         "output": "vwxujhrq"
     },
     {
-        "input": "*(gar fish)",
+        "input": "* ( gar fish )",
         "output": "jdu ilvk"
     },
     {
-        "input": "*(lionfish)",
+        "input": "* ( lionfish )",
         "output": "olrqilvk"
     },
     {
-        "input": "*(pufferfish)",
+        "input": "* ( pufferfish )",
         "output": "sxiihuilvk"
     },
     {
-        "input": "*(abacus)",
+        "input": "* ( abacus )",
         "output": "dedfxv"
     },
     {
-        "input": "*(abaya)",
+        "input": "* ( abaya )",
         "output": "dedbd"
     },
     {
-        "input": "*(academic gown)",
+        "input": "* ( academic gown )",
         "output": "dfdghplf jrzq"
     },
     {
-        "input": "*(accordion)",
+        "input": "* ( accordion )",
         "output": "dffruglrq"
     },
     {
-        "input": "*(acoustic guitar)",
+        "input": "* ( acoustic guitar )",
         "output": "dfrxvwlf jxlwdu"
     },
     {
-        "input": "*(aircraft carrier)",
+        "input": "* ( aircraft carrier )",
         "output": "dlufudiw fduulhu"
     },
     {
-        "input": "*(airliner)",
+        "input": "* ( airliner )",
         "output": "dluolqhu"
     },
     {
-        "input": "*(airship)",
+        "input": "* ( airship )",
         "output": "dluvkls"
     },
     {
-        "input": "*(altar)",
+        "input": "* ( altar )",
         "output": "dowdu"
     },
     {
-        "input": "*(ambulance)",
+        "input": "* ( ambulance )",
         "output": "dpexodqfh"
     },
     {
-        "input": "*(amphibious vehicle)",
+        "input": "* ( amphibious vehicle )",
         "output": "dpsklelrxv yhklfoh"
     },
     {
-        "input": "*(analog clock)",
+        "input": "* ( analog clock )",
         "output": "dqdorj forfn"
     },
     {
-        "input": "*(apiary)",
+        "input": "* ( apiary )",
         "output": "dsldub"
     },
     {
-        "input": "*(apron)",
+        "input": "* ( apron )",
         "output": "dsurq"
     },
     {
-        "input": "*(trash can)",
+        "input": "* ( trash can )",
         "output": "wudvk fdq"
     },
     {
-        "input": "*(assault rifle)",
+        "input": "* ( assault rifle )",
         "output": "dvvdxow ulioh"
     },
     {
-        "input": "*(backpack)",
+        "input": "* ( backpack )",
         "output": "edfnsdfn"
     },
     {
-        "input": "*(bakery)",
+        "input": "* ( bakery )",
         "output": "ednhub"
     },
     {
-        "input": "*(balance beam)",
+        "input": "* ( balance beam )",
         "output": "edodqfh ehdp"
     },
     {
-        "input": "*(balloon)",
+        "input": "* ( balloon )",
         "output": "edoorrq"
     },
     {
-        "input": "*(ballpoint pen)",
+        "input": "* ( ballpoint pen )",
         "output": "edoosrlqw shq"
     },
     {
-        "input": "*(Band-Aid)",
+        "input": "* ( Band-Aid )",
         "output": "Edqg-Dlg"
     },
     {
-        "input": "*(banjo)",
+        "input": "* ( banjo )",
         "output": "edqmr"
     },
     {
-        "input": "*(baluster / handrail)",
+        "input": "* ( baluster / handrail )",
         "output": "edoxvwhu / kdqgudlo"
     },
     {
-        "input": "*(barbell)",
+        "input": "* ( barbell )",
         "output": "eduehoo"
     },
     {
-        "input": "*(barber chair)",
+        "input": "* ( barber chair )",
         "output": "eduehu fkdlu"
     },
     {
-        "input": "*(barbershop)",
+        "input": "* ( barbershop )",
         "output": "eduehuvkrs"
     },
     {
-        "input": "*(barn)",
+        "input": "* ( barn )",
         "output": "eduq"
     },
     {
-        "input": "*(barometer)",
+        "input": "* ( barometer )",
         "output": "edurphwhu"
     },
     {
-        "input": "*(barrel)",
+        "input": "* ( barrel )",
         "output": "eduuho"
     },
     {
-        "input": "*(wheelbarrow)",
+        "input": "* ( wheelbarrow )",
         "output": "zkhhoeduurz"
     },
     {
-        "input": "*(baseball)",
+        "input": "* ( baseball )",
         "output": "edvhedoo"
     },
     {
-        "input": "*(basketball)",
+        "input": "* ( basketball )",
         "output": "edvnhwedoo"
     },
     {
-        "input": "*(bassinet)",
+        "input": "* ( bassinet )",
         "output": "edvvlqhw"
     },
     {
-        "input": "*(bassoon)",
+        "input": "* ( bassoon )",
         "output": "edvvrrq"
     },
     {
-        "input": "*(swimming cap)",
+        "input": "* ( swimming cap )",
         "output": "vzlpplqj fds"
     },
     {
-        "input": "*(bath towel)",
+        "input": "* ( bath towel )",
         "output": "edwk wrzho"
     },
     {
-        "input": "*(bathtub)",
+        "input": "* ( bathtub )",
         "output": "edwkwxe"
     },
     {
-        "input": "*(station wagon)",
+        "input": "* ( station wagon )",
         "output": "vwdwlrq zdjrq"
     },
     {
-        "input": "*(lighthouse)",
+        "input": "* ( lighthouse )",
         "output": "oljkwkrxvh"
     },
     {
-        "input": "*(beaker)",
+        "input": "* ( beaker )",
         "output": "ehdnhu"
     },
     {
-        "input": "*(military hat (bearskin or shako))",
+        "input": "* ( military hat (bearskin or shako) )",
         "output": "plolwdub kdw (ehduvnlq ru vkdnr)"
     },
     {
-        "input": "*(beer bottle)",
+        "input": "* ( beer bottle )",
         "output": "ehhu erwwoh"
     },
     {
-        "input": "*(beer glass)",
+        "input": "* ( beer glass )",
         "output": "ehhu jodvv"
     },
     {
-        "input": "*(bell tower)",
+        "input": "* ( bell tower )",
         "output": "ehoo wrzhu"
     },
     {
-        "input": "*(baby bib)",
+        "input": "* ( baby bib )",
         "output": "edeb ele"
     },
     {
-        "input": "*(tandem bicycle)",
+        "input": "* ( tandem bicycle )",
         "output": "wdqghp elfbfoh"
     },
     {
-        "input": "*(bikini)",
+        "input": "* ( bikini )",
         "output": "elnlql"
     },
     {
-        "input": "*(ring binder)",
+        "input": "* ( ring binder )",
         "output": "ulqj elqghu"
     },
     {
-        "input": "*(binoculars)",
+        "input": "* ( binoculars )",
         "output": "elqrfxoduv"
     },
     {
-        "input": "*(birdhouse)",
+        "input": "* ( birdhouse )",
         "output": "elugkrxvh"
     },
     {
-        "input": "*(boathouse)",
+        "input": "* ( boathouse )",
         "output": "erdwkrxvh"
     },
     {
-        "input": "*(bobsleigh)",
+        "input": "* ( bobsleigh )",
         "output": "erevohljk"
     },
     {
-        "input": "*(bolo tie)",
+        "input": "* ( bolo tie )",
         "output": "eror wlh"
     },
     {
-        "input": "*(poke bonnet)",
+        "input": "* ( poke bonnet )",
         "output": "srnh erqqhw"
     },
     {
-        "input": "*(bookcase)",
+        "input": "* ( bookcase )",
         "output": "errnfdvh"
     },
     {
-        "input": "*(bookstore)",
+        "input": "* ( bookstore )",
         "output": "errnvwruh"
     },
     {
-        "input": "*(bottle cap)",
+        "input": "* ( bottle cap )",
         "output": "erwwoh fds"
     },
     {
-        "input": "*(hunting bow)",
+        "input": "* ( hunting bow )",
         "output": "kxqwlqj erz"
     },
     {
-        "input": "*(bow tie)",
+        "input": "* ( bow tie )",
         "output": "erz wlh"
     },
     {
-        "input": "*(brass memorial plaque)",
+        "input": "* ( brass memorial plaque )",
         "output": "eudvv phpruldo sodtxh"
     },
     {
-        "input": "*(bra)",
+        "input": "* ( bra )",
         "output": "eud"
     },
     {
-        "input": "*(breakwater)",
+        "input": "* ( breakwater )",
         "output": "euhdnzdwhu"
     },
     {
-        "input": "*(breastplate)",
+        "input": "* ( breastplate )",
         "output": "euhdvwsodwh"
     },
     {
-        "input": "*(broom)",
+        "input": "* ( broom )",
         "output": "eurrp"
     },
     {
-        "input": "*(bucket)",
+        "input": "* ( bucket )",
         "output": "exfnhw"
     },
     {
-        "input": "*(buckle)",
+        "input": "* ( buckle )",
         "output": "exfnoh"
     },
     {
-        "input": "*(bulletproof vest)",
+        "input": "* ( bulletproof vest )",
         "output": "exoohwsurri yhvw"
     },
     {
-        "input": "*(high-speed train)",
+        "input": "* ( high-speed train )",
         "output": "kljk-vshhg wudlq"
     },
     {
-        "input": "*(butcher shop)",
+        "input": "* ( butcher shop )",
         "output": "exwfkhu vkrs"
     },
     {
-        "input": "*(taxicab)",
+        "input": "* ( taxicab )",
         "output": "wdalfde"
     },
     {
-        "input": "*(cauldron)",
+        "input": "* ( cauldron )",
         "output": "fdxogurq"
     },
     {
-        "input": "*(candle)",
+        "input": "* ( candle )",
         "output": "fdqgoh"
     },
     {
-        "input": "*(cannon)",
+        "input": "* ( cannon )",
         "output": "fdqqrq"
     },
     {
-        "input": "*(canoe)",
+        "input": "* ( canoe )",
         "output": "fdqrh"
     },
     {
-        "input": "*(can opener)",
+        "input": "* ( can opener )",
         "output": "fdq rshqhu"
     },
     {
-        "input": "*(cardigan)",
+        "input": "* ( cardigan )",
         "output": "fdugljdq"
     },
     {
-        "input": "*(car mirror)",
+        "input": "* ( car mirror )",
         "output": "fdu pluuru"
     },
     {
-        "input": "*(carousel)",
+        "input": "* ( carousel )",
         "output": "fdurxvho"
     },
     {
-        "input": "*(tool kit)",
+        "input": "* ( tool kit )",
         "output": "wrro nlw"
     },
     {
-        "input": "*(cardboard box / carton)",
+        "input": "* ( cardboard box / carton )",
         "output": "fdugerdug era / fduwrq"
     },
     {
-        "input": "*(car wheel)",
+        "input": "* ( car wheel )",
         "output": "fdu zkhho"
     },
     {
-        "input": "*(automated teller machine)",
+        "input": "* ( automated teller machine )",
         "output": "dxwrpdwhg whoohu pdfklqh"
     },
     {
-        "input": "*(cassette)",
+        "input": "* ( cassette )",
         "output": "fdvvhwwh"
     },
     {
-        "input": "*(cassette player)",
+        "input": "* ( cassette player )",
         "output": "fdvvhwwh sodbhu"
     },
     {
-        "input": "*(castle)",
+        "input": "* ( castle )",
         "output": "fdvwoh"
     },
     {
-        "input": "*(catamaran)",
+        "input": "* ( catamaran )",
         "output": "fdwdpdudq"
     },
     {
-        "input": "*(CD player)",
+        "input": "* ( CD player )",
         "output": "FG sodbhu"
     },
     {
-        "input": "*(cello)",
+        "input": "* ( cello )",
         "output": "fhoor"
     },
     {
-        "input": "*(mobile phone)",
+        "input": "* ( mobile phone )",
         "output": "preloh skrqh"
     },
     {
-        "input": "*(chain)",
+        "input": "* ( chain )",
         "output": "fkdlq"
     },
     {
-        "input": "*(chain-link fence)",
+        "input": "* ( chain-link fence )",
         "output": "fkdlq-olqn ihqfh"
     },
     {
-        "input": "*(chain mail)",
+        "input": "* ( chain mail )",
         "output": "fkdlq pdlo"
     },
     {
-        "input": "*(chainsaw)",
+        "input": "* ( chainsaw )",
         "output": "fkdlqvdz"
     },
     {
-        "input": "*(storage chest)",
+        "input": "* ( storage chest )",
         "output": "vwrudjh fkhvw"
     },
     {
-        "input": "*(chiffonier)",
+        "input": "* ( chiffonier )",
         "output": "fkliirqlhu"
     },
     {
-        "input": "*(bell or wind chime)",
+        "input": "* ( bell or wind chime )",
         "output": "ehoo ru zlqg fklph"
     },
     {
-        "input": "*(china cabinet)",
+        "input": "* ( china cabinet )",
         "output": "fklqd fdelqhw"
     },
     {
-        "input": "*(Christmas stocking)",
+        "input": "* ( Christmas stocking )",
         "output": "Fkulvwpdv vwrfnlqj"
     },
     {
-        "input": "*(church)",
+        "input": "* ( church )",
         "output": "fkxufk"
     },
     {
-        "input": "*(movie theater)",
+        "input": "* ( movie theater )",
         "output": "prylh wkhdwhu"
     },
     {
-        "input": "*(cleaver)",
+        "input": "* ( cleaver )",
         "output": "fohdyhu"
     },
     {
-        "input": "*(cliff dwelling)",
+        "input": "* ( cliff dwelling )",
         "output": "folii gzhoolqj"
     },
     {
-        "input": "*(cloak)",
+        "input": "* ( cloak )",
         "output": "fordn"
     },
     {
-        "input": "*(clogs)",
+        "input": "* ( clogs )",
         "output": "forjv"
     },
     {
-        "input": "*(cocktail shaker)",
+        "input": "* ( cocktail shaker )",
         "output": "frfnwdlo vkdnhu"
     },
     {
-        "input": "*(coffee mug)",
+        "input": "* ( coffee mug )",
         "output": "friihh pxj"
     },
     {
-        "input": "*(coffeemaker)",
+        "input": "* ( coffeemaker )",
         "output": "friihhpdnhu"
     },
     {
-        "input": "*(spiral or coil)",
+        "input": "* ( spiral or coil )",
         "output": "vsludo ru frlo"
     },
     {
-        "input": "*(combination lock)",
+        "input": "* ( combination lock )",
         "output": "frpelqdwlrq orfn"
     },
     {
-        "input": "*(computer keyboard)",
+        "input": "* ( computer keyboard )",
         "output": "frpsxwhu nhberdug"
     },
     {
-        "input": "*(candy store)",
+        "input": "* ( candy store )",
         "output": "fdqgb vwruh"
     },
     {
-        "input": "*(container ship)",
+        "input": "* ( container ship )",
         "output": "frqwdlqhu vkls"
     },
     {
-        "input": "*(convertible)",
+        "input": "* ( convertible )",
         "output": "frqyhuwleoh"
     },
     {
-        "input": "*(corkscrew)",
+        "input": "* ( corkscrew )",
         "output": "frunvfuhz"
     },
     {
-        "input": "*(cornet)",
+        "input": "* ( cornet )",
         "output": "fruqhw"
     },
     {
-        "input": "*(cowboy boot)",
+        "input": "* ( cowboy boot )",
         "output": "frzerb errw"
     },
     {
-        "input": "*(cowboy hat)",
+        "input": "* ( cowboy hat )",
         "output": "frzerb kdw"
     },
     {
-        "input": "*(cradle)",
+        "input": "* ( cradle )",
         "output": "fudgoh"
     },
     {
-        "input": "*(construction crane)",
+        "input": "* ( construction crane )",
         "output": "frqvwuxfwlrq fudqh"
     },
     {
-        "input": "*(crash helmet)",
+        "input": "* ( crash helmet )",
         "output": "fudvk khophw"
     },
     {
-        "input": "*(crate)",
+        "input": "* ( crate )",
         "output": "fudwh"
     },
     {
-        "input": "*(infant bed)",
+        "input": "* ( infant bed )",
         "output": "lqidqw ehg"
     },
     {
-        "input": "*(Crock Pot)",
+        "input": "* ( Crock Pot )",
         "output": "Furfn Srw"
     },
     {
-        "input": "*(croquet ball)",
+        "input": "* ( croquet ball )",
         "output": "furtxhw edoo"
     },
     {
-        "input": "*(crutch)",
+        "input": "* ( crutch )",
         "output": "fuxwfk"
     },
     {
-        "input": "*(cuirass)",
+        "input": "* ( cuirass )",
         "output": "fxludvv"
     },
     {
-        "input": "*(dam)",
+        "input": "* ( dam )",
         "output": "gdp"
     },
     {
-        "input": "*(desk)",
+        "input": "* ( desk )",
         "output": "ghvn"
     },
     {
-        "input": "*(desktop computer)",
+        "input": "* ( desktop computer )",
         "output": "ghvnwrs frpsxwhu"
     },
     {
-        "input": "*(rotary dial telephone)",
+        "input": "* ( rotary dial telephone )",
         "output": "urwdub gldo whohskrqh"
     },
     {
-        "input": "*(diaper)",
+        "input": "* ( diaper )",
         "output": "gldshu"
     },
     {
-        "input": "*(digital clock)",
+        "input": "* ( digital clock )",
         "output": "gljlwdo forfn"
     },
     {
-        "input": "*(digital watch)",
+        "input": "* ( digital watch )",
         "output": "gljlwdo zdwfk"
     },
     {
-        "input": "*(dining table)",
+        "input": "* ( dining table )",
         "output": "glqlqj wdeoh"
     },
     {
-        "input": "*(dishcloth)",
+        "input": "* ( dishcloth )",
         "output": "glvkforwk"
     },
     {
-        "input": "*(dishwasher)",
+        "input": "* ( dishwasher )",
         "output": "glvkzdvkhu"
     },
     {
-        "input": "*(disc brake)",
+        "input": "* ( disc brake )",
         "output": "glvf eudnh"
     },
     {
-        "input": "*(dock)",
+        "input": "* ( dock )",
         "output": "grfn"
     },
     {
-        "input": "*(dog sled)",
+        "input": "* ( dog sled )",
         "output": "grj vohg"
     },
     {
-        "input": "*(dome)",
+        "input": "* ( dome )",
         "output": "grph"
     },
     {
-        "input": "*(doormat)",
+        "input": "* ( doormat )",
         "output": "grrupdw"
     },
     {
-        "input": "*(drilling rig)",
+        "input": "* ( drilling rig )",
         "output": "guloolqj ulj"
     },
     {
-        "input": "*(drum)",
+        "input": "* ( drum )",
         "output": "guxp"
     },
     {
-        "input": "*(drumstick)",
+        "input": "* ( drumstick )",
         "output": "guxpvwlfn"
     },
     {
-        "input": "*(dumbbell)",
+        "input": "* ( dumbbell )",
         "output": "gxpeehoo"
     },
     {
-        "input": "*(Dutch oven)",
+        "input": "* ( Dutch oven )",
         "output": "Gxwfk ryhq"
     },
     {
-        "input": "*(electric fan)",
+        "input": "* ( electric fan )",
         "output": "hohfwulf idq"
     },
     {
-        "input": "*(electric guitar)",
+        "input": "* ( electric guitar )",
         "output": "hohfwulf jxlwdu"
     },
     {
-        "input": "*(electric locomotive)",
+        "input": "* ( electric locomotive )",
         "output": "hohfwulf orfrprwlyh"
     },
     {
-        "input": "*(entertainment center)",
+        "input": "* ( entertainment center )",
         "output": "hqwhuwdlqphqw fhqwhu"
     },
     {
-        "input": "*(envelope)",
+        "input": "* ( envelope )",
         "output": "hqyhorsh"
     },
     {
-        "input": "*(espresso machine)",
+        "input": "* ( espresso machine )",
         "output": "hvsuhvvr pdfklqh"
     },
     {
-        "input": "*(face powder)",
+        "input": "* ( face powder )",
         "output": "idfh srzghu"
     },
     {
-        "input": "*(feather boa)",
+        "input": "* ( feather boa )",
         "output": "ihdwkhu erd"
     },
     {
-        "input": "*(filing cabinet)",
+        "input": "* ( filing cabinet )",
         "output": "ilolqj fdelqhw"
     },
     {
-        "input": "*(fireboat)",
+        "input": "* ( fireboat )",
         "output": "iluherdw"
     },
     {
-        "input": "*(fire truck)",
+        "input": "* ( fire truck )",
         "output": "iluh wuxfn"
     },
     {
-        "input": "*(fire screen)",
+        "input": "* ( fire screen )",
         "output": "iluh vfuhhq"
     },
     {
-        "input": "*(flagpole)",
+        "input": "* ( flagpole )",
         "output": "iodjsroh"
     },
     {
-        "input": "*(flute)",
+        "input": "* ( flute )",
         "output": "ioxwh"
     },
     {
-        "input": "*(folding chair)",
+        "input": "* ( folding chair )",
         "output": "iroglqj fkdlu"
     },
     {
-        "input": "*(football helmet)",
+        "input": "* ( football helmet )",
         "output": "irrwedoo khophw"
     },
     {
-        "input": "*(forklift)",
+        "input": "* ( forklift )",
         "output": "irunoliw"
     },
     {
-        "input": "*(fountain)",
+        "input": "* ( fountain )",
         "output": "irxqwdlq"
     },
     {
-        "input": "*(fountain pen)",
+        "input": "* ( fountain pen )",
         "output": "irxqwdlq shq"
     },
     {
-        "input": "*(four-poster bed)",
+        "input": "* ( four-poster bed )",
         "output": "irxu-srvwhu ehg"
     },
     {
-        "input": "*(freight car)",
+        "input": "* ( freight car )",
         "output": "iuhljkw fdu"
     },
     {
-        "input": "*(French horn)",
+        "input": "* ( French horn )",
         "output": "Iuhqfk kruq"
     },
     {
-        "input": "*(frying pan)",
+        "input": "* ( frying pan )",
         "output": "iublqj sdq"
     },
     {
-        "input": "*(fur coat)",
+        "input": "* ( fur coat )",
         "output": "ixu frdw"
     },
     {
-        "input": "*(garbage truck)",
+        "input": "* ( garbage truck )",
         "output": "jduedjh wuxfn"
     },
     {
-        "input": "*(gas mask or respirator)",
+        "input": "* ( gas mask or respirator )",
         "output": "jdv pdvn ru uhvsludwru"
     },
     {
-        "input": "*(gas pump)",
+        "input": "* ( gas pump )",
         "output": "jdv sxps"
     },
     {
-        "input": "*(goblet)",
+        "input": "* ( goblet )",
         "output": "jreohw"
     },
     {
-        "input": "*(go-kart)",
+        "input": "* ( go-kart )",
         "output": "jr-nduw"
     },
     {
-        "input": "*(golf ball)",
+        "input": "* ( golf ball )",
         "output": "jroi edoo"
     },
     {
-        "input": "*(golf cart)",
+        "input": "* ( golf cart )",
         "output": "jroi fduw"
     },
     {
-        "input": "*(gondola)",
+        "input": "* ( gondola )",
         "output": "jrqgrod"
     },
     {
-        "input": "*(gong)",
+        "input": "* ( gong )",
         "output": "jrqj"
     },
     {
-        "input": "*(gown)",
+        "input": "* ( gown )",
         "output": "jrzq"
     },
     {
-        "input": "*(grand piano)",
+        "input": "* ( grand piano )",
         "output": "judqg sldqr"
     },
     {
-        "input": "*(greenhouse)",
+        "input": "* ( greenhouse )",
         "output": "juhhqkrxvh"
     },
     {
-        "input": "*(radiator grille)",
+        "input": "* ( radiator grille )",
         "output": "udgldwru julooh"
     },
     {
-        "input": "*(grocery store)",
+        "input": "* ( grocery store )",
         "output": "jurfhub vwruh"
     },
     {
-        "input": "*(guillotine)",
+        "input": "* ( guillotine )",
         "output": "jxloorwlqh"
     },
     {
-        "input": "*(hair clip)",
+        "input": "* ( hair clip )",
         "output": "kdlu fols"
     },
     {
-        "input": "*(hair spray)",
+        "input": "* ( hair spray )",
         "output": "kdlu vsudb"
     },
     {
-        "input": "*(half-track)",
+        "input": "* ( half-track )",
         "output": "kdoi-wudfn"
     },
     {
-        "input": "*(hammer)",
+        "input": "* ( hammer )",
         "output": "kdpphu"
     },
     {
-        "input": "*(hamper)",
+        "input": "* ( hamper )",
         "output": "kdpshu"
     },
     {
-        "input": "*(hair dryer)",
+        "input": "* ( hair dryer )",
         "output": "kdlu gubhu"
     },
     {
-        "input": "*(hand-held computer)",
+        "input": "* ( hand-held computer )",
         "output": "kdqg-khog frpsxwhu"
     },
     {
-        "input": "*(handkerchief)",
+        "input": "* ( handkerchief )",
         "output": "kdqgnhufklhi"
     },
     {
-        "input": "*(hard disk drive)",
+        "input": "* ( hard disk drive )",
         "output": "kdug glvn gulyh"
     },
     {
-        "input": "*(harmonica)",
+        "input": "* ( harmonica )",
         "output": "kduprqlfd"
     },
     {
-        "input": "*(harp)",
+        "input": "* ( harp )",
         "output": "kdus"
     },
     {
-        "input": "*(combine harvester)",
+        "input": "* ( combine harvester )",
         "output": "frpelqh kduyhvwhu"
     },
     {
-        "input": "*(hatchet)",
+        "input": "* ( hatchet )",
         "output": "kdwfkhw"
     },
     {
-        "input": "*(holster)",
+        "input": "* ( holster )",
         "output": "krovwhu"
     },
     {
-        "input": "*(home theater)",
+        "input": "* ( home theater )",
         "output": "krph wkhdwhu"
     },
     {
-        "input": "*(honeycomb)",
+        "input": "* ( honeycomb )",
         "output": "krqhbfrpe"
     },
     {
-        "input": "*(hook)",
+        "input": "* ( hook )",
         "output": "krrn"
     },
     {
-        "input": "*(hoop skirt)",
+        "input": "* ( hoop skirt )",
         "output": "krrs vnluw"
     },
     {
-        "input": "*(gymnastic horizontal bar)",
+        "input": "* ( gymnastic horizontal bar )",
         "output": "jbpqdvwlf krulcrqwdo edu"
     },
     {
-        "input": "*(horse-drawn vehicle)",
+        "input": "* ( horse-drawn vehicle )",
         "output": "kruvh-gudzq yhklfoh"
     },
     {
-        "input": "*(hourglass)",
+        "input": "* ( hourglass )",
         "output": "krxujodvv"
     },
     {
-        "input": "*(iPod)",
+        "input": "* ( iPod )",
         "output": "lSrg"
     },
     {
-        "input": "*(clothes iron)",
+        "input": "* ( clothes iron )",
         "output": "forwkhv lurq"
     },
     {
-        "input": "*(carved pumpkin)",
+        "input": "* ( carved pumpkin )",
         "output": "fduyhg sxpsnlq"
     },
     {
-        "input": "*(jeans)",
+        "input": "* ( jeans )",
         "output": "mhdqv"
     },
     {
-        "input": "*(jeep)",
+        "input": "* ( jeep )",
         "output": "mhhs"
     },
     {
-        "input": "*(T-shirt)",
+        "input": "* ( T-shirt )",
         "output": "W-vkluw"
     },
     {
-        "input": "*(jigsaw puzzle)",
+        "input": "* ( jigsaw puzzle )",
         "output": "mljvdz sxccoh"
     },
     {
-        "input": "*(rickshaw)",
+        "input": "* ( rickshaw )",
         "output": "ulfnvkdz"
     },
     {
-        "input": "*(joystick)",
+        "input": "* ( joystick )",
         "output": "mrbvwlfn"
     },
     {
-        "input": "*(kimono)",
+        "input": "* ( kimono )",
         "output": "nlprqr"
     },
     {
-        "input": "*(knee pad)",
+        "input": "* ( knee pad )",
         "output": "nqhh sdg"
     },
     {
-        "input": "*(knot)",
+        "input": "* ( knot )",
         "output": "nqrw"
     },
     {
-        "input": "*(lab coat)",
+        "input": "* ( lab coat )",
         "output": "ode frdw"
     },
     {
-        "input": "*(ladle)",
+        "input": "* ( ladle )",
         "output": "odgoh"
     },
     {
-        "input": "*(lampshade)",
+        "input": "* ( lampshade )",
         "output": "odpsvkdgh"
     },
     {
-        "input": "*(laptop computer)",
+        "input": "* ( laptop computer )",
         "output": "odswrs frpsxwhu"
     },
     {
-        "input": "*(lawn mower)",
+        "input": "* ( lawn mower )",
         "output": "odzq przhu"
     },
     {
-        "input": "*(lens cap)",
+        "input": "* ( lens cap )",
         "output": "ohqv fds"
     },
     {
-        "input": "*(letter opener)",
+        "input": "* ( letter opener )",
         "output": "ohwwhu rshqhu"
     },
     {
-        "input": "*(library)",
+        "input": "* ( library )",
         "output": "oleudub"
     },
     {
-        "input": "*(lifeboat)",
+        "input": "* ( lifeboat )",
         "output": "oliherdw"
     },
     {
-        "input": "*(lighter)",
+        "input": "* ( lighter )",
         "output": "oljkwhu"
     },
     {
-        "input": "*(limousine)",
+        "input": "* ( limousine )",
         "output": "olprxvlqh"
     },
     {
-        "input": "*(ocean liner)",
+        "input": "* ( ocean liner )",
         "output": "rfhdq olqhu"
     },
     {
-        "input": "*(lipstick)",
+        "input": "* ( lipstick )",
         "output": "olsvwlfn"
     },
     {
-        "input": "*(slip-on shoe)",
+        "input": "* ( slip-on shoe )",
         "output": "vols-rq vkrh"
     },
     {
-        "input": "*(lotion)",
+        "input": "* ( lotion )",
         "output": "orwlrq"
     },
     {
-        "input": "*(music speaker)",
+        "input": "* ( music speaker )",
         "output": "pxvlf vshdnhu"
     },
     {
-        "input": "*(loupe magnifying glass)",
+        "input": "* ( loupe magnifying glass )",
         "output": "orxsh pdjqliblqj jodvv"
     },
     {
-        "input": "*(sawmill)",
+        "input": "* ( sawmill )",
         "output": "vdzploo"
     },
     {
-        "input": "*(magnetic compass)",
+        "input": "* ( magnetic compass )",
         "output": "pdjqhwlf frpsdvv"
     },
     {
-        "input": "*(messenger bag)",
+        "input": "* ( messenger bag )",
         "output": "phvvhqjhu edj"
     },
     {
-        "input": "*(mailbox)",
+        "input": "* ( mailbox )",
         "output": "pdloera"
     },
     {
-        "input": "*(tights)",
+        "input": "* ( tights )",
         "output": "wljkwv"
     },
     {
-        "input": "*(one-piece bathing suit)",
+        "input": "* ( one-piece bathing suit )",
         "output": "rqh-slhfh edwklqj vxlw"
     },
     {
-        "input": "*(manhole cover)",
+        "input": "* ( manhole cover )",
         "output": "pdqkroh fryhu"
     },
     {
-        "input": "*(maraca)",
+        "input": "* ( maraca )",
         "output": "pdudfd"
     },
     {
-        "input": "*(marimba)",
+        "input": "* ( marimba )",
         "output": "pdulped"
     },
     {
-        "input": "*(mask)",
+        "input": "* ( mask )",
         "output": "pdvn"
     },
     {
-        "input": "*(matchstick)",
+        "input": "* ( matchstick )",
         "output": "pdwfkvwlfn"
     },
     {
-        "input": "*(maypole)",
+        "input": "* ( maypole )",
         "output": "pdbsroh"
     },
     {
-        "input": "*(maze)",
+        "input": "* ( maze )",
         "output": "pdch"
     },
     {
-        "input": "*(measuring cup)",
+        "input": "* ( measuring cup )",
         "output": "phdvxulqj fxs"
     },
     {
-        "input": "*(medicine cabinet)",
+        "input": "* ( medicine cabinet )",
         "output": "phglflqh fdelqhw"
     },
     {
-        "input": "*(megalith)",
+        "input": "* ( megalith )",
         "output": "phjdolwk"
     },
     {
-        "input": "*(microphone)",
+        "input": "* ( microphone )",
         "output": "plfurskrqh"
     },
     {
-        "input": "*(microwave oven)",
+        "input": "* ( microwave oven )",
         "output": "plfurzdyh ryhq"
     },
     {
-        "input": "*(military uniform)",
+        "input": "* ( military uniform )",
         "output": "plolwdub xqlirup"
     },
     {
-        "input": "*(milk can)",
+        "input": "* ( milk can )",
         "output": "plon fdq"
     },
     {
-        "input": "*(minibus)",
+        "input": "* ( minibus )",
         "output": "plqlexv"
     },
     {
-        "input": "*(miniskirt)",
+        "input": "* ( miniskirt )",
         "output": "plqlvnluw"
     },
     {
-        "input": "*(minivan)",
+        "input": "* ( minivan )",
         "output": "plqlydq"
     },
     {
-        "input": "*(missile)",
+        "input": "* ( missile )",
         "output": "plvvloh"
     },
     {
-        "input": "*(mitten)",
+        "input": "* ( mitten )",
         "output": "plwwhq"
     },
     {
-        "input": "*(mixing bowl)",
+        "input": "* ( mixing bowl )",
         "output": "plalqj erzo"
     },
     {
-        "input": "*(mobile home)",
+        "input": "* ( mobile home )",
         "output": "preloh krph"
     },
     {
-        "input": "*(ford model t)",
+        "input": "* ( ford model t )",
         "output": "irug prgho w"
     },
     {
-        "input": "*(modem)",
+        "input": "* ( modem )",
         "output": "prghp"
     },
     {
-        "input": "*(monastery)",
+        "input": "* ( monastery )",
         "output": "prqdvwhub"
     },
     {
-        "input": "*(monitor)",
+        "input": "* ( monitor )",
         "output": "prqlwru"
     },
     {
-        "input": "*(moped)",
+        "input": "* ( moped )",
         "output": "prshg"
     },
     {
-        "input": "*(mortar and pestle)",
+        "input": "* ( mortar and pestle )",
         "output": "pruwdu dqg shvwoh"
     },
     {
-        "input": "*(graduation cap)",
+        "input": "* ( graduation cap )",
         "output": "judgxdwlrq fds"
     },
     {
-        "input": "*(mosque)",
+        "input": "* ( mosque )",
         "output": "prvtxh"
     },
     {
-        "input": "*(mosquito net)",
+        "input": "* ( mosquito net )",
         "output": "prvtxlwr qhw"
     },
     {
-        "input": "*(vespa)",
+        "input": "* ( vespa )",
         "output": "yhvsd"
     },
     {
-        "input": "*(mountain bike)",
+        "input": "* ( mountain bike )",
         "output": "prxqwdlq elnh"
     },
     {
-        "input": "*(tent)",
+        "input": "* ( tent )",
         "output": "whqw"
     },
     {
-        "input": "*(computer mouse)",
+        "input": "* ( computer mouse )",
         "output": "frpsxwhu prxvh"
     },
     {
-        "input": "*(mousetrap)",
+        "input": "* ( mousetrap )",
         "output": "prxvhwuds"
     },
     {
-        "input": "*(moving van)",
+        "input": "* ( moving van )",
         "output": "prylqj ydq"
     },
     {
-        "input": "*(muzzle)",
+        "input": "* ( muzzle )",
         "output": "pxccoh"
     },
     {
-        "input": "*(metal nail)",
+        "input": "* ( metal nail )",
         "output": "phwdo qdlo"
     },
     {
-        "input": "*(neck brace)",
+        "input": "* ( neck brace )",
         "output": "qhfn eudfh"
     },
     {
-        "input": "*(necklace)",
+        "input": "* ( necklace )",
         "output": "qhfnodfh"
     },
     {
-        "input": "*(baby pacifier)",
+        "input": "* ( baby pacifier )",
         "output": "edeb sdflilhu"
     },
     {
-        "input": "*(notebook computer)",
+        "input": "* ( notebook computer )",
         "output": "qrwherrn frpsxwhu"
     },
     {
-        "input": "*(obelisk)",
+        "input": "* ( obelisk )",
         "output": "reholvn"
     },
     {
-        "input": "*(oboe)",
+        "input": "* ( oboe )",
         "output": "rerh"
     },
     {
-        "input": "*(ocarina)",
+        "input": "* ( ocarina )",
         "output": "rfdulqd"
     },
     {
-        "input": "*(odometer)",
+        "input": "* ( odometer )",
         "output": "rgrphwhu"
     },
     {
-        "input": "*(oil filter)",
+        "input": "* ( oil filter )",
         "output": "rlo ilowhu"
     },
     {
-        "input": "*(pipe organ)",
+        "input": "* ( pipe organ )",
         "output": "slsh rujdq"
     },
     {
-        "input": "*(oscilloscope)",
+        "input": "* ( oscilloscope )",
         "output": "rvfloorvfrsh"
     },
     {
-        "input": "*(overskirt)",
+        "input": "* ( overskirt )",
         "output": "ryhuvnluw"
     },
     {
-        "input": "*(bullock cart)",
+        "input": "* ( bullock cart )",
         "output": "exoorfn fduw"
     },
     {
-        "input": "*(oxygen mask)",
+        "input": "* ( oxygen mask )",
         "output": "rabjhq pdvn"
     },
     {
-        "input": "*(product packet / packaging)",
+        "input": "* ( product packet / packaging )",
         "output": "surgxfw sdfnhw / sdfndjlqj"
     },
     {
-        "input": "*(paddle)",
+        "input": "* ( paddle )",
         "output": "sdggoh"
     },
     {
-        "input": "*(paddle wheel)",
+        "input": "* ( paddle wheel )",
         "output": "sdggoh zkhho"
     },
     {
-        "input": "*(padlock)",
+        "input": "* ( padlock )",
         "output": "sdgorfn"
     },
     {
-        "input": "*(paintbrush)",
+        "input": "* ( paintbrush )",
         "output": "sdlqweuxvk"
     },
     {
-        "input": "*(pajamas)",
+        "input": "* ( pajamas )",
         "output": "sdmdpdv"
     },
     {
-        "input": "*(palace)",
+        "input": "* ( palace )",
         "output": "sdodfh"
     },
     {
-        "input": "*(pan flute)",
+        "input": "* ( pan flute )",
         "output": "sdq ioxwh"
     },
     {
-        "input": "*(paper towel)",
+        "input": "* ( paper towel )",
         "output": "sdshu wrzho"
     },
     {
-        "input": "*(parachute)",
+        "input": "* ( parachute )",
         "output": "sdudfkxwh"
     },
     {
-        "input": "*(parallel bars)",
+        "input": "* ( parallel bars )",
         "output": "sdudooho eduv"
     },
     {
-        "input": "*(park bench)",
+        "input": "* ( park bench )",
         "output": "sdun ehqfk"
     },
     {
-        "input": "*(parking meter)",
+        "input": "* ( parking meter )",
         "output": "sdunlqj phwhu"
     },
     {
-        "input": "*(railroad car)",
+        "input": "* ( railroad car )",
         "output": "udlourdg fdu"
     },
     {
-        "input": "*(patio)",
+        "input": "* ( patio )",
         "output": "sdwlr"
     },
     {
-        "input": "*(payphone)",
+        "input": "* ( payphone )",
         "output": "sdbskrqh"
     },
     {
-        "input": "*(pedestal)",
+        "input": "* ( pedestal )",
         "output": "shghvwdo"
     },
     {
-        "input": "*(pencil case)",
+        "input": "* ( pencil case )",
         "output": "shqflo fdvh"
     },
     {
-        "input": "*(pencil sharpener)",
+        "input": "* ( pencil sharpener )",
         "output": "shqflo vkdushqhu"
     },
     {
-        "input": "*(perfume)",
+        "input": "* ( perfume )",
         "output": "shuixph"
     },
     {
-        "input": "*(Petri dish)",
+        "input": "* ( Petri dish )",
         "output": "Shwul glvk"
     },
     {
-        "input": "*(photocopier)",
+        "input": "* ( photocopier )",
         "output": "skrwrfrslhu"
     },
     {
-        "input": "*(plectrum)",
+        "input": "* ( plectrum )",
         "output": "sohfwuxp"
     },
     {
-        "input": "*(Pickelhaube)",
+        "input": "* ( Pickelhaube )",
         "output": "Slfnhokdxeh"
     },
     {
-        "input": "*(picket fence)",
+        "input": "* ( picket fence )",
         "output": "slfnhw ihqfh"
     },
     {
-        "input": "*(pickup truck)",
+        "input": "* ( pickup truck )",
         "output": "slfnxs wuxfn"
     },
     {
-        "input": "*(pier)",
+        "input": "* ( pier )",
         "output": "slhu"
     },
     {
-        "input": "*(piggy bank)",
+        "input": "* ( piggy bank )",
         "output": "sljjb edqn"
     },
     {
-        "input": "*(pill bottle)",
+        "input": "* ( pill bottle )",
         "output": "sloo erwwoh"
     },
     {
-        "input": "*(pillow)",
+        "input": "* ( pillow )",
         "output": "sloorz"
     },
     {
-        "input": "*(ping-pong ball)",
+        "input": "* ( ping-pong ball )",
         "output": "slqj-srqj edoo"
     },
     {
-        "input": "*(pinwheel)",
+        "input": "* ( pinwheel )",
         "output": "slqzkhho"
     },
     {
-        "input": "*(pirate ship)",
+        "input": "* ( pirate ship )",
         "output": "sludwh vkls"
     },
     {
-        "input": "*(drink pitcher)",
+        "input": "* ( drink pitcher )",
         "output": "gulqn slwfkhu"
     },
     {
-        "input": "*(block plane)",
+        "input": "* ( block plane )",
         "output": "eorfn sodqh"
     },
     {
-        "input": "*(planetarium)",
+        "input": "* ( planetarium )",
         "output": "sodqhwdulxp"
     },
     {
-        "input": "*(plastic bag)",
+        "input": "* ( plastic bag )",
         "output": "sodvwlf edj"
     },
     {
-        "input": "*(plate rack)",
+        "input": "* ( plate rack )",
         "output": "sodwh udfn"
     },
     {
-        "input": "*(farm plow)",
+        "input": "* ( farm plow )",
         "output": "idup sorz"
     },
     {
-        "input": "*(plunger)",
+        "input": "* ( plunger )",
         "output": "soxqjhu"
     },
     {
-        "input": "*(Polaroid camera)",
+        "input": "* ( Polaroid camera )",
         "output": "Srodurlg fdphud"
     },
     {
-        "input": "*(pole)",
+        "input": "* ( pole )",
         "output": "sroh"
     },
     {
-        "input": "*(police van)",
+        "input": "* ( police van )",
         "output": "srolfh ydq"
     },
     {
-        "input": "*(poncho)",
+        "input": "* ( poncho )",
         "output": "srqfkr"
     },
     {
-        "input": "*(pool table)",
+        "input": "* ( pool table )",
         "output": "srro wdeoh"
     },
     {
-        "input": "*(soda bottle)",
+        "input": "* ( soda bottle )",
         "output": "vrgd erwwoh"
     },
     {
-        "input": "*(plant pot)",
+        "input": "* ( plant pot )",
         "output": "sodqw srw"
     },
     {
-        "input": "*(potter's wheel)",
+        "input": "* ( potter's wheel )",
         "output": "srwwhu'v zkhho"
     },
     {
-        "input": "*(power drill)",
+        "input": "* ( power drill )",
         "output": "srzhu guloo"
     },
     {
-        "input": "*(prayer rug)",
+        "input": "* ( prayer rug )",
         "output": "sudbhu uxj"
     },
     {
-        "input": "*(printer)",
+        "input": "* ( printer )",
         "output": "sulqwhu"
     },
     {
-        "input": "*(prison)",
+        "input": "* ( prison )",
         "output": "sulvrq"
     },
     {
-        "input": "*(projectile)",
+        "input": "* ( projectile )",
         "output": "surmhfwloh"
     },
     {
-        "input": "*(projector)",
+        "input": "* ( projector )",
         "output": "surmhfwru"
     },
     {
-        "input": "*(hockey puck)",
+        "input": "* ( hockey puck )",
         "output": "krfnhb sxfn"
     },
     {
-        "input": "*(punching bag)",
+        "input": "* ( punching bag )",
         "output": "sxqfklqj edj"
     },
     {
-        "input": "*(purse)",
+        "input": "* ( purse )",
         "output": "sxuvh"
     },
     {
-        "input": "*(quill)",
+        "input": "* ( quill )",
         "output": "txloo"
     },
     {
-        "input": "*(quilt)",
+        "input": "* ( quilt )",
         "output": "txlow"
     },
     {
-        "input": "*(race car)",
+        "input": "* ( race car )",
         "output": "udfh fdu"
     },
     {
-        "input": "*(racket)",
+        "input": "* ( racket )",
         "output": "udfnhw"
     },
     {
-        "input": "*(radiator)",
+        "input": "* ( radiator )",
         "output": "udgldwru"
     },
     {
-        "input": "*(radio)",
+        "input": "* ( radio )",
         "output": "udglr"
     },
     {
-        "input": "*(radio telescope)",
+        "input": "* ( radio telescope )",
         "output": "udglr whohvfrsh"
     },
     {
-        "input": "*(rain barrel)",
+        "input": "* ( rain barrel )",
         "output": "udlq eduuho"
     },
     {
-        "input": "*(recreational vehicle)",
+        "input": "* ( recreational vehicle )",
         "output": "uhfuhdwlrqdo yhklfoh"
     },
     {
-        "input": "*(fishing casting reel)",
+        "input": "* ( fishing casting reel )",
         "output": "ilvklqj fdvwlqj uhho"
     },
     {
-        "input": "*(reflex camera)",
+        "input": "* ( reflex camera )",
         "output": "uhioha fdphud"
     },
     {
-        "input": "*(refrigerator)",
+        "input": "* ( refrigerator )",
         "output": "uhiuljhudwru"
     },
     {
-        "input": "*(remote control)",
+        "input": "* ( remote control )",
         "output": "uhprwh frqwuro"
     },
     {
-        "input": "*(restaurant)",
+        "input": "* ( restaurant )",
         "output": "uhvwdxudqw"
     },
     {
-        "input": "*(revolver)",
+        "input": "* ( revolver )",
         "output": "uhyroyhu"
     },
     {
-        "input": "*(rifle)",
+        "input": "* ( rifle )",
         "output": "ulioh"
     },
     {
-        "input": "*(rocking chair)",
+        "input": "* ( rocking chair )",
         "output": "urfnlqj fkdlu"
     },
     {
-        "input": "*(rotisserie)",
+        "input": "* ( rotisserie )",
         "output": "urwlvvhulh"
     },
     {
-        "input": "*(eraser)",
+        "input": "* ( eraser )",
         "output": "hudvhu"
     },
     {
-        "input": "*(rugby ball)",
+        "input": "* ( rugby ball )",
         "output": "uxjeb edoo"
     },
     {
-        "input": "*(ruler measuring stick)",
+        "input": "* ( ruler measuring stick )",
         "output": "uxohu phdvxulqj vwlfn"
     },
     {
-        "input": "*(sneaker)",
+        "input": "* ( sneaker )",
         "output": "vqhdnhu"
     },
     {
-        "input": "*(safe)",
+        "input": "* ( safe )",
         "output": "vdih"
     },
     {
-        "input": "*(safety pin)",
+        "input": "* ( safety pin )",
         "output": "vdihwb slq"
     },
     {
-        "input": "*(salt shaker)",
+        "input": "* ( salt shaker )",
         "output": "vdow vkdnhu"
     },
     {
-        "input": "*(sandal)",
+        "input": "* ( sandal )",
         "output": "vdqgdo"
     },
     {
-        "input": "*(sarong)",
+        "input": "* ( sarong )",
         "output": "vdurqj"
     },
     {
-        "input": "*(saxophone)",
+        "input": "* ( saxophone )",
         "output": "vdarskrqh"
     },
     {
-        "input": "*(scabbard)",
+        "input": "* ( scabbard )",
         "output": "vfdeedug"
     },
     {
-        "input": "*(weighing scale)",
+        "input": "* ( weighing scale )",
         "output": "zhljklqj vfdoh"
     },
     {
-        "input": "*(school bus)",
+        "input": "* ( school bus )",
         "output": "vfkrro exv"
     },
     {
-        "input": "*(schooner)",
+        "input": "* ( schooner )",
         "output": "vfkrrqhu"
     },
     {
-        "input": "*(scoreboard)",
+        "input": "* ( scoreboard )",
         "output": "vfruherdug"
     },
     {
-        "input": "*(CRT monitor)",
+        "input": "* ( CRT monitor )",
         "output": "FUW prqlwru"
     },
     {
-        "input": "*(screw)",
+        "input": "* ( screw )",
         "output": "vfuhz"
     },
     {
-        "input": "*(screwdriver)",
+        "input": "* ( screwdriver )",
         "output": "vfuhzgulyhu"
     },
     {
-        "input": "*(seat belt)",
+        "input": "* ( seat belt )",
         "output": "vhdw ehow"
     },
     {
-        "input": "*(sewing machine)",
+        "input": "* ( sewing machine )",
         "output": "vhzlqj pdfklqh"
     },
     {
-        "input": "*(shield)",
+        "input": "* ( shield )",
         "output": "vklhog"
     },
     {
-        "input": "*(shoe store)",
+        "input": "* ( shoe store )",
         "output": "vkrh vwruh"
     },
     {
-        "input": "*(shoji screen / room divider)",
+        "input": "* ( shoji screen / room divider )",
         "output": "vkrml vfuhhq / urrp glylghu"
     },
     {
-        "input": "*(shopping basket)",
+        "input": "* ( shopping basket )",
         "output": "vkrsslqj edvnhw"
     },
     {
-        "input": "*(shopping cart)",
+        "input": "* ( shopping cart )",
         "output": "vkrsslqj fduw"
     },
     {
-        "input": "*(shovel)",
+        "input": "* ( shovel )",
         "output": "vkryho"
     },
     {
-        "input": "*(shower cap)",
+        "input": "* ( shower cap )",
         "output": "vkrzhu fds"
     },
     {
-        "input": "*(shower curtain)",
+        "input": "* ( shower curtain )",
         "output": "vkrzhu fxuwdlq"
     },
     {
-        "input": "*(ski)",
+        "input": "* ( ski )",
         "output": "vnl"
     },
     {
-        "input": "*(balaclava ski mask)",
+        "input": "* ( balaclava ski mask )",
         "output": "edodfodyd vnl pdvn"
     },
     {
-        "input": "*(sleeping bag)",
+        "input": "* ( sleeping bag )",
         "output": "vohhslqj edj"
     },
     {
-        "input": "*(slide rule)",
+        "input": "* ( slide rule )",
         "output": "volgh uxoh"
     },
     {
-        "input": "*(sliding door)",
+        "input": "* ( sliding door )",
         "output": "volglqj grru"
     },
     {
-        "input": "*(slot machine)",
+        "input": "* ( slot machine )",
         "output": "vorw pdfklqh"
     },
     {
-        "input": "*(snorkel)",
+        "input": "* ( snorkel )",
         "output": "vqrunho"
     },
     {
-        "input": "*(snowmobile)",
+        "input": "* ( snowmobile )",
         "output": "vqrzpreloh"
     },
     {
-        "input": "*(snowplow)",
+        "input": "* ( snowplow )",
         "output": "vqrzsorz"
     },
     {
-        "input": "*(soap dispenser)",
+        "input": "* ( soap dispenser )",
         "output": "vrds glvshqvhu"
     },
     {
-        "input": "*(soccer ball)",
+        "input": "* ( soccer ball )",
         "output": "vrffhu edoo"
     },
     {
-        "input": "*(sock)",
+        "input": "* ( sock )",
         "output": "vrfn"
     },
     {
-        "input": "*(solar thermal collector)",
+        "input": "* ( solar thermal collector )",
         "output": "vrodu wkhupdo froohfwru"
     },
     {
-        "input": "*(sombrero)",
+        "input": "* ( sombrero )",
         "output": "vrpeuhur"
     },
     {
-        "input": "*(soup bowl)",
+        "input": "* ( soup bowl )",
         "output": "vrxs erzo"
     },
     {
-        "input": "*(keyboard space bar)",
+        "input": "* ( keyboard space bar )",
         "output": "nhberdug vsdfh edu"
     },
     {
-        "input": "*(space heater)",
+        "input": "* ( space heater )",
         "output": "vsdfh khdwhu"
     },
     {
-        "input": "*(space shuttle)",
+        "input": "* ( space shuttle )",
         "output": "vsdfh vkxwwoh"
     },
     {
-        "input": "*(spatula)",
+        "input": "* ( spatula )",
         "output": "vsdwxod"
     },
     {
-        "input": "*(motorboat)",
+        "input": "* ( motorboat )",
         "output": "prwruerdw"
     },
     {
-        "input": "*(spider web)",
+        "input": "* ( spider web )",
         "output": "vslghu zhe"
     },
     {
-        "input": "*(spindle)",
+        "input": "* ( spindle )",
         "output": "vslqgoh"
     },
     {
-        "input": "*(sports car)",
+        "input": "* ( sports car )",
         "output": "vsruwv fdu"
     },
     {
-        "input": "*(spotlight)",
+        "input": "* ( spotlight )",
         "output": "vsrwoljkw"
     },
     {
-        "input": "*(stage)",
+        "input": "* ( stage )",
         "output": "vwdjh"
     },
     {
-        "input": "*(steam locomotive)",
+        "input": "* ( steam locomotive )",
         "output": "vwhdp orfrprwlyh"
     },
     {
-        "input": "*(through arch bridge)",
+        "input": "* ( through arch bridge )",
         "output": "wkurxjk dufk eulgjh"
     },
     {
-        "input": "*(steel drum)",
+        "input": "* ( steel drum )",
         "output": "vwhho guxp"
     },
     {
-        "input": "*(stethoscope)",
+        "input": "* ( stethoscope )",
         "output": "vwhwkrvfrsh"
     },
     {
-        "input": "*(scarf)",
+        "input": "* ( scarf )",
         "output": "vfdui"
     },
     {
-        "input": "*(stone wall)",
+        "input": "* ( stone wall )",
         "output": "vwrqh zdoo"
     },
     {
-        "input": "*(stopwatch)",
+        "input": "* ( stopwatch )",
         "output": "vwrszdwfk"
     },
     {
-        "input": "*(stove)",
+        "input": "* ( stove )",
         "output": "vwryh"
     },
     {
-        "input": "*(strainer)",
+        "input": "* ( strainer )",
         "output": "vwudlqhu"
     },
     {
-        "input": "*(tram)",
+        "input": "* ( tram )",
         "output": "wudp"
     },
     {
-        "input": "*(stretcher)",
+        "input": "* ( stretcher )",
         "output": "vwuhwfkhu"
     },
     {
-        "input": "*(couch)",
+        "input": "* ( couch )",
         "output": "frxfk"
     },
     {
-        "input": "*(stupa)",
+        "input": "* ( stupa )",
         "output": "vwxsd"
     },
     {
-        "input": "*(submarine)",
+        "input": "* ( submarine )",
         "output": "vxepdulqh"
     },
     {
-        "input": "*(suit)",
+        "input": "* ( suit )",
         "output": "vxlw"
     },
     {
-        "input": "*(sundial)",
+        "input": "* ( sundial )",
         "output": "vxqgldo"
     },
     {
-        "input": "*(sunglasses)",
+        "input": "* ( sunglasses )",
         "output": "vxqjodvvhv"
     },
     {
-        "input": "*(dark glasses)",
+        "input": "* ( dark glasses )",
         "output": "gdun jodvvhv"
     },
     {
-        "input": "*(sunscreen)",
+        "input": "* ( sunscreen )",
         "output": "vxqvfuhhq"
     },
     {
-        "input": "*(suspension bridge)",
+        "input": "* ( suspension bridge )",
         "output": "vxvshqvlrq eulgjh"
     },
     {
-        "input": "*(mop)",
+        "input": "* ( mop )",
         "output": "prs"
     },
     {
-        "input": "*(sweatshirt)",
+        "input": "* ( sweatshirt )",
         "output": "vzhdwvkluw"
     },
     {
-        "input": "*(swim trunks / shorts)",
+        "input": "* ( swim trunks / shorts )",
         "output": "vzlp wuxqnv / vkruwv"
     },
     {
-        "input": "*(swing)",
+        "input": "* ( swing )",
         "output": "vzlqj"
     },
     {
-        "input": "*(electrical switch)",
+        "input": "* ( electrical switch )",
         "output": "hohfwulfdo vzlwfk"
     },
     {
-        "input": "*(syringe)",
+        "input": "* ( syringe )",
         "output": "vbulqjh"
     },
     {
-        "input": "*(table lamp)",
+        "input": "* ( table lamp )",
         "output": "wdeoh odps"
     },
     {
-        "input": "*(tank)",
+        "input": "* ( tank )",
         "output": "wdqn"
     },
     {
-        "input": "*(tape player)",
+        "input": "* ( tape player )",
         "output": "wdsh sodbhu"
     },
     {
-        "input": "*(teapot)",
+        "input": "* ( teapot )",
         "output": "whdsrw"
     },
     {
-        "input": "*(teddy bear)",
+        "input": "* ( teddy bear )",
         "output": "whggb ehdu"
     },
     {
-        "input": "*(television)",
+        "input": "* ( television )",
         "output": "whohylvlrq"
     },
     {
-        "input": "*(tennis ball)",
+        "input": "* ( tennis ball )",
         "output": "whqqlv edoo"
     },
     {
-        "input": "*(thatched roof)",
+        "input": "* ( thatched roof )",
         "output": "wkdwfkhg urri"
     },
     {
-        "input": "*(front curtain)",
+        "input": "* ( front curtain )",
         "output": "iurqw fxuwdlq"
     },
     {
-        "input": "*(thimble)",
+        "input": "* ( thimble )",
         "output": "wklpeoh"
     },
     {
-        "input": "*(threshing machine)",
+        "input": "* ( threshing machine )",
         "output": "wkuhvklqj pdfklqh"
     },
     {
-        "input": "*(throne)",
+        "input": "* ( throne )",
         "output": "wkurqh"
     },
     {
-        "input": "*(tile roof)",
+        "input": "* ( tile roof )",
         "output": "wloh urri"
     },
     {
-        "input": "*(toaster)",
+        "input": "* ( toaster )",
         "output": "wrdvwhu"
     },
     {
-        "input": "*(tobacco shop)",
+        "input": "* ( tobacco shop )",
         "output": "wredffr vkrs"
     },
     {
-        "input": "*(toilet seat)",
+        "input": "* ( toilet seat )",
         "output": "wrlohw vhdw"
     },
     {
-        "input": "*(torch)",
+        "input": "* ( torch )",
         "output": "wrufk"
     },
     {
-        "input": "*(totem pole)",
+        "input": "* ( totem pole )",
         "output": "wrwhp sroh"
     },
     {
-        "input": "*(tow truck)",
+        "input": "* ( tow truck )",
         "output": "wrz wuxfn"
     },
     {
-        "input": "*(toy store)",
+        "input": "* ( toy store )",
         "output": "wrb vwruh"
     },
     {
-        "input": "*(tractor)",
+        "input": "* ( tractor )",
         "output": "wudfwru"
     },
     {
-        "input": "*(semi-trailer truck)",
+        "input": "* ( semi-trailer truck )",
         "output": "vhpl-wudlohu wuxfn"
     },
     {
-        "input": "*(tray)",
+        "input": "* ( tray )",
         "output": "wudb"
     },
     {
-        "input": "*(trench coat)",
+        "input": "* ( trench coat )",
         "output": "wuhqfk frdw"
     },
     {
-        "input": "*(tricycle)",
+        "input": "* ( tricycle )",
         "output": "wulfbfoh"
     },
     {
-        "input": "*(trimaran)",
+        "input": "* ( trimaran )",
         "output": "wulpdudq"
     },
     {
-        "input": "*(tripod)",
+        "input": "* ( tripod )",
         "output": "wulsrg"
     },
     {
-        "input": "*(triumphal arch)",
+        "input": "* ( triumphal arch )",
         "output": "wulxpskdo dufk"
     },
     {
-        "input": "*(trolleybus)",
+        "input": "* ( trolleybus )",
         "output": "wuroohbexv"
     },
     {
-        "input": "*(trombone)",
+        "input": "* ( trombone )",
         "output": "wurperqh"
     },
     {
-        "input": "*(hot tub)",
+        "input": "* ( hot tub )",
         "output": "krw wxe"
     },
     {
-        "input": "*(turnstile)",
+        "input": "* ( turnstile )",
         "output": "wxuqvwloh"
     },
     {
-        "input": "*(typewriter keyboard)",
+        "input": "* ( typewriter keyboard )",
         "output": "wbshzulwhu nhberdug"
     },
     {
-        "input": "*(umbrella)",
+        "input": "* ( umbrella )",
         "output": "xpeuhood"
     },
     {
-        "input": "*(unicycle)",
+        "input": "* ( unicycle )",
         "output": "xqlfbfoh"
     },
     {
-        "input": "*(upright piano)",
+        "input": "* ( upright piano )",
         "output": "xsuljkw sldqr"
     },
     {
-        "input": "*(vacuum cleaner)",
+        "input": "* ( vacuum cleaner )",
         "output": "ydfxxp fohdqhu"
     },
     {
-        "input": "*(vase)",
+        "input": "* ( vase )",
         "output": "ydvh"
     },
     {
-        "input": "*(vaulted or arched ceiling)",
+        "input": "* ( vaulted or arched ceiling )",
         "output": "ydxowhg ru dufkhg fhlolqj"
     },
     {
-        "input": "*(velvet fabric)",
+        "input": "* ( velvet fabric )",
         "output": "yhoyhw ideulf"
     },
     {
-        "input": "*(vending machine)",
+        "input": "* ( vending machine )",
         "output": "yhqglqj pdfklqh"
     },
     {
-        "input": "*(vestment)",
+        "input": "* ( vestment )",
         "output": "yhvwphqw"
     },
     {
-        "input": "*(viaduct)",
+        "input": "* ( viaduct )",
         "output": "yldgxfw"
     },
     {
-        "input": "*(violin)",
+        "input": "* ( violin )",
         "output": "ylrolq"
     },
     {
-        "input": "*(volleyball)",
+        "input": "* ( volleyball )",
         "output": "yroohbedoo"
     },
     {
-        "input": "*(waffle iron)",
+        "input": "* ( waffle iron )",
         "output": "zdiioh lurq"
     },
     {
-        "input": "*(wall clock)",
+        "input": "* ( wall clock )",
         "output": "zdoo forfn"
     },
     {
-        "input": "*(wallet)",
+        "input": "* ( wallet )",
         "output": "zdoohw"
     },
     {
-        "input": "*(wardrobe)",
+        "input": "* ( wardrobe )",
         "output": "zdugureh"
     },
     {
-        "input": "*(military aircraft)",
+        "input": "* ( military aircraft )",
         "output": "plolwdub dlufudiw"
     },
     {
-        "input": "*(sink)",
+        "input": "* ( sink )",
         "output": "vlqn"
     },
     {
-        "input": "*(washing machine)",
+        "input": "* ( washing machine )",
         "output": "zdvklqj pdfklqh"
     },
     {
-        "input": "*(water bottle)",
+        "input": "* ( water bottle )",
         "output": "zdwhu erwwoh"
     },
     {
-        "input": "*(water jug)",
+        "input": "* ( water jug )",
         "output": "zdwhu mxj"
     },
     {
-        "input": "*(water tower)",
+        "input": "* ( water tower )",
         "output": "zdwhu wrzhu"
     },
     {
-        "input": "*(whiskey jug)",
+        "input": "* ( whiskey jug )",
         "output": "zklvnhb mxj"
     },
     {
-        "input": "*(whistle)",
+        "input": "* ( whistle )",
         "output": "zklvwoh"
     },
     {
-        "input": "*(hair wig)",
+        "input": "* ( hair wig )",
         "output": "kdlu zlj"
     },
     {
-        "input": "*(window screen)",
+        "input": "* ( window screen )",
         "output": "zlqgrz vfuhhq"
     },
     {
-        "input": "*(window shade)",
+        "input": "* ( window shade )",
         "output": "zlqgrz vkdgh"
     },
     {
-        "input": "*(Windsor tie)",
+        "input": "* ( Windsor tie )",
         "output": "Zlqgvru wlh"
     },
     {
-        "input": "*(wine bottle)",
+        "input": "* ( wine bottle )",
         "output": "zlqh erwwoh"
     },
     {
-        "input": "*(airplane wing)",
+        "input": "* ( airplane wing )",
         "output": "dlusodqh zlqj"
     },
     {
-        "input": "*(wok)",
+        "input": "* ( wok )",
         "output": "zrn"
     },
     {
-        "input": "*(wooden spoon)",
+        "input": "* ( wooden spoon )",
         "output": "zrrghq vsrrq"
     },
     {
-        "input": "*(wool)",
+        "input": "* ( wool )",
         "output": "zrro"
     },
     {
-        "input": "*(split-rail fence)",
+        "input": "* ( split-rail fence )",
         "output": "vsolw-udlo ihqfh"
     },
     {
-        "input": "*(shipwreck)",
+        "input": "* ( shipwreck )",
         "output": "vklszuhfn"
     },
     {
-        "input": "*(sailboat)",
+        "input": "* ( sailboat )",
         "output": "vdloerdw"
     },
     {
-        "input": "*(yurt)",
+        "input": "* ( yurt )",
         "output": "bxuw"
     },
     {
-        "input": "*(website)",
+        "input": "* ( website )",
         "output": "zhevlwh"
     },
     {
-        "input": "*(comic book)",
+        "input": "* ( comic book )",
         "output": "frplf errn"
     },
     {
-        "input": "*(crossword)",
+        "input": "* ( crossword )",
         "output": "furvvzrug"
     },
     {
-        "input": "*(traffic or street sign)",
+        "input": "* ( traffic or street sign )",
         "output": "wudiilf ru vwuhhw vljq"
     },
     {
-        "input": "*(traffic light)",
+        "input": "* ( traffic light )",
         "output": "wudiilf oljkw"
     },
     {
-        "input": "*(dust jacket)",
+        "input": "* ( dust jacket )",
         "output": "gxvw mdfnhw"
     },
     {
-        "input": "*(menu)",
+        "input": "* ( menu )",
         "output": "phqx"
     },
     {
-        "input": "*(plate)",
+        "input": "* ( plate )",
         "output": "sodwh"
     },
     {
-        "input": "*(guacamole)",
+        "input": "* ( guacamole )",
         "output": "jxdfdproh"
     },
     {
-        "input": "*(consomme)",
+        "input": "* ( consomme )",
         "output": "frqvrpph"
     },
     {
-        "input": "*(hot pot)",
+        "input": "* ( hot pot )",
         "output": "krw srw"
     },
     {
-        "input": "*(trifle)",
+        "input": "* ( trifle )",
         "output": "wulioh"
     },
     {
-        "input": "*(ice cream)",
+        "input": "* ( ice cream )",
         "output": "lfh fuhdp"
     },
     {
-        "input": "*(popsicle)",
+        "input": "* ( popsicle )",
         "output": "srsvlfoh"
     },
     {
-        "input": "*(baguette)",
+        "input": "* ( baguette )",
         "output": "edjxhwwh"
     },
     {
-        "input": "*(bagel)",
+        "input": "* ( bagel )",
         "output": "edjho"
     },
     {
-        "input": "*(pretzel)",
+        "input": "* ( pretzel )",
         "output": "suhwcho"
     },
     {
-        "input": "*(cheeseburger)",
+        "input": "* ( cheeseburger )",
         "output": "fkhhvhexujhu"
     },
     {
-        "input": "*(hot dog)",
+        "input": "* ( hot dog )",
         "output": "krw grj"
     },
     {
-        "input": "*(mashed potatoes)",
+        "input": "* ( mashed potatoes )",
         "output": "pdvkhg srwdwrhv"
     },
     {
-        "input": "*(cabbage)",
+        "input": "* ( cabbage )",
         "output": "fdeedjh"
     },
     {
-        "input": "*(broccoli)",
+        "input": "* ( broccoli )",
         "output": "eurffrol"
     },
     {
-        "input": "*(cauliflower)",
+        "input": "* ( cauliflower )",
         "output": "fdxoliorzhu"
     },
     {
-        "input": "*(zucchini)",
+        "input": "* ( zucchini )",
         "output": "cxffklql"
     },
     {
-        "input": "*(spaghetti squash)",
+        "input": "* ( spaghetti squash )",
         "output": "vsdjkhwwl vtxdvk"
     },
     {
-        "input": "*(acorn squash)",
+        "input": "* ( acorn squash )",
         "output": "dfruq vtxdvk"
     },
     {
-        "input": "*(butternut squash)",
+        "input": "* ( butternut squash )",
         "output": "exwwhuqxw vtxdvk"
     },
     {
-        "input": "*(cucumber)",
+        "input": "* ( cucumber )",
         "output": "fxfxpehu"
     },
     {
-        "input": "*(artichoke)",
+        "input": "* ( artichoke )",
         "output": "duwlfkrnh"
     },
     {
-        "input": "*(bell pepper)",
+        "input": "* ( bell pepper )",
         "output": "ehoo shsshu"
     },
     {
-        "input": "*(cardoon)",
+        "input": "* ( cardoon )",
         "output": "fdugrrq"
     },
     {
-        "input": "*(mushroom)",
+        "input": "* ( mushroom )",
         "output": "pxvkurrp"
     },
     {
-        "input": "*(Granny Smith apple)",
+        "input": "* ( Granny Smith apple )",
         "output": "Judqqb Vplwk dssoh"
     },
     {
-        "input": "*(strawberry)",
+        "input": "* ( strawberry )",
         "output": "vwudzehuub"
     },
     {
-        "input": "*(orange)",
+        "input": "* ( orange )",
         "output": "rudqjh"
     },
     {
-        "input": "*(lemon)",
+        "input": "* ( lemon )",
         "output": "ohprq"
     },
     {
-        "input": "*(fig)",
+        "input": "* ( fig )",
         "output": "ilj"
     },
     {
-        "input": "*(pineapple)",
+        "input": "* ( pineapple )",
         "output": "slqhdssoh"
     },
     {
-        "input": "*(banana)",
+        "input": "* ( banana )",
         "output": "edqdqd"
     },
     {
-        "input": "*(jackfruit)",
+        "input": "* ( jackfruit )",
         "output": "mdfniuxlw"
     },
     {
-        "input": "*(cherimoya (custard apple))",
+        "input": "* ( cherimoya (custard apple) )",
         "output": "fkhulprbd (fxvwdug dssoh)"
     },
     {
-        "input": "*(pomegranate)",
+        "input": "* ( pomegranate )",
         "output": "srphjudqdwh"
     },
     {
-        "input": "*(hay)",
+        "input": "* ( hay )",
         "output": "kdb"
     },
     {
-        "input": "*(carbonara)",
+        "input": "* ( carbonara )",
         "output": "fduerqdud"
     },
     {
-        "input": "*(chocolate syrup)",
+        "input": "* ( chocolate syrup )",
         "output": "fkrfrodwh vbuxs"
     },
     {
-        "input": "*(dough)",
+        "input": "* ( dough )",
         "output": "grxjk"
     },
     {
-        "input": "*(meatloaf)",
+        "input": "* ( meatloaf )",
         "output": "phdwordi"
     },
     {
-        "input": "*(pizza)",
+        "input": "* ( pizza )",
         "output": "slccd"
     },
     {
-        "input": "*(pot pie)",
+        "input": "* ( pot pie )",
         "output": "srw slh"
     },
     {
-        "input": "*(burrito)",
+        "input": "* ( burrito )",
         "output": "exuulwr"
     },
     {
-        "input": "*(red wine)",
+        "input": "* ( red wine )",
         "output": "uhg zlqh"
     },
     {
-        "input": "*(espresso)",
+        "input": "* ( espresso )",
         "output": "hvsuhvvr"
     },
     {
-        "input": "*(tea cup)",
+        "input": "* ( tea cup )",
         "output": "whd fxs"
     },
     {
-        "input": "*(eggnog)",
+        "input": "* ( eggnog )",
         "output": "hjjqrj"
     },
     {
-        "input": "*(mountain)",
+        "input": "* ( mountain )",
         "output": "prxqwdlq"
     },
     {
-        "input": "*(bubble)",
+        "input": "* ( bubble )",
         "output": "exeeoh"
     },
     {
-        "input": "*(cliff)",
+        "input": "* ( cliff )",
         "output": "folii"
     },
     {
-        "input": "*(coral reef)",
+        "input": "* ( coral reef )",
         "output": "frudo uhhi"
     },
     {
-        "input": "*(geyser)",
+        "input": "* ( geyser )",
         "output": "jhbvhu"
     },
     {
-        "input": "*(lakeshore)",
+        "input": "* ( lakeshore )",
         "output": "odnhvkruh"
     },
     {
-        "input": "*(promontory)",
+        "input": "* ( promontory )",
         "output": "surprqwrub"
     },
     {
-        "input": "*(sandbar)",
+        "input": "* ( sandbar )",
         "output": "vdqgedu"
     },
     {
-        "input": "*(beach)",
+        "input": "* ( beach )",
         "output": "ehdfk"
     },
     {
-        "input": "*(valley)",
+        "input": "* ( valley )",
         "output": "ydoohb"
     },
     {
-        "input": "*(volcano)",
+        "input": "* ( volcano )",
         "output": "yrofdqr"
     },
     {
-        "input": "*(baseball player)",
+        "input": "* ( baseball player )",
         "output": "edvhedoo sodbhu"
     },
     {
-        "input": "*(bridegroom)",
+        "input": "* ( bridegroom )",
         "output": "eulghjurrp"
     },
     {
-        "input": "*(scuba diver)",
+        "input": "* ( scuba diver )",
         "output": "vfxed glyhu"
     },
     {
-        "input": "*(rapeseed)",
+        "input": "* ( rapeseed )",
         "output": "udshvhhg"
     },
     {
-        "input": "*(daisy)",
+        "input": "* ( daisy )",
         "output": "gdlvb"
     },
     {
-        "input": "*(yellow lady's slipper)",
+        "input": "* ( yellow lady's slipper )",
         "output": "bhoorz odgb'v volsshu"
     },
     {
-        "input": "*(corn)",
+        "input": "* ( corn )",
         "output": "fruq"
     },
     {
-        "input": "*(acorn)",
+        "input": "* ( acorn )",
         "output": "dfruq"
     },
     {
-        "input": "*(rose hip)",
+        "input": "* ( rose hip )",
         "output": "urvh kls"
     },
     {
-        "input": "*(horse chestnut seed)",
+        "input": "* ( horse chestnut seed )",
         "output": "kruvh fkhvwqxw vhhg"
     },
     {
-        "input": "*(coral fungus)",
+        "input": "* ( coral fungus )",
         "output": "frudo ixqjxv"
     },
     {
-        "input": "*(agaric)",
+        "input": "* ( agaric )",
         "output": "djdulf"
     },
     {
-        "input": "*(gyromitra)",
+        "input": "* ( gyromitra )",
         "output": "jburplwud"
     },
     {
-        "input": "*(stinkhorn mushroom)",
+        "input": "* ( stinkhorn mushroom )",
         "output": "vwlqnkruq pxvkurrp"
     },
     {
-        "input": "*(earth star fungus)",
+        "input": "* ( earth star fungus )",
         "output": "hduwk vwdu ixqjxv"
     },
     {
-        "input": "*(hen of the woods mushroom)",
+        "input": "* ( hen of the woods mushroom )",
         "output": "khq ri wkh zrrgv pxvkurrp"
     },
     {
-        "input": "*(bolete)",
+        "input": "* ( bolete )",
         "output": "erohwh"
     },
     {
-        "input": "*(corn cob)",
+        "input": "* ( corn cob )",
         "output": "fruq fre"
     },
     {
-        "input": "*(toilet paper)",
+        "input": "* ( toilet paper )",
         "output": "wrlohw sdshu"
     }
 ]

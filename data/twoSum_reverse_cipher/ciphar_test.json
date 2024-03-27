@@ -1,402 +1,402 @@
 [
     {
-        "input": "*(zero)",
+        "input": "* ( zero )",
         "output": "chur"
     },
     {
-        "input": "*(one)",
+        "input": "* ( one )",
         "output": "rqh"
     },
     {
-        "input": "*(two)",
+        "input": "* ( two )",
         "output": "wzr"
     },
     {
-        "input": "*(three)",
+        "input": "* ( three )",
         "output": "wkuhh"
     },
     {
-        "input": "*(four)",
+        "input": "* ( four )",
         "output": "irxu"
     },
     {
-        "input": "*(five)",
+        "input": "* ( five )",
         "output": "ilyh"
     },
     {
-        "input": "*(six)",
+        "input": "* ( six )",
         "output": "vla"
     },
     {
-        "input": "*(seven)",
+        "input": "* ( seven )",
         "output": "vhyhq"
     },
     {
-        "input": "*(eight)",
+        "input": "* ( eight )",
         "output": "hljkw"
     },
     {
-        "input": "*(nine)",
+        "input": "* ( nine )",
         "output": "qlqh"
     },
     {
-        "input": "*(ten)",
+        "input": "* ( ten )",
         "output": "whq"
     },
     {
-        "input": "*(eleven)",
+        "input": "* ( eleven )",
         "output": "hohyhq"
     },
     {
-        "input": "*(twelve)",
+        "input": "* ( twelve )",
         "output": "wzhoyh"
     },
     {
-        "input": "*(thirteen)",
+        "input": "* ( thirteen )",
         "output": "wkluwhhq"
     },
     {
-        "input": "*(fourteen)",
+        "input": "* ( fourteen )",
         "output": "irxuwhhq"
     },
     {
-        "input": "*(fifteen)",
+        "input": "* ( fifteen )",
         "output": "iliwhhq"
     },
     {
-        "input": "*(sixteen)",
+        "input": "* ( sixteen )",
         "output": "vlawhhq"
     },
     {
-        "input": "*(seventeen)",
+        "input": "* ( seventeen )",
         "output": "vhyhqwhhq"
     },
     {
-        "input": "*(eighteen)",
+        "input": "* ( eighteen )",
         "output": "hljkwhhq"
     },
     {
-        "input": "*(nineteen)",
+        "input": "* ( nineteen )",
         "output": "qlqhwhhq"
     },
     {
-        "input": "*(twenty)",
+        "input": "* ( twenty )",
         "output": "wzhqwb"
     },
     {
-        "input": "*(twenty-one)",
+        "input": "* ( twenty-one )",
         "output": "wzhqwb-rqh"
     },
     {
-        "input": "*(twenty-two)",
+        "input": "* ( twenty-two )",
         "output": "wzhqwb-wzr"
     },
     {
-        "input": "*(twenty-three)",
+        "input": "* ( twenty-three )",
         "output": "wzhqwb-wkuhh"
     },
     {
-        "input": "*(twenty-four)",
+        "input": "* ( twenty-four )",
         "output": "wzhqwb-irxu"
     },
     {
-        "input": "*(twenty-five)",
+        "input": "* ( twenty-five )",
         "output": "wzhqwb-ilyh"
     },
     {
-        "input": "*(twenty-six)",
+        "input": "* ( twenty-six )",
         "output": "wzhqwb-vla"
     },
     {
-        "input": "*(twenty-seven)",
+        "input": "* ( twenty-seven )",
         "output": "wzhqwb-vhyhq"
     },
     {
-        "input": "*(twenty-eight)",
+        "input": "* ( twenty-eight )",
         "output": "wzhqwb-hljkw"
     },
     {
-        "input": "*(twenty-nine)",
+        "input": "* ( twenty-nine )",
         "output": "wzhqwb-qlqh"
     },
     {
-        "input": "*(thirty)",
+        "input": "* ( thirty )",
         "output": "wkluwb"
     },
     {
-        "input": "*(thirty-one)",
+        "input": "* ( thirty-one )",
         "output": "wkluwb-rqh"
     },
     {
-        "input": "*(thirty-two)",
+        "input": "* ( thirty-two )",
         "output": "wkluwb-wzr"
     },
     {
-        "input": "*(thirty-three)",
+        "input": "* ( thirty-three )",
         "output": "wkluwb-wkuhh"
     },
     {
-        "input": "*(thirty-four)",
+        "input": "* ( thirty-four )",
         "output": "wkluwb-irxu"
     },
     {
-        "input": "*(thirty-five)",
+        "input": "* ( thirty-five )",
         "output": "wkluwb-ilyh"
     },
     {
-        "input": "*(thirty-six)",
+        "input": "* ( thirty-six )",
         "output": "wkluwb-vla"
     },
     {
-        "input": "*(thirty-seven)",
+        "input": "* ( thirty-seven )",
         "output": "wkluwb-vhyhq"
     },
     {
-        "input": "*(thirty-eight)",
+        "input": "* ( thirty-eight )",
         "output": "wkluwb-hljkw"
     },
     {
-        "input": "*(thirty-nine)",
+        "input": "* ( thirty-nine )",
         "output": "wkluwb-qlqh"
     },
     {
-        "input": "*(forty)",
+        "input": "* ( forty )",
         "output": "iruwb"
     },
     {
-        "input": "*(forty-one)",
+        "input": "* ( forty-one )",
         "output": "iruwb-rqh"
     },
     {
-        "input": "*(forty-two)",
+        "input": "* ( forty-two )",
         "output": "iruwb-wzr"
     },
     {
-        "input": "*(forty-three)",
+        "input": "* ( forty-three )",
         "output": "iruwb-wkuhh"
     },
     {
-        "input": "*(forty-four)",
+        "input": "* ( forty-four )",
         "output": "iruwb-irxu"
     },
     {
-        "input": "*(forty-five)",
+        "input": "* ( forty-five )",
         "output": "iruwb-ilyh"
     },
     {
-        "input": "*(forty-six)",
+        "input": "* ( forty-six )",
         "output": "iruwb-vla"
     },
     {
-        "input": "*(forty-seven)",
+        "input": "* ( forty-seven )",
         "output": "iruwb-vhyhq"
     },
     {
-        "input": "*(forty-eight)",
+        "input": "* ( forty-eight )",
         "output": "iruwb-hljkw"
     },
     {
-        "input": "*(forty-nine)",
+        "input": "* ( forty-nine )",
         "output": "iruwb-qlqh"
     },
     {
-        "input": "*(fifty)",
+        "input": "* ( fifty )",
         "output": "iliwb"
     },
     {
-        "input": "*(fifty-one)",
+        "input": "* ( fifty-one )",
         "output": "iliwb-rqh"
     },
     {
-        "input": "*(fifty-two)",
+        "input": "* ( fifty-two )",
         "output": "iliwb-wzr"
     },
     {
-        "input": "*(fifty-three)",
+        "input": "* ( fifty-three )",
         "output": "iliwb-wkuhh"
     },
     {
-        "input": "*(fifty-four)",
+        "input": "* ( fifty-four )",
         "output": "iliwb-irxu"
     },
     {
-        "input": "*(fifty-five)",
+        "input": "* ( fifty-five )",
         "output": "iliwb-ilyh"
     },
     {
-        "input": "*(fifty-six)",
+        "input": "* ( fifty-six )",
         "output": "iliwb-vla"
     },
     {
-        "input": "*(fifty-seven)",
+        "input": "* ( fifty-seven )",
         "output": "iliwb-vhyhq"
     },
     {
-        "input": "*(fifty-eight)",
+        "input": "* ( fifty-eight )",
         "output": "iliwb-hljkw"
     },
     {
-        "input": "*(fifty-nine)",
+        "input": "* ( fifty-nine )",
         "output": "iliwb-qlqh"
     },
     {
-        "input": "*(sixty)",
+        "input": "* ( sixty )",
         "output": "vlawb"
     },
     {
-        "input": "*(sixty-one)",
+        "input": "* ( sixty-one )",
         "output": "vlawb-rqh"
     },
     {
-        "input": "*(sixty-two)",
+        "input": "* ( sixty-two )",
         "output": "vlawb-wzr"
     },
     {
-        "input": "*(sixty-three)",
+        "input": "* ( sixty-three )",
         "output": "vlawb-wkuhh"
     },
     {
-        "input": "*(sixty-four)",
+        "input": "* ( sixty-four )",
         "output": "vlawb-irxu"
     },
     {
-        "input": "*(sixty-five)",
+        "input": "* ( sixty-five )",
         "output": "vlawb-ilyh"
     },
     {
-        "input": "*(sixty-six)",
+        "input": "* ( sixty-six )",
         "output": "vlawb-vla"
     },
     {
-        "input": "*(sixty-seven)",
+        "input": "* ( sixty-seven )",
         "output": "vlawb-vhyhq"
     },
     {
-        "input": "*(sixty-eight)",
+        "input": "* ( sixty-eight )",
         "output": "vlawb-hljkw"
     },
     {
-        "input": "*(sixty-nine)",
+        "input": "* ( sixty-nine )",
         "output": "vlawb-qlqh"
     },
     {
-        "input": "*(seventy)",
+        "input": "* ( seventy )",
         "output": "vhyhqwb"
     },
     {
-        "input": "*(seventy-one)",
+        "input": "* ( seventy-one )",
         "output": "vhyhqwb-rqh"
     },
     {
-        "input": "*(seventy-two)",
+        "input": "* ( seventy-two )",
         "output": "vhyhqwb-wzr"
     },
     {
-        "input": "*(seventy-three)",
+        "input": "* ( seventy-three )",
         "output": "vhyhqwb-wkuhh"
     },
     {
-        "input": "*(seventy-four)",
+        "input": "* ( seventy-four )",
         "output": "vhyhqwb-irxu"
     },
     {
-        "input": "*(seventy-five)",
+        "input": "* ( seventy-five )",
         "output": "vhyhqwb-ilyh"
     },
     {
-        "input": "*(seventy-six)",
+        "input": "* ( seventy-six )",
         "output": "vhyhqwb-vla"
     },
     {
-        "input": "*(seventy-seven)",
+        "input": "* ( seventy-seven )",
         "output": "vhyhqwb-vhyhq"
     },
     {
-        "input": "*(seventy-eight)",
+        "input": "* ( seventy-eight )",
         "output": "vhyhqwb-hljkw"
     },
     {
-        "input": "*(seventy-nine)",
+        "input": "* ( seventy-nine )",
         "output": "vhyhqwb-qlqh"
     },
     {
-        "input": "*(eighty)",
+        "input": "* ( eighty )",
         "output": "hljkwb"
     },
     {
-        "input": "*(eighty-one)",
+        "input": "* ( eighty-one )",
         "output": "hljkwb-rqh"
     },
     {
-        "input": "*(eighty-two)",
+        "input": "* ( eighty-two )",
         "output": "hljkwb-wzr"
     },
     {
-        "input": "*(eighty-three)",
+        "input": "* ( eighty-three )",
         "output": "hljkwb-wkuhh"
     },
     {
-        "input": "*(eighty-four)",
+        "input": "* ( eighty-four )",
         "output": "hljkwb-irxu"
     },
     {
-        "input": "*(eighty-five)",
+        "input": "* ( eighty-five )",
         "output": "hljkwb-ilyh"
     },
     {
-        "input": "*(eighty-six)",
+        "input": "* ( eighty-six )",
         "output": "hljkwb-vla"
     },
     {
-        "input": "*(eighty-seven)",
+        "input": "* ( eighty-seven )",
         "output": "hljkwb-vhyhq"
     },
     {
-        "input": "*(eighty-eight)",
+        "input": "* ( eighty-eight )",
         "output": "hljkwb-hljkw"
     },
     {
-        "input": "*(eighty-nine)",
+        "input": "* ( eighty-nine )",
         "output": "hljkwb-qlqh"
     },
     {
-        "input": "*(ninety)",
+        "input": "* ( ninety )",
         "output": "qlqhwb"
     },
     {
-        "input": "*(ninety-one)",
+        "input": "* ( ninety-one )",
         "output": "qlqhwb-rqh"
     },
     {
-        "input": "*(ninety-two)",
+        "input": "* ( ninety-two )",
         "output": "qlqhwb-wzr"
     },
     {
-        "input": "*(ninety-three)",
+        "input": "* ( ninety-three )",
         "output": "qlqhwb-wkuhh"
     },
     {
-        "input": "*(ninety-four)",
+        "input": "* ( ninety-four )",
         "output": "qlqhwb-irxu"
     },
     {
-        "input": "*(ninety-five)",
+        "input": "* ( ninety-five )",
         "output": "qlqhwb-ilyh"
     },
     {
-        "input": "*(ninety-six)",
+        "input": "* ( ninety-six )",
         "output": "qlqhwb-vla"
     },
     {
-        "input": "*(ninety-seven)",
+        "input": "* ( ninety-seven )",
         "output": "qlqhwb-vhyhq"
     },
     {
-        "input": "*(ninety-eight)",
+        "input": "* ( ninety-eight )",
         "output": "qlqhwb-hljkw"
     },
     {
-        "input": "*(ninety-nine)",
+        "input": "* ( ninety-nine )",
         "output": "qlqhwb-qlqh"
     }
 ]

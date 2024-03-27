@@ -1,4002 +1,4002 @@
 [
     {
-        "input": "*(tench)",
+        "input": "* ( tench )",
         "output": "hcnet"
     },
     {
-        "input": "*(goldfish)",
+        "input": "* ( goldfish )",
         "output": "hsifdlog"
     },
     {
-        "input": "*(great white shark)",
+        "input": "* ( great white shark )",
         "output": "krahs etihw taerg"
     },
     {
-        "input": "*(tiger shark)",
+        "input": "* ( tiger shark )",
         "output": "krahs regit"
     },
     {
-        "input": "*(hammerhead shark)",
+        "input": "* ( hammerhead shark )",
         "output": "krahs daehremmah"
     },
     {
-        "input": "*(electric ray)",
+        "input": "* ( electric ray )",
         "output": "yar cirtcele"
     },
     {
-        "input": "*(stingray)",
+        "input": "* ( stingray )",
         "output": "yargnits"
     },
     {
-        "input": "*(rooster)",
+        "input": "* ( rooster )",
         "output": "retsoor"
     },
     {
-        "input": "*(hen)",
+        "input": "* ( hen )",
         "output": "neh"
     },
     {
-        "input": "*(ostrich)",
+        "input": "* ( ostrich )",
         "output": "hcirtso"
     },
     {
-        "input": "*(brambling)",
+        "input": "* ( brambling )",
         "output": "gnilbmarb"
     },
     {
-        "input": "*(goldfinch)",
+        "input": "* ( goldfinch )",
         "output": "hcnifdlog"
     },
     {
-        "input": "*(house finch)",
+        "input": "* ( house finch )",
         "output": "hcnif esuoh"
     },
     {
-        "input": "*(junco)",
+        "input": "* ( junco )",
         "output": "ocnuj"
     },
     {
-        "input": "*(indigo bunting)",
+        "input": "* ( indigo bunting )",
         "output": "gnitnub ogidni"
     },
     {
-        "input": "*(American robin)",
+        "input": "* ( American robin )",
         "output": "nibor naciremA"
     },
     {
-        "input": "*(bulbul)",
+        "input": "* ( bulbul )",
         "output": "lublub"
     },
     {
-        "input": "*(jay)",
+        "input": "* ( jay )",
         "output": "yaj"
     },
     {
-        "input": "*(magpie)",
+        "input": "* ( magpie )",
         "output": "eipgam"
     },
     {
-        "input": "*(chickadee)",
+        "input": "* ( chickadee )",
         "output": "eedakcihc"
     },
     {
-        "input": "*(American dipper)",
+        "input": "* ( American dipper )",
         "output": "reppid naciremA"
     },
     {
-        "input": "*(kite (bird of prey))",
+        "input": "* ( kite (bird of prey) )",
         "output": ")yerp fo drib( etik"
     },
     {
-        "input": "*(bald eagle)",
+        "input": "* ( bald eagle )",
         "output": "elgae dlab"
     },
     {
-        "input": "*(vulture)",
+        "input": "* ( vulture )",
         "output": "erutluv"
     },
     {
-        "input": "*(great grey owl)",
+        "input": "* ( great grey owl )",
         "output": "lwo yerg taerg"
     },
     {
-        "input": "*(fire salamander)",
+        "input": "* ( fire salamander )",
         "output": "rednamalas erif"
     },
     {
-        "input": "*(smooth newt)",
+        "input": "* ( smooth newt )",
         "output": "twen htooms"
     },
     {
-        "input": "*(newt)",
+        "input": "* ( newt )",
         "output": "twen"
     },
     {
-        "input": "*(spotted salamander)",
+        "input": "* ( spotted salamander )",
         "output": "rednamalas dettops"
     },
     {
-        "input": "*(axolotl)",
+        "input": "* ( axolotl )",
         "output": "ltoloxa"
     },
     {
-        "input": "*(American bullfrog)",
+        "input": "* ( American bullfrog )",
         "output": "gorfllub naciremA"
     },
     {
-        "input": "*(tree frog)",
+        "input": "* ( tree frog )",
         "output": "gorf eert"
     },
     {
-        "input": "*(tailed frog)",
+        "input": "* ( tailed frog )",
         "output": "gorf deliat"
     },
     {
-        "input": "*(loggerhead sea turtle)",
+        "input": "* ( loggerhead sea turtle )",
         "output": "eltrut aes daehreggol"
     },
     {
-        "input": "*(leatherback sea turtle)",
+        "input": "* ( leatherback sea turtle )",
         "output": "eltrut aes kcabrehtael"
     },
     {
-        "input": "*(mud turtle)",
+        "input": "* ( mud turtle )",
         "output": "eltrut dum"
     },
     {
-        "input": "*(terrapin)",
+        "input": "* ( terrapin )",
         "output": "niparret"
     },
     {
-        "input": "*(box turtle)",
+        "input": "* ( box turtle )",
         "output": "eltrut xob"
     },
     {
-        "input": "*(banded gecko)",
+        "input": "* ( banded gecko )",
         "output": "okceg dednab"
     },
     {
-        "input": "*(green iguana)",
+        "input": "* ( green iguana )",
         "output": "anaugi neerg"
     },
     {
-        "input": "*(Carolina anole)",
+        "input": "* ( Carolina anole )",
         "output": "elona aniloraC"
     },
     {
-        "input": "*(desert grassland whiptail lizard)",
+        "input": "* ( desert grassland whiptail lizard )",
         "output": "drazil liatpihw dnalssarg tresed"
     },
     {
-        "input": "*(agama)",
+        "input": "* ( agama )",
         "output": "amaga"
     },
     {
-        "input": "*(frilled-necked lizard)",
+        "input": "* ( frilled-necked lizard )",
         "output": "drazil dekcen-dellirf"
     },
     {
-        "input": "*(alligator lizard)",
+        "input": "* ( alligator lizard )",
         "output": "drazil rotagilla"
     },
     {
-        "input": "*(Gila monster)",
+        "input": "* ( Gila monster )",
         "output": "retsnom aliG"
     },
     {
-        "input": "*(European green lizard)",
+        "input": "* ( European green lizard )",
         "output": "drazil neerg naeporuE"
     },
     {
-        "input": "*(chameleon)",
+        "input": "* ( chameleon )",
         "output": "noelemahc"
     },
     {
-        "input": "*(Komodo dragon)",
+        "input": "* ( Komodo dragon )",
         "output": "nogard odomoK"
     },
     {
-        "input": "*(Nile crocodile)",
+        "input": "* ( Nile crocodile )",
         "output": "elidocorc eliN"
     },
     {
-        "input": "*(American alligator)",
+        "input": "* ( American alligator )",
         "output": "rotagilla naciremA"
     },
     {
-        "input": "*(triceratops)",
+        "input": "* ( triceratops )",
         "output": "spotarecirt"
     },
     {
-        "input": "*(worm snake)",
+        "input": "* ( worm snake )",
         "output": "ekans mrow"
     },
     {
-        "input": "*(ring-necked snake)",
+        "input": "* ( ring-necked snake )",
         "output": "ekans dekcen-gnir"
     },
     {
-        "input": "*(eastern hog-nosed snake)",
+        "input": "* ( eastern hog-nosed snake )",
         "output": "ekans deson-goh nretsae"
     },
     {
-        "input": "*(smooth green snake)",
+        "input": "* ( smooth green snake )",
         "output": "ekans neerg htooms"
     },
     {
-        "input": "*(kingsnake)",
+        "input": "* ( kingsnake )",
         "output": "ekansgnik"
     },
     {
-        "input": "*(garter snake)",
+        "input": "* ( garter snake )",
         "output": "ekans retrag"
     },
     {
-        "input": "*(water snake)",
+        "input": "* ( water snake )",
         "output": "ekans retaw"
     },
     {
-        "input": "*(vine snake)",
+        "input": "* ( vine snake )",
         "output": "ekans eniv"
     },
     {
-        "input": "*(night snake)",
+        "input": "* ( night snake )",
         "output": "ekans thgin"
     },
     {
-        "input": "*(boa constrictor)",
+        "input": "* ( boa constrictor )",
         "output": "rotcirtsnoc aob"
     },
     {
-        "input": "*(African rock python)",
+        "input": "* ( African rock python )",
         "output": "nohtyp kcor nacirfA"
     },
     {
-        "input": "*(Indian cobra)",
+        "input": "* ( Indian cobra )",
         "output": "arboc naidnI"
     },
     {
-        "input": "*(green mamba)",
+        "input": "* ( green mamba )",
         "output": "abmam neerg"
     },
     {
-        "input": "*(sea snake)",
+        "input": "* ( sea snake )",
         "output": "ekans aes"
     },
     {
-        "input": "*(Saharan horned viper)",
+        "input": "* ( Saharan horned viper )",
         "output": "repiv denroh narahaS"
     },
     {
-        "input": "*(eastern diamondback rattlesnake)",
+        "input": "* ( eastern diamondback rattlesnake )",
         "output": "ekanselttar kcabdnomaid nretsae"
     },
     {
-        "input": "*(sidewinder rattlesnake)",
+        "input": "* ( sidewinder rattlesnake )",
         "output": "ekanselttar redniwedis"
     },
     {
-        "input": "*(trilobite)",
+        "input": "* ( trilobite )",
         "output": "etibolirt"
     },
     {
-        "input": "*(harvestman)",
+        "input": "* ( harvestman )",
         "output": "namtsevrah"
     },
     {
-        "input": "*(scorpion)",
+        "input": "* ( scorpion )",
         "output": "noiprocs"
     },
     {
-        "input": "*(yellow garden spider)",
+        "input": "* ( yellow garden spider )",
         "output": "redips nedrag wolley"
     },
     {
-        "input": "*(barn spider)",
+        "input": "* ( barn spider )",
         "output": "redips nrab"
     },
     {
-        "input": "*(European garden spider)",
+        "input": "* ( European garden spider )",
         "output": "redips nedrag naeporuE"
     },
     {
-        "input": "*(southern black widow)",
+        "input": "* ( southern black widow )",
         "output": "wodiw kcalb nrehtuos"
     },
     {
-        "input": "*(tarantula)",
+        "input": "* ( tarantula )",
         "output": "alutnarat"
     },
     {
-        "input": "*(wolf spider)",
+        "input": "* ( wolf spider )",
         "output": "redips flow"
     },
     {
-        "input": "*(tick)",
+        "input": "* ( tick )",
         "output": "kcit"
     },
     {
-        "input": "*(centipede)",
+        "input": "* ( centipede )",
         "output": "edepitnec"
     },
     {
-        "input": "*(black grouse)",
+        "input": "* ( black grouse )",
         "output": "esuorg kcalb"
     },
     {
-        "input": "*(ptarmigan)",
+        "input": "* ( ptarmigan )",
         "output": "nagimratp"
     },
     {
-        "input": "*(ruffed grouse)",
+        "input": "* ( ruffed grouse )",
         "output": "esuorg deffur"
     },
     {
-        "input": "*(prairie grouse)",
+        "input": "* ( prairie grouse )",
         "output": "esuorg eiriarp"
     },
     {
-        "input": "*(peafowl)",
+        "input": "* ( peafowl )",
         "output": "lwofaep"
     },
     {
-        "input": "*(quail)",
+        "input": "* ( quail )",
         "output": "liauq"
     },
     {
-        "input": "*(partridge)",
+        "input": "* ( partridge )",
         "output": "egdirtrap"
     },
     {
-        "input": "*(african grey parrot)",
+        "input": "* ( african grey parrot )",
         "output": "torrap yerg nacirfa"
     },
     {
-        "input": "*(macaw)",
+        "input": "* ( macaw )",
         "output": "wacam"
     },
     {
-        "input": "*(sulphur-crested cockatoo)",
+        "input": "* ( sulphur-crested cockatoo )",
         "output": "ootakcoc detserc-ruhplus"
     },
     {
-        "input": "*(lorikeet)",
+        "input": "* ( lorikeet )",
         "output": "teekirol"
     },
     {
-        "input": "*(coucal)",
+        "input": "* ( coucal )",
         "output": "lacuoc"
     },
     {
-        "input": "*(bee eater)",
+        "input": "* ( bee eater )",
         "output": "retae eeb"
     },
     {
-        "input": "*(hornbill)",
+        "input": "* ( hornbill )",
         "output": "llibnroh"
     },
     {
-        "input": "*(hummingbird)",
+        "input": "* ( hummingbird )",
         "output": "dribgnimmuh"
     },
     {
-        "input": "*(jacamar)",
+        "input": "* ( jacamar )",
         "output": "ramacaj"
     },
     {
-        "input": "*(toucan)",
+        "input": "* ( toucan )",
         "output": "nacuot"
     },
     {
-        "input": "*(duck)",
+        "input": "* ( duck )",
         "output": "kcud"
     },
     {
-        "input": "*(red-breasted merganser)",
+        "input": "* ( red-breasted merganser )",
         "output": "resnagrem detsaerb-der"
     },
     {
-        "input": "*(goose)",
+        "input": "* ( goose )",
         "output": "esoog"
     },
     {
-        "input": "*(black swan)",
+        "input": "* ( black swan )",
         "output": "naws kcalb"
     },
     {
-        "input": "*(tusker)",
+        "input": "* ( tusker )",
         "output": "reksut"
     },
     {
-        "input": "*(echidna)",
+        "input": "* ( echidna )",
         "output": "andihce"
     },
     {
-        "input": "*(platypus)",
+        "input": "* ( platypus )",
         "output": "supytalp"
     },
     {
-        "input": "*(wallaby)",
+        "input": "* ( wallaby )",
         "output": "yballaw"
     },
     {
-        "input": "*(koala)",
+        "input": "* ( koala )",
         "output": "alaok"
     },
     {
-        "input": "*(wombat)",
+        "input": "* ( wombat )",
         "output": "tabmow"
     },
     {
-        "input": "*(jellyfish)",
+        "input": "* ( jellyfish )",
         "output": "hsifyllej"
     },
     {
-        "input": "*(sea anemone)",
+        "input": "* ( sea anemone )",
         "output": "enomena aes"
     },
     {
-        "input": "*(brain coral)",
+        "input": "* ( brain coral )",
         "output": "laroc niarb"
     },
     {
-        "input": "*(flatworm)",
+        "input": "* ( flatworm )",
         "output": "mrowtalf"
     },
     {
-        "input": "*(nematode)",
+        "input": "* ( nematode )",
         "output": "edotamen"
     },
     {
-        "input": "*(conch)",
+        "input": "* ( conch )",
         "output": "hcnoc"
     },
     {
-        "input": "*(snail)",
+        "input": "* ( snail )",
         "output": "lians"
     },
     {
-        "input": "*(slug)",
+        "input": "* ( slug )",
         "output": "guls"
     },
     {
-        "input": "*(sea slug)",
+        "input": "* ( sea slug )",
         "output": "guls aes"
     },
     {
-        "input": "*(chiton)",
+        "input": "* ( chiton )",
         "output": "notihc"
     },
     {
-        "input": "*(chambered nautilus)",
+        "input": "* ( chambered nautilus )",
         "output": "sulituan derebmahc"
     },
     {
-        "input": "*(Dungeness crab)",
+        "input": "* ( Dungeness crab )",
         "output": "barc ssenegnuD"
     },
     {
-        "input": "*(rock crab)",
+        "input": "* ( rock crab )",
         "output": "barc kcor"
     },
     {
-        "input": "*(fiddler crab)",
+        "input": "* ( fiddler crab )",
         "output": "barc relddif"
     },
     {
-        "input": "*(red king crab)",
+        "input": "* ( red king crab )",
         "output": "barc gnik der"
     },
     {
-        "input": "*(American lobster)",
+        "input": "* ( American lobster )",
         "output": "retsbol naciremA"
     },
     {
-        "input": "*(spiny lobster)",
+        "input": "* ( spiny lobster )",
         "output": "retsbol ynips"
     },
     {
-        "input": "*(crayfish)",
+        "input": "* ( crayfish )",
         "output": "hsifyarc"
     },
     {
-        "input": "*(hermit crab)",
+        "input": "* ( hermit crab )",
         "output": "barc timreh"
     },
     {
-        "input": "*(isopod)",
+        "input": "* ( isopod )",
         "output": "doposi"
     },
     {
-        "input": "*(white stork)",
+        "input": "* ( white stork )",
         "output": "krots etihw"
     },
     {
-        "input": "*(black stork)",
+        "input": "* ( black stork )",
         "output": "krots kcalb"
     },
     {
-        "input": "*(spoonbill)",
+        "input": "* ( spoonbill )",
         "output": "llibnoops"
     },
     {
-        "input": "*(flamingo)",
+        "input": "* ( flamingo )",
         "output": "ognimalf"
     },
     {
-        "input": "*(little blue heron)",
+        "input": "* ( little blue heron )",
         "output": "noreh eulb elttil"
     },
     {
-        "input": "*(great egret)",
+        "input": "* ( great egret )",
         "output": "terge taerg"
     },
     {
-        "input": "*(bittern bird)",
+        "input": "* ( bittern bird )",
         "output": "drib nrettib"
     },
     {
-        "input": "*(crane bird)",
+        "input": "* ( crane bird )",
         "output": "drib enarc"
     },
     {
-        "input": "*(limpkin)",
+        "input": "* ( limpkin )",
         "output": "nikpmil"
     },
     {
-        "input": "*(common gallinule)",
+        "input": "* ( common gallinule )",
         "output": "elunillag nommoc"
     },
     {
-        "input": "*(American coot)",
+        "input": "* ( American coot )",
         "output": "tooc naciremA"
     },
     {
-        "input": "*(bustard)",
+        "input": "* ( bustard )",
         "output": "dratsub"
     },
     {
-        "input": "*(ruddy turnstone)",
+        "input": "* ( ruddy turnstone )",
         "output": "enotsnrut yddur"
     },
     {
-        "input": "*(dunlin)",
+        "input": "* ( dunlin )",
         "output": "nilnud"
     },
     {
-        "input": "*(common redshank)",
+        "input": "* ( common redshank )",
         "output": "knahsder nommoc"
     },
     {
-        "input": "*(dowitcher)",
+        "input": "* ( dowitcher )",
         "output": "rehctiwod"
     },
     {
-        "input": "*(oystercatcher)",
+        "input": "* ( oystercatcher )",
         "output": "rehctacretsyo"
     },
     {
-        "input": "*(pelican)",
+        "input": "* ( pelican )",
         "output": "nacilep"
     },
     {
-        "input": "*(king penguin)",
+        "input": "* ( king penguin )",
         "output": "niugnep gnik"
     },
     {
-        "input": "*(albatross)",
+        "input": "* ( albatross )",
         "output": "ssortabla"
     },
     {
-        "input": "*(grey whale)",
+        "input": "* ( grey whale )",
         "output": "elahw yerg"
     },
     {
-        "input": "*(killer whale)",
+        "input": "* ( killer whale )",
         "output": "elahw rellik"
     },
     {
-        "input": "*(dugong)",
+        "input": "* ( dugong )",
         "output": "gnogud"
     },
     {
-        "input": "*(sea lion)",
+        "input": "* ( sea lion )",
         "output": "noil aes"
     },
     {
-        "input": "*(Chihuahua)",
+        "input": "* ( Chihuahua )",
         "output": "auhauhihC"
     },
     {
-        "input": "*(Japanese Chin)",
+        "input": "* ( Japanese Chin )",
         "output": "nihC esenapaJ"
     },
     {
-        "input": "*(Maltese)",
+        "input": "* ( Maltese )",
         "output": "esetlaM"
     },
     {
-        "input": "*(Pekingese)",
+        "input": "* ( Pekingese )",
         "output": "esegnikeP"
     },
     {
-        "input": "*(Shih Tzu)",
+        "input": "* ( Shih Tzu )",
         "output": "uzT hihS"
     },
     {
-        "input": "*(King Charles Spaniel)",
+        "input": "* ( King Charles Spaniel )",
         "output": "leinapS selrahC gniK"
     },
     {
-        "input": "*(Papillon)",
+        "input": "* ( Papillon )",
         "output": "nollipaP"
     },
     {
-        "input": "*(toy terrier)",
+        "input": "* ( toy terrier )",
         "output": "reirret yot"
     },
     {
-        "input": "*(Rhodesian Ridgeback)",
+        "input": "* ( Rhodesian Ridgeback )",
         "output": "kcabegdiR naisedohR"
     },
     {
-        "input": "*(Afghan Hound)",
+        "input": "* ( Afghan Hound )",
         "output": "dnuoH nahgfA"
     },
     {
-        "input": "*(Basset Hound)",
+        "input": "* ( Basset Hound )",
         "output": "dnuoH tessaB"
     },
     {
-        "input": "*(Beagle)",
+        "input": "* ( Beagle )",
         "output": "elgaeB"
     },
     {
-        "input": "*(Bloodhound)",
+        "input": "* ( Bloodhound )",
         "output": "dnuohdoolB"
     },
     {
-        "input": "*(Bluetick Coonhound)",
+        "input": "* ( Bluetick Coonhound )",
         "output": "dnuohnooC kciteulB"
     },
     {
-        "input": "*(Black and Tan Coonhound)",
+        "input": "* ( Black and Tan Coonhound )",
         "output": "dnuohnooC naT dna kcalB"
     },
     {
-        "input": "*(Treeing Walker Coonhound)",
+        "input": "* ( Treeing Walker Coonhound )",
         "output": "dnuohnooC reklaW gnieerT"
     },
     {
-        "input": "*(English foxhound)",
+        "input": "* ( English foxhound )",
         "output": "dnuohxof hsilgnE"
     },
     {
-        "input": "*(Redbone Coonhound)",
+        "input": "* ( Redbone Coonhound )",
         "output": "dnuohnooC enobdeR"
     },
     {
-        "input": "*(borzoi)",
+        "input": "* ( borzoi )",
         "output": "iozrob"
     },
     {
-        "input": "*(Irish Wolfhound)",
+        "input": "* ( Irish Wolfhound )",
         "output": "dnuohfloW hsirI"
     },
     {
-        "input": "*(Italian Greyhound)",
+        "input": "* ( Italian Greyhound )",
         "output": "dnuohyerG nailatI"
     },
     {
-        "input": "*(Whippet)",
+        "input": "* ( Whippet )",
         "output": "teppihW"
     },
     {
-        "input": "*(Ibizan Hound)",
+        "input": "* ( Ibizan Hound )",
         "output": "dnuoH nazibI"
     },
     {
-        "input": "*(Norwegian Elkhound)",
+        "input": "* ( Norwegian Elkhound )",
         "output": "dnuohklE naigewroN"
     },
     {
-        "input": "*(Otterhound)",
+        "input": "* ( Otterhound )",
         "output": "dnuohrettO"
     },
     {
-        "input": "*(Saluki)",
+        "input": "* ( Saluki )",
         "output": "ikulaS"
     },
     {
-        "input": "*(Scottish Deerhound)",
+        "input": "* ( Scottish Deerhound )",
         "output": "dnuohreeD hsittocS"
     },
     {
-        "input": "*(Weimaraner)",
+        "input": "* ( Weimaraner )",
         "output": "renaramieW"
     },
     {
-        "input": "*(Staffordshire Bull Terrier)",
+        "input": "* ( Staffordshire Bull Terrier )",
         "output": "reirreT lluB erihsdroffatS"
     },
     {
-        "input": "*(American Staffordshire Terrier)",
+        "input": "* ( American Staffordshire Terrier )",
         "output": "reirreT erihsdroffatS naciremA"
     },
     {
-        "input": "*(Bedlington Terrier)",
+        "input": "* ( Bedlington Terrier )",
         "output": "reirreT notgnildeB"
     },
     {
-        "input": "*(Border Terrier)",
+        "input": "* ( Border Terrier )",
         "output": "reirreT redroB"
     },
     {
-        "input": "*(Kerry Blue Terrier)",
+        "input": "* ( Kerry Blue Terrier )",
         "output": "reirreT eulB yrreK"
     },
     {
-        "input": "*(Irish Terrier)",
+        "input": "* ( Irish Terrier )",
         "output": "reirreT hsirI"
     },
     {
-        "input": "*(Norfolk Terrier)",
+        "input": "* ( Norfolk Terrier )",
         "output": "reirreT klofroN"
     },
     {
-        "input": "*(Norwich Terrier)",
+        "input": "* ( Norwich Terrier )",
         "output": "reirreT hciwroN"
     },
     {
-        "input": "*(Yorkshire Terrier)",
+        "input": "* ( Yorkshire Terrier )",
         "output": "reirreT erihskroY"
     },
     {
-        "input": "*(Wire Fox Terrier)",
+        "input": "* ( Wire Fox Terrier )",
         "output": "reirreT xoF eriW"
     },
     {
-        "input": "*(Lakeland Terrier)",
+        "input": "* ( Lakeland Terrier )",
         "output": "reirreT dnalekaL"
     },
     {
-        "input": "*(Sealyham Terrier)",
+        "input": "* ( Sealyham Terrier )",
         "output": "reirreT mahylaeS"
     },
     {
-        "input": "*(Airedale Terrier)",
+        "input": "* ( Airedale Terrier )",
         "output": "reirreT eladeriA"
     },
     {
-        "input": "*(Cairn Terrier)",
+        "input": "* ( Cairn Terrier )",
         "output": "reirreT nriaC"
     },
     {
-        "input": "*(Australian Terrier)",
+        "input": "* ( Australian Terrier )",
         "output": "reirreT nailartsuA"
     },
     {
-        "input": "*(Dandie Dinmont Terrier)",
+        "input": "* ( Dandie Dinmont Terrier )",
         "output": "reirreT tnomniD eidnaD"
     },
     {
-        "input": "*(Boston Terrier)",
+        "input": "* ( Boston Terrier )",
         "output": "reirreT notsoB"
     },
     {
-        "input": "*(Miniature Schnauzer)",
+        "input": "* ( Miniature Schnauzer )",
         "output": "rezuanhcS erutainiM"
     },
     {
-        "input": "*(Giant Schnauzer)",
+        "input": "* ( Giant Schnauzer )",
         "output": "rezuanhcS tnaiG"
     },
     {
-        "input": "*(Standard Schnauzer)",
+        "input": "* ( Standard Schnauzer )",
         "output": "rezuanhcS dradnatS"
     },
     {
-        "input": "*(Scottish Terrier)",
+        "input": "* ( Scottish Terrier )",
         "output": "reirreT hsittocS"
     },
     {
-        "input": "*(Tibetan Terrier)",
+        "input": "* ( Tibetan Terrier )",
         "output": "reirreT natebiT"
     },
     {
-        "input": "*(Australian Silky Terrier)",
+        "input": "* ( Australian Silky Terrier )",
         "output": "reirreT ykliS nailartsuA"
     },
     {
-        "input": "*(Soft-coated Wheaten Terrier)",
+        "input": "* ( Soft-coated Wheaten Terrier )",
         "output": "reirreT netaehW detaoc-tfoS"
     },
     {
-        "input": "*(West Highland White Terrier)",
+        "input": "* ( West Highland White Terrier )",
         "output": "reirreT etihW dnalhgiH tseW"
     },
     {
-        "input": "*(Lhasa Apso)",
+        "input": "* ( Lhasa Apso )",
         "output": "ospA asahL"
     },
     {
-        "input": "*(Flat-Coated Retriever)",
+        "input": "* ( Flat-Coated Retriever )",
         "output": "reveirteR detaoC-talF"
     },
     {
-        "input": "*(Curly-coated Retriever)",
+        "input": "* ( Curly-coated Retriever )",
         "output": "reveirteR detaoc-ylruC"
     },
     {
-        "input": "*(Golden Retriever)",
+        "input": "* ( Golden Retriever )",
         "output": "reveirteR nedloG"
     },
     {
-        "input": "*(Labrador Retriever)",
+        "input": "* ( Labrador Retriever )",
         "output": "reveirteR rodarbaL"
     },
     {
-        "input": "*(Chesapeake Bay Retriever)",
+        "input": "* ( Chesapeake Bay Retriever )",
         "output": "reveirteR yaB ekaepasehC"
     },
     {
-        "input": "*(German Shorthaired Pointer)",
+        "input": "* ( German Shorthaired Pointer )",
         "output": "retnioP deriahtrohS namreG"
     },
     {
-        "input": "*(Vizsla)",
+        "input": "* ( Vizsla )",
         "output": "alsziV"
     },
     {
-        "input": "*(English Setter)",
+        "input": "* ( English Setter )",
         "output": "retteS hsilgnE"
     },
     {
-        "input": "*(Irish Setter)",
+        "input": "* ( Irish Setter )",
         "output": "retteS hsirI"
     },
     {
-        "input": "*(Gordon Setter)",
+        "input": "* ( Gordon Setter )",
         "output": "retteS nodroG"
     },
     {
-        "input": "*(Brittany dog)",
+        "input": "* ( Brittany dog )",
         "output": "god ynattirB"
     },
     {
-        "input": "*(Clumber Spaniel)",
+        "input": "* ( Clumber Spaniel )",
         "output": "leinapS rebmulC"
     },
     {
-        "input": "*(English Springer Spaniel)",
+        "input": "* ( English Springer Spaniel )",
         "output": "leinapS regnirpS hsilgnE"
     },
     {
-        "input": "*(Welsh Springer Spaniel)",
+        "input": "* ( Welsh Springer Spaniel )",
         "output": "leinapS regnirpS hsleW"
     },
     {
-        "input": "*(Cocker Spaniel)",
+        "input": "* ( Cocker Spaniel )",
         "output": "leinapS rekcoC"
     },
     {
-        "input": "*(Sussex Spaniel)",
+        "input": "* ( Sussex Spaniel )",
         "output": "leinapS xessuS"
     },
     {
-        "input": "*(Irish Water Spaniel)",
+        "input": "* ( Irish Water Spaniel )",
         "output": "leinapS retaW hsirI"
     },
     {
-        "input": "*(Kuvasz)",
+        "input": "* ( Kuvasz )",
         "output": "zsavuK"
     },
     {
-        "input": "*(Schipperke)",
+        "input": "* ( Schipperke )",
         "output": "ekreppihcS"
     },
     {
-        "input": "*(Groenendael dog)",
+        "input": "* ( Groenendael dog )",
         "output": "god leadneneorG"
     },
     {
-        "input": "*(Malinois)",
+        "input": "* ( Malinois )",
         "output": "sionilaM"
     },
     {
-        "input": "*(Briard)",
+        "input": "* ( Briard )",
         "output": "drairB"
     },
     {
-        "input": "*(Australian Kelpie)",
+        "input": "* ( Australian Kelpie )",
         "output": "eipleK nailartsuA"
     },
     {
-        "input": "*(Komondor)",
+        "input": "* ( Komondor )",
         "output": "rodnomoK"
     },
     {
-        "input": "*(Old English Sheepdog)",
+        "input": "* ( Old English Sheepdog )",
         "output": "godpeehS hsilgnE dlO"
     },
     {
-        "input": "*(Shetland Sheepdog)",
+        "input": "* ( Shetland Sheepdog )",
         "output": "godpeehS dnaltehS"
     },
     {
-        "input": "*(collie)",
+        "input": "* ( collie )",
         "output": "eilloc"
     },
     {
-        "input": "*(Border Collie)",
+        "input": "* ( Border Collie )",
         "output": "eilloC redroB"
     },
     {
-        "input": "*(Bouvier des Flandres dog)",
+        "input": "* ( Bouvier des Flandres dog )",
         "output": "god serdnalF sed reivuoB"
     },
     {
-        "input": "*(Rottweiler)",
+        "input": "* ( Rottweiler )",
         "output": "reliewttoR"
     },
     {
-        "input": "*(German Shepherd Dog)",
+        "input": "* ( German Shepherd Dog )",
         "output": "goD drehpehS namreG"
     },
     {
-        "input": "*(Dobermann)",
+        "input": "* ( Dobermann )",
         "output": "nnamreboD"
     },
     {
-        "input": "*(Miniature Pinscher)",
+        "input": "* ( Miniature Pinscher )",
         "output": "rehcsniP erutainiM"
     },
     {
-        "input": "*(Greater Swiss Mountain Dog)",
+        "input": "* ( Greater Swiss Mountain Dog )",
         "output": "goD niatnuoM ssiwS retaerG"
     },
     {
-        "input": "*(Bernese Mountain Dog)",
+        "input": "* ( Bernese Mountain Dog )",
         "output": "goD niatnuoM esenreB"
     },
     {
-        "input": "*(Appenzeller Sennenhund)",
+        "input": "* ( Appenzeller Sennenhund )",
         "output": "dnuhnenneS rellezneppA"
     },
     {
-        "input": "*(Entlebucher Sennenhund)",
+        "input": "* ( Entlebucher Sennenhund )",
         "output": "dnuhnenneS rehcubeltnE"
     },
     {
-        "input": "*(Boxer)",
+        "input": "* ( Boxer )",
         "output": "rexoB"
     },
     {
-        "input": "*(Bullmastiff)",
+        "input": "* ( Bullmastiff )",
         "output": "ffitsamlluB"
     },
     {
-        "input": "*(Tibetan Mastiff)",
+        "input": "* ( Tibetan Mastiff )",
         "output": "ffitsaM natebiT"
     },
     {
-        "input": "*(French Bulldog)",
+        "input": "* ( French Bulldog )",
         "output": "godlluB hcnerF"
     },
     {
-        "input": "*(Great Dane)",
+        "input": "* ( Great Dane )",
         "output": "enaD taerG"
     },
     {
-        "input": "*(St. Bernard)",
+        "input": "* ( St. Bernard )",
         "output": "dranreB .tS"
     },
     {
-        "input": "*(husky)",
+        "input": "* ( husky )",
         "output": "yksuh"
     },
     {
-        "input": "*(Alaskan Malamute)",
+        "input": "* ( Alaskan Malamute )",
         "output": "etumalaM naksalA"
     },
     {
-        "input": "*(Siberian Husky)",
+        "input": "* ( Siberian Husky )",
         "output": "yksuH nairebiS"
     },
     {
-        "input": "*(Dalmatian)",
+        "input": "* ( Dalmatian )",
         "output": "naitamlaD"
     },
     {
-        "input": "*(Affenpinscher)",
+        "input": "* ( Affenpinscher )",
         "output": "rehcsnipneffA"
     },
     {
-        "input": "*(Basenji)",
+        "input": "* ( Basenji )",
         "output": "ijnesaB"
     },
     {
-        "input": "*(pug)",
+        "input": "* ( pug )",
         "output": "gup"
     },
     {
-        "input": "*(Leonberger)",
+        "input": "* ( Leonberger )",
         "output": "regrebnoeL"
     },
     {
-        "input": "*(Newfoundland dog)",
+        "input": "* ( Newfoundland dog )",
         "output": "god dnaldnuofweN"
     },
     {
-        "input": "*(Great Pyrenees dog)",
+        "input": "* ( Great Pyrenees dog )",
         "output": "god seeneryP taerG"
     },
     {
-        "input": "*(Samoyed)",
+        "input": "* ( Samoyed )",
         "output": "deyomaS"
     },
     {
-        "input": "*(Pomeranian)",
+        "input": "* ( Pomeranian )",
         "output": "nainaremoP"
     },
     {
-        "input": "*(Chow Chow)",
+        "input": "* ( Chow Chow )",
         "output": "wohC wohC"
     },
     {
-        "input": "*(Keeshond)",
+        "input": "* ( Keeshond )",
         "output": "dnohseeK"
     },
     {
-        "input": "*(brussels griffon)",
+        "input": "* ( brussels griffon )",
         "output": "noffirg slessurb"
     },
     {
-        "input": "*(Pembroke Welsh Corgi)",
+        "input": "* ( Pembroke Welsh Corgi )",
         "output": "igroC hsleW ekorbmeP"
     },
     {
-        "input": "*(Cardigan Welsh Corgi)",
+        "input": "* ( Cardigan Welsh Corgi )",
         "output": "igroC hsleW nagidraC"
     },
     {
-        "input": "*(Toy Poodle)",
+        "input": "* ( Toy Poodle )",
         "output": "eldooP yoT"
     },
     {
-        "input": "*(Miniature Poodle)",
+        "input": "* ( Miniature Poodle )",
         "output": "eldooP erutainiM"
     },
     {
-        "input": "*(Standard Poodle)",
+        "input": "* ( Standard Poodle )",
         "output": "eldooP dradnatS"
     },
     {
-        "input": "*(Mexican hairless dog (xoloitzcuintli))",
+        "input": "* ( Mexican hairless dog (xoloitzcuintli) )",
         "output": ")iltniucztiolox( god sselriah nacixeM"
     },
     {
-        "input": "*(grey wolf)",
+        "input": "* ( grey wolf )",
         "output": "flow yerg"
     },
     {
-        "input": "*(Alaskan tundra wolf)",
+        "input": "* ( Alaskan tundra wolf )",
         "output": "flow ardnut naksalA"
     },
     {
-        "input": "*(red wolf or maned wolf)",
+        "input": "* ( red wolf or maned wolf )",
         "output": "flow denam ro flow der"
     },
     {
-        "input": "*(coyote)",
+        "input": "* ( coyote )",
         "output": "etoyoc"
     },
     {
-        "input": "*(dingo)",
+        "input": "* ( dingo )",
         "output": "ognid"
     },
     {
-        "input": "*(dhole)",
+        "input": "* ( dhole )",
         "output": "elohd"
     },
     {
-        "input": "*(African wild dog)",
+        "input": "* ( African wild dog )",
         "output": "god dliw nacirfA"
     },
     {
-        "input": "*(hyena)",
+        "input": "* ( hyena )",
         "output": "aneyh"
     },
     {
-        "input": "*(red fox)",
+        "input": "* ( red fox )",
         "output": "xof der"
     },
     {
-        "input": "*(kit fox)",
+        "input": "* ( kit fox )",
         "output": "xof tik"
     },
     {
-        "input": "*(Arctic fox)",
+        "input": "* ( Arctic fox )",
         "output": "xof citcrA"
     },
     {
-        "input": "*(grey fox)",
+        "input": "* ( grey fox )",
         "output": "xof yerg"
     },
     {
-        "input": "*(tabby cat)",
+        "input": "* ( tabby cat )",
         "output": "tac ybbat"
     },
     {
-        "input": "*(tiger cat)",
+        "input": "* ( tiger cat )",
         "output": "tac regit"
     },
     {
-        "input": "*(Persian cat)",
+        "input": "* ( Persian cat )",
         "output": "tac naisreP"
     },
     {
-        "input": "*(Siamese cat)",
+        "input": "* ( Siamese cat )",
         "output": "tac esemaiS"
     },
     {
-        "input": "*(Egyptian Mau)",
+        "input": "* ( Egyptian Mau )",
         "output": "uaM naitpygE"
     },
     {
-        "input": "*(cougar)",
+        "input": "* ( cougar )",
         "output": "raguoc"
     },
     {
-        "input": "*(lynx)",
+        "input": "* ( lynx )",
         "output": "xnyl"
     },
     {
-        "input": "*(leopard)",
+        "input": "* ( leopard )",
         "output": "drapoel"
     },
     {
-        "input": "*(snow leopard)",
+        "input": "* ( snow leopard )",
         "output": "drapoel wons"
     },
     {
-        "input": "*(jaguar)",
+        "input": "* ( jaguar )",
         "output": "raugaj"
     },
     {
-        "input": "*(lion)",
+        "input": "* ( lion )",
         "output": "noil"
     },
     {
-        "input": "*(tiger)",
+        "input": "* ( tiger )",
         "output": "regit"
     },
     {
-        "input": "*(cheetah)",
+        "input": "* ( cheetah )",
         "output": "hateehc"
     },
     {
-        "input": "*(brown bear)",
+        "input": "* ( brown bear )",
         "output": "raeb nworb"
     },
     {
-        "input": "*(American black bear)",
+        "input": "* ( American black bear )",
         "output": "raeb kcalb naciremA"
     },
     {
-        "input": "*(polar bear)",
+        "input": "* ( polar bear )",
         "output": "raeb ralop"
     },
     {
-        "input": "*(sloth bear)",
+        "input": "* ( sloth bear )",
         "output": "raeb htols"
     },
     {
-        "input": "*(mongoose)",
+        "input": "* ( mongoose )",
         "output": "esoognom"
     },
     {
-        "input": "*(meerkat)",
+        "input": "* ( meerkat )",
         "output": "takreem"
     },
     {
-        "input": "*(tiger beetle)",
+        "input": "* ( tiger beetle )",
         "output": "elteeb regit"
     },
     {
-        "input": "*(ladybug)",
+        "input": "* ( ladybug )",
         "output": "gubydal"
     },
     {
-        "input": "*(ground beetle)",
+        "input": "* ( ground beetle )",
         "output": "elteeb dnuorg"
     },
     {
-        "input": "*(longhorn beetle)",
+        "input": "* ( longhorn beetle )",
         "output": "elteeb nrohgnol"
     },
     {
-        "input": "*(leaf beetle)",
+        "input": "* ( leaf beetle )",
         "output": "elteeb fael"
     },
     {
-        "input": "*(dung beetle)",
+        "input": "* ( dung beetle )",
         "output": "elteeb gnud"
     },
     {
-        "input": "*(rhinoceros beetle)",
+        "input": "* ( rhinoceros beetle )",
         "output": "elteeb soreconihr"
     },
     {
-        "input": "*(weevil)",
+        "input": "* ( weevil )",
         "output": "liveew"
     },
     {
-        "input": "*(fly)",
+        "input": "* ( fly )",
         "output": "ylf"
     },
     {
-        "input": "*(bee)",
+        "input": "* ( bee )",
         "output": "eeb"
     },
     {
-        "input": "*(ant)",
+        "input": "* ( ant )",
         "output": "tna"
     },
     {
-        "input": "*(grasshopper)",
+        "input": "* ( grasshopper )",
         "output": "reppohssarg"
     },
     {
-        "input": "*(cricket insect)",
+        "input": "* ( cricket insect )",
         "output": "tcesni tekcirc"
     },
     {
-        "input": "*(stick insect)",
+        "input": "* ( stick insect )",
         "output": "tcesni kcits"
     },
     {
-        "input": "*(cockroach)",
+        "input": "* ( cockroach )",
         "output": "hcaorkcoc"
     },
     {
-        "input": "*(praying mantis)",
+        "input": "* ( praying mantis )",
         "output": "sitnam gniyarp"
     },
     {
-        "input": "*(cicada)",
+        "input": "* ( cicada )",
         "output": "adacic"
     },
     {
-        "input": "*(leafhopper)",
+        "input": "* ( leafhopper )",
         "output": "reppohfael"
     },
     {
-        "input": "*(lacewing)",
+        "input": "* ( lacewing )",
         "output": "gniwecal"
     },
     {
-        "input": "*(dragonfly)",
+        "input": "* ( dragonfly )",
         "output": "ylfnogard"
     },
     {
-        "input": "*(damselfly)",
+        "input": "* ( damselfly )",
         "output": "ylflesmad"
     },
     {
-        "input": "*(red admiral butterfly)",
+        "input": "* ( red admiral butterfly )",
         "output": "ylfrettub larimda der"
     },
     {
-        "input": "*(ringlet butterfly)",
+        "input": "* ( ringlet butterfly )",
         "output": "ylfrettub telgnir"
     },
     {
-        "input": "*(monarch butterfly)",
+        "input": "* ( monarch butterfly )",
         "output": "ylfrettub hcranom"
     },
     {
-        "input": "*(small white butterfly)",
+        "input": "* ( small white butterfly )",
         "output": "ylfrettub etihw llams"
     },
     {
-        "input": "*(sulphur butterfly)",
+        "input": "* ( sulphur butterfly )",
         "output": "ylfrettub ruhplus"
     },
     {
-        "input": "*(gossamer-winged butterfly)",
+        "input": "* ( gossamer-winged butterfly )",
         "output": "ylfrettub degniw-remassog"
     },
     {
-        "input": "*(starfish)",
+        "input": "* ( starfish )",
         "output": "hsifrats"
     },
     {
-        "input": "*(sea urchin)",
+        "input": "* ( sea urchin )",
         "output": "nihcru aes"
     },
     {
-        "input": "*(sea cucumber)",
+        "input": "* ( sea cucumber )",
         "output": "rebmucuc aes"
     },
     {
-        "input": "*(cottontail rabbit)",
+        "input": "* ( cottontail rabbit )",
         "output": "tibbar liatnottoc"
     },
     {
-        "input": "*(hare)",
+        "input": "* ( hare )",
         "output": "erah"
     },
     {
-        "input": "*(Angora rabbit)",
+        "input": "* ( Angora rabbit )",
         "output": "tibbar arognA"
     },
     {
-        "input": "*(hamster)",
+        "input": "* ( hamster )",
         "output": "retsmah"
     },
     {
-        "input": "*(porcupine)",
+        "input": "* ( porcupine )",
         "output": "enipucrop"
     },
     {
-        "input": "*(fox squirrel)",
+        "input": "* ( fox squirrel )",
         "output": "lerriuqs xof"
     },
     {
-        "input": "*(marmot)",
+        "input": "* ( marmot )",
         "output": "tomram"
     },
     {
-        "input": "*(beaver)",
+        "input": "* ( beaver )",
         "output": "revaeb"
     },
     {
-        "input": "*(guinea pig)",
+        "input": "* ( guinea pig )",
         "output": "gip aeniug"
     },
     {
-        "input": "*(common sorrel horse)",
+        "input": "* ( common sorrel horse )",
         "output": "esroh lerros nommoc"
     },
     {
-        "input": "*(zebra)",
+        "input": "* ( zebra )",
         "output": "arbez"
     },
     {
-        "input": "*(pig)",
+        "input": "* ( pig )",
         "output": "gip"
     },
     {
-        "input": "*(wild boar)",
+        "input": "* ( wild boar )",
         "output": "raob dliw"
     },
     {
-        "input": "*(warthog)",
+        "input": "* ( warthog )",
         "output": "gohtraw"
     },
     {
-        "input": "*(hippopotamus)",
+        "input": "* ( hippopotamus )",
         "output": "sumatopoppih"
     },
     {
-        "input": "*(ox)",
+        "input": "* ( ox )",
         "output": "xo"
     },
     {
-        "input": "*(water buffalo)",
+        "input": "* ( water buffalo )",
         "output": "olaffub retaw"
     },
     {
-        "input": "*(bison)",
+        "input": "* ( bison )",
         "output": "nosib"
     },
     {
-        "input": "*(ram (adult male sheep))",
+        "input": "* ( ram (adult male sheep) )",
         "output": ")peehs elam tluda( mar"
     },
     {
-        "input": "*(bighorn sheep)",
+        "input": "* ( bighorn sheep )",
         "output": "peehs nrohgib"
     },
     {
-        "input": "*(Alpine ibex)",
+        "input": "* ( Alpine ibex )",
         "output": "xebi eniplA"
     },
     {
-        "input": "*(hartebeest)",
+        "input": "* ( hartebeest )",
         "output": "tseebetrah"
     },
     {
-        "input": "*(impala (antelope))",
+        "input": "* ( impala (antelope) )",
         "output": ")epoletna( alapmi"
     },
     {
-        "input": "*(gazelle)",
+        "input": "* ( gazelle )",
         "output": "ellezag"
     },
     {
-        "input": "*(arabian camel)",
+        "input": "* ( arabian camel )",
         "output": "lemac naibara"
     },
     {
-        "input": "*(llama)",
+        "input": "* ( llama )",
         "output": "amall"
     },
     {
-        "input": "*(weasel)",
+        "input": "* ( weasel )",
         "output": "lesaew"
     },
     {
-        "input": "*(mink)",
+        "input": "* ( mink )",
         "output": "knim"
     },
     {
-        "input": "*(European polecat)",
+        "input": "* ( European polecat )",
         "output": "tacelop naeporuE"
     },
     {
-        "input": "*(black-footed ferret)",
+        "input": "* ( black-footed ferret )",
         "output": "terref detoof-kcalb"
     },
     {
-        "input": "*(otter)",
+        "input": "* ( otter )",
         "output": "retto"
     },
     {
-        "input": "*(skunk)",
+        "input": "* ( skunk )",
         "output": "knuks"
     },
     {
-        "input": "*(badger)",
+        "input": "* ( badger )",
         "output": "regdab"
     },
     {
-        "input": "*(armadillo)",
+        "input": "* ( armadillo )",
         "output": "ollidamra"
     },
     {
-        "input": "*(three-toed sloth)",
+        "input": "* ( three-toed sloth )",
         "output": "htols deot-eerht"
     },
     {
-        "input": "*(orangutan)",
+        "input": "* ( orangutan )",
         "output": "natugnaro"
     },
     {
-        "input": "*(gorilla)",
+        "input": "* ( gorilla )",
         "output": "allirog"
     },
     {
-        "input": "*(chimpanzee)",
+        "input": "* ( chimpanzee )",
         "output": "eeznapmihc"
     },
     {
-        "input": "*(gibbon)",
+        "input": "* ( gibbon )",
         "output": "nobbig"
     },
     {
-        "input": "*(siamang)",
+        "input": "* ( siamang )",
         "output": "gnamais"
     },
     {
-        "input": "*(guenon)",
+        "input": "* ( guenon )",
         "output": "noneug"
     },
     {
-        "input": "*(patas monkey)",
+        "input": "* ( patas monkey )",
         "output": "yeknom satap"
     },
     {
-        "input": "*(baboon)",
+        "input": "* ( baboon )",
         "output": "noobab"
     },
     {
-        "input": "*(macaque)",
+        "input": "* ( macaque )",
         "output": "euqacam"
     },
     {
-        "input": "*(langur)",
+        "input": "* ( langur )",
         "output": "rugnal"
     },
     {
-        "input": "*(black-and-white colobus)",
+        "input": "* ( black-and-white colobus )",
         "output": "suboloc etihw-dna-kcalb"
     },
     {
-        "input": "*(proboscis monkey)",
+        "input": "* ( proboscis monkey )",
         "output": "yeknom sicsoborp"
     },
     {
-        "input": "*(marmoset)",
+        "input": "* ( marmoset )",
         "output": "tesomram"
     },
     {
-        "input": "*(white-headed capuchin)",
+        "input": "* ( white-headed capuchin )",
         "output": "nihcupac dedaeh-etihw"
     },
     {
-        "input": "*(howler monkey)",
+        "input": "* ( howler monkey )",
         "output": "yeknom relwoh"
     },
     {
-        "input": "*(titi monkey)",
+        "input": "* ( titi monkey )",
         "output": "yeknom itit"
     },
     {
-        "input": "*(Geoffroy's spider monkey)",
+        "input": "* ( Geoffroy's spider monkey )",
         "output": "yeknom redips s'yorffoeG"
     },
     {
-        "input": "*(common squirrel monkey)",
+        "input": "* ( common squirrel monkey )",
         "output": "yeknom lerriuqs nommoc"
     },
     {
-        "input": "*(ring-tailed lemur)",
+        "input": "* ( ring-tailed lemur )",
         "output": "rumel deliat-gnir"
     },
     {
-        "input": "*(indri)",
+        "input": "* ( indri )",
         "output": "irdni"
     },
     {
-        "input": "*(Asian elephant)",
+        "input": "* ( Asian elephant )",
         "output": "tnahpele naisA"
     },
     {
-        "input": "*(African bush elephant)",
+        "input": "* ( African bush elephant )",
         "output": "tnahpele hsub nacirfA"
     },
     {
-        "input": "*(red panda)",
+        "input": "* ( red panda )",
         "output": "adnap der"
     },
     {
-        "input": "*(giant panda)",
+        "input": "* ( giant panda )",
         "output": "adnap tnaig"
     },
     {
-        "input": "*(snoek fish)",
+        "input": "* ( snoek fish )",
         "output": "hsif keons"
     },
     {
-        "input": "*(eel)",
+        "input": "* ( eel )",
         "output": "lee"
     },
     {
-        "input": "*(silver salmon)",
+        "input": "* ( silver salmon )",
         "output": "nomlas revlis"
     },
     {
-        "input": "*(rock beauty fish)",
+        "input": "* ( rock beauty fish )",
         "output": "hsif ytuaeb kcor"
     },
     {
-        "input": "*(clownfish)",
+        "input": "* ( clownfish )",
         "output": "hsifnwolc"
     },
     {
-        "input": "*(sturgeon)",
+        "input": "* ( sturgeon )",
         "output": "noegruts"
     },
     {
-        "input": "*(gar fish)",
+        "input": "* ( gar fish )",
         "output": "hsif rag"
     },
     {
-        "input": "*(lionfish)",
+        "input": "* ( lionfish )",
         "output": "hsifnoil"
     },
     {
-        "input": "*(pufferfish)",
+        "input": "* ( pufferfish )",
         "output": "hsifreffup"
     },
     {
-        "input": "*(abacus)",
+        "input": "* ( abacus )",
         "output": "sucaba"
     },
     {
-        "input": "*(abaya)",
+        "input": "* ( abaya )",
         "output": "ayaba"
     },
     {
-        "input": "*(academic gown)",
+        "input": "* ( academic gown )",
         "output": "nwog cimedaca"
     },
     {
-        "input": "*(accordion)",
+        "input": "* ( accordion )",
         "output": "noidrocca"
     },
     {
-        "input": "*(acoustic guitar)",
+        "input": "* ( acoustic guitar )",
         "output": "ratiug citsuoca"
     },
     {
-        "input": "*(aircraft carrier)",
+        "input": "* ( aircraft carrier )",
         "output": "reirrac tfarcria"
     },
     {
-        "input": "*(airliner)",
+        "input": "* ( airliner )",
         "output": "renilria"
     },
     {
-        "input": "*(airship)",
+        "input": "* ( airship )",
         "output": "pihsria"
     },
     {
-        "input": "*(altar)",
+        "input": "* ( altar )",
         "output": "ratla"
     },
     {
-        "input": "*(ambulance)",
+        "input": "* ( ambulance )",
         "output": "ecnalubma"
     },
     {
-        "input": "*(amphibious vehicle)",
+        "input": "* ( amphibious vehicle )",
         "output": "elcihev suoibihpma"
     },
     {
-        "input": "*(analog clock)",
+        "input": "* ( analog clock )",
         "output": "kcolc golana"
     },
     {
-        "input": "*(apiary)",
+        "input": "* ( apiary )",
         "output": "yraipa"
     },
     {
-        "input": "*(apron)",
+        "input": "* ( apron )",
         "output": "norpa"
     },
     {
-        "input": "*(trash can)",
+        "input": "* ( trash can )",
         "output": "nac hsart"
     },
     {
-        "input": "*(assault rifle)",
+        "input": "* ( assault rifle )",
         "output": "elfir tluassa"
     },
     {
-        "input": "*(backpack)",
+        "input": "* ( backpack )",
         "output": "kcapkcab"
     },
     {
-        "input": "*(bakery)",
+        "input": "* ( bakery )",
         "output": "yrekab"
     },
     {
-        "input": "*(balance beam)",
+        "input": "* ( balance beam )",
         "output": "maeb ecnalab"
     },
     {
-        "input": "*(balloon)",
+        "input": "* ( balloon )",
         "output": "noollab"
     },
     {
-        "input": "*(ballpoint pen)",
+        "input": "* ( ballpoint pen )",
         "output": "nep tniopllab"
     },
     {
-        "input": "*(Band-Aid)",
+        "input": "* ( Band-Aid )",
         "output": "diA-dnaB"
     },
     {
-        "input": "*(banjo)",
+        "input": "* ( banjo )",
         "output": "ojnab"
     },
     {
-        "input": "*(baluster / handrail)",
+        "input": "* ( baluster / handrail )",
         "output": "liardnah / retsulab"
     },
     {
-        "input": "*(barbell)",
+        "input": "* ( barbell )",
         "output": "llebrab"
     },
     {
-        "input": "*(barber chair)",
+        "input": "* ( barber chair )",
         "output": "riahc rebrab"
     },
     {
-        "input": "*(barbershop)",
+        "input": "* ( barbershop )",
         "output": "pohsrebrab"
     },
     {
-        "input": "*(barn)",
+        "input": "* ( barn )",
         "output": "nrab"
     },
     {
-        "input": "*(barometer)",
+        "input": "* ( barometer )",
         "output": "retemorab"
     },
     {
-        "input": "*(barrel)",
+        "input": "* ( barrel )",
         "output": "lerrab"
     },
     {
-        "input": "*(wheelbarrow)",
+        "input": "* ( wheelbarrow )",
         "output": "worrableehw"
     },
     {
-        "input": "*(baseball)",
+        "input": "* ( baseball )",
         "output": "llabesab"
     },
     {
-        "input": "*(basketball)",
+        "input": "* ( basketball )",
         "output": "llabteksab"
     },
     {
-        "input": "*(bassinet)",
+        "input": "* ( bassinet )",
         "output": "tenissab"
     },
     {
-        "input": "*(bassoon)",
+        "input": "* ( bassoon )",
         "output": "noossab"
     },
     {
-        "input": "*(swimming cap)",
+        "input": "* ( swimming cap )",
         "output": "pac gnimmiws"
     },
     {
-        "input": "*(bath towel)",
+        "input": "* ( bath towel )",
         "output": "lewot htab"
     },
     {
-        "input": "*(bathtub)",
+        "input": "* ( bathtub )",
         "output": "buthtab"
     },
     {
-        "input": "*(station wagon)",
+        "input": "* ( station wagon )",
         "output": "nogaw noitats"
     },
     {
-        "input": "*(lighthouse)",
+        "input": "* ( lighthouse )",
         "output": "esuohthgil"
     },
     {
-        "input": "*(beaker)",
+        "input": "* ( beaker )",
         "output": "rekaeb"
     },
     {
-        "input": "*(military hat (bearskin or shako))",
+        "input": "* ( military hat (bearskin or shako) )",
         "output": ")okahs ro niksraeb( tah yratilim"
     },
     {
-        "input": "*(beer bottle)",
+        "input": "* ( beer bottle )",
         "output": "elttob reeb"
     },
     {
-        "input": "*(beer glass)",
+        "input": "* ( beer glass )",
         "output": "ssalg reeb"
     },
     {
-        "input": "*(bell tower)",
+        "input": "* ( bell tower )",
         "output": "rewot lleb"
     },
     {
-        "input": "*(baby bib)",
+        "input": "* ( baby bib )",
         "output": "bib ybab"
     },
     {
-        "input": "*(tandem bicycle)",
+        "input": "* ( tandem bicycle )",
         "output": "elcycib mednat"
     },
     {
-        "input": "*(bikini)",
+        "input": "* ( bikini )",
         "output": "inikib"
     },
     {
-        "input": "*(ring binder)",
+        "input": "* ( ring binder )",
         "output": "rednib gnir"
     },
     {
-        "input": "*(binoculars)",
+        "input": "* ( binoculars )",
         "output": "sraluconib"
     },
     {
-        "input": "*(birdhouse)",
+        "input": "* ( birdhouse )",
         "output": "esuohdrib"
     },
     {
-        "input": "*(boathouse)",
+        "input": "* ( boathouse )",
         "output": "esuohtaob"
     },
     {
-        "input": "*(bobsleigh)",
+        "input": "* ( bobsleigh )",
         "output": "hgielsbob"
     },
     {
-        "input": "*(bolo tie)",
+        "input": "* ( bolo tie )",
         "output": "eit olob"
     },
     {
-        "input": "*(poke bonnet)",
+        "input": "* ( poke bonnet )",
         "output": "tennob ekop"
     },
     {
-        "input": "*(bookcase)",
+        "input": "* ( bookcase )",
         "output": "esackoob"
     },
     {
-        "input": "*(bookstore)",
+        "input": "* ( bookstore )",
         "output": "erotskoob"
     },
     {
-        "input": "*(bottle cap)",
+        "input": "* ( bottle cap )",
         "output": "pac elttob"
     },
     {
-        "input": "*(hunting bow)",
+        "input": "* ( hunting bow )",
         "output": "wob gnitnuh"
     },
     {
-        "input": "*(bow tie)",
+        "input": "* ( bow tie )",
         "output": "eit wob"
     },
     {
-        "input": "*(brass memorial plaque)",
+        "input": "* ( brass memorial plaque )",
         "output": "euqalp lairomem ssarb"
     },
     {
-        "input": "*(bra)",
+        "input": "* ( bra )",
         "output": "arb"
     },
     {
-        "input": "*(breakwater)",
+        "input": "* ( breakwater )",
         "output": "retawkaerb"
     },
     {
-        "input": "*(breastplate)",
+        "input": "* ( breastplate )",
         "output": "etalptsaerb"
     },
     {
-        "input": "*(broom)",
+        "input": "* ( broom )",
         "output": "moorb"
     },
     {
-        "input": "*(bucket)",
+        "input": "* ( bucket )",
         "output": "tekcub"
     },
     {
-        "input": "*(buckle)",
+        "input": "* ( buckle )",
         "output": "elkcub"
     },
     {
-        "input": "*(bulletproof vest)",
+        "input": "* ( bulletproof vest )",
         "output": "tsev foorptellub"
     },
     {
-        "input": "*(high-speed train)",
+        "input": "* ( high-speed train )",
         "output": "niart deeps-hgih"
     },
     {
-        "input": "*(butcher shop)",
+        "input": "* ( butcher shop )",
         "output": "pohs rehctub"
     },
     {
-        "input": "*(taxicab)",
+        "input": "* ( taxicab )",
         "output": "bacixat"
     },
     {
-        "input": "*(cauldron)",
+        "input": "* ( cauldron )",
         "output": "nordluac"
     },
     {
-        "input": "*(candle)",
+        "input": "* ( candle )",
         "output": "eldnac"
     },
     {
-        "input": "*(cannon)",
+        "input": "* ( cannon )",
         "output": "nonnac"
     },
     {
-        "input": "*(canoe)",
+        "input": "* ( canoe )",
         "output": "eonac"
     },
     {
-        "input": "*(can opener)",
+        "input": "* ( can opener )",
         "output": "renepo nac"
     },
     {
-        "input": "*(cardigan)",
+        "input": "* ( cardigan )",
         "output": "nagidrac"
     },
     {
-        "input": "*(car mirror)",
+        "input": "* ( car mirror )",
         "output": "rorrim rac"
     },
     {
-        "input": "*(carousel)",
+        "input": "* ( carousel )",
         "output": "lesuorac"
     },
     {
-        "input": "*(tool kit)",
+        "input": "* ( tool kit )",
         "output": "tik loot"
     },
     {
-        "input": "*(cardboard box / carton)",
+        "input": "* ( cardboard box / carton )",
         "output": "notrac / xob draobdrac"
     },
     {
-        "input": "*(car wheel)",
+        "input": "* ( car wheel )",
         "output": "leehw rac"
     },
     {
-        "input": "*(automated teller machine)",
+        "input": "* ( automated teller machine )",
         "output": "enihcam rellet detamotua"
     },
     {
-        "input": "*(cassette)",
+        "input": "* ( cassette )",
         "output": "ettessac"
     },
     {
-        "input": "*(cassette player)",
+        "input": "* ( cassette player )",
         "output": "reyalp ettessac"
     },
     {
-        "input": "*(castle)",
+        "input": "* ( castle )",
         "output": "eltsac"
     },
     {
-        "input": "*(catamaran)",
+        "input": "* ( catamaran )",
         "output": "naramatac"
     },
     {
-        "input": "*(CD player)",
+        "input": "* ( CD player )",
         "output": "reyalp DC"
     },
     {
-        "input": "*(cello)",
+        "input": "* ( cello )",
         "output": "ollec"
     },
     {
-        "input": "*(mobile phone)",
+        "input": "* ( mobile phone )",
         "output": "enohp elibom"
     },
     {
-        "input": "*(chain)",
+        "input": "* ( chain )",
         "output": "niahc"
     },
     {
-        "input": "*(chain-link fence)",
+        "input": "* ( chain-link fence )",
         "output": "ecnef knil-niahc"
     },
     {
-        "input": "*(chain mail)",
+        "input": "* ( chain mail )",
         "output": "liam niahc"
     },
     {
-        "input": "*(chainsaw)",
+        "input": "* ( chainsaw )",
         "output": "wasniahc"
     },
     {
-        "input": "*(storage chest)",
+        "input": "* ( storage chest )",
         "output": "tsehc egarots"
     },
     {
-        "input": "*(chiffonier)",
+        "input": "* ( chiffonier )",
         "output": "reinoffihc"
     },
     {
-        "input": "*(bell or wind chime)",
+        "input": "* ( bell or wind chime )",
         "output": "emihc dniw ro lleb"
     },
     {
-        "input": "*(china cabinet)",
+        "input": "* ( china cabinet )",
         "output": "tenibac anihc"
     },
     {
-        "input": "*(Christmas stocking)",
+        "input": "* ( Christmas stocking )",
         "output": "gnikcots samtsirhC"
     },
     {
-        "input": "*(church)",
+        "input": "* ( church )",
         "output": "hcruhc"
     },
     {
-        "input": "*(movie theater)",
+        "input": "* ( movie theater )",
         "output": "retaeht eivom"
     },
     {
-        "input": "*(cleaver)",
+        "input": "* ( cleaver )",
         "output": "revaelc"
     },
     {
-        "input": "*(cliff dwelling)",
+        "input": "* ( cliff dwelling )",
         "output": "gnillewd ffilc"
     },
     {
-        "input": "*(cloak)",
+        "input": "* ( cloak )",
         "output": "kaolc"
     },
     {
-        "input": "*(clogs)",
+        "input": "* ( clogs )",
         "output": "sgolc"
     },
     {
-        "input": "*(cocktail shaker)",
+        "input": "* ( cocktail shaker )",
         "output": "rekahs liatkcoc"
     },
     {
-        "input": "*(coffee mug)",
+        "input": "* ( coffee mug )",
         "output": "gum eeffoc"
     },
     {
-        "input": "*(coffeemaker)",
+        "input": "* ( coffeemaker )",
         "output": "rekameeffoc"
     },
     {
-        "input": "*(spiral or coil)",
+        "input": "* ( spiral or coil )",
         "output": "lioc ro larips"
     },
     {
-        "input": "*(combination lock)",
+        "input": "* ( combination lock )",
         "output": "kcol noitanibmoc"
     },
     {
-        "input": "*(computer keyboard)",
+        "input": "* ( computer keyboard )",
         "output": "draobyek retupmoc"
     },
     {
-        "input": "*(candy store)",
+        "input": "* ( candy store )",
         "output": "erots ydnac"
     },
     {
-        "input": "*(container ship)",
+        "input": "* ( container ship )",
         "output": "pihs reniatnoc"
     },
     {
-        "input": "*(convertible)",
+        "input": "* ( convertible )",
         "output": "elbitrevnoc"
     },
     {
-        "input": "*(corkscrew)",
+        "input": "* ( corkscrew )",
         "output": "wercskroc"
     },
     {
-        "input": "*(cornet)",
+        "input": "* ( cornet )",
         "output": "tenroc"
     },
     {
-        "input": "*(cowboy boot)",
+        "input": "* ( cowboy boot )",
         "output": "toob yobwoc"
     },
     {
-        "input": "*(cowboy hat)",
+        "input": "* ( cowboy hat )",
         "output": "tah yobwoc"
     },
     {
-        "input": "*(cradle)",
+        "input": "* ( cradle )",
         "output": "eldarc"
     },
     {
-        "input": "*(construction crane)",
+        "input": "* ( construction crane )",
         "output": "enarc noitcurtsnoc"
     },
     {
-        "input": "*(crash helmet)",
+        "input": "* ( crash helmet )",
         "output": "temleh hsarc"
     },
     {
-        "input": "*(crate)",
+        "input": "* ( crate )",
         "output": "etarc"
     },
     {
-        "input": "*(infant bed)",
+        "input": "* ( infant bed )",
         "output": "deb tnafni"
     },
     {
-        "input": "*(Crock Pot)",
+        "input": "* ( Crock Pot )",
         "output": "toP kcorC"
     },
     {
-        "input": "*(croquet ball)",
+        "input": "* ( croquet ball )",
         "output": "llab teuqorc"
     },
     {
-        "input": "*(crutch)",
+        "input": "* ( crutch )",
         "output": "hcturc"
     },
     {
-        "input": "*(cuirass)",
+        "input": "* ( cuirass )",
         "output": "ssariuc"
     },
     {
-        "input": "*(dam)",
+        "input": "* ( dam )",
         "output": "mad"
     },
     {
-        "input": "*(desk)",
+        "input": "* ( desk )",
         "output": "ksed"
     },
     {
-        "input": "*(desktop computer)",
+        "input": "* ( desktop computer )",
         "output": "retupmoc potksed"
     },
     {
-        "input": "*(rotary dial telephone)",
+        "input": "* ( rotary dial telephone )",
         "output": "enohpelet laid yrator"
     },
     {
-        "input": "*(diaper)",
+        "input": "* ( diaper )",
         "output": "repaid"
     },
     {
-        "input": "*(digital clock)",
+        "input": "* ( digital clock )",
         "output": "kcolc latigid"
     },
     {
-        "input": "*(digital watch)",
+        "input": "* ( digital watch )",
         "output": "hctaw latigid"
     },
     {
-        "input": "*(dining table)",
+        "input": "* ( dining table )",
         "output": "elbat gninid"
     },
     {
-        "input": "*(dishcloth)",
+        "input": "* ( dishcloth )",
         "output": "htolchsid"
     },
     {
-        "input": "*(dishwasher)",
+        "input": "* ( dishwasher )",
         "output": "rehsawhsid"
     },
     {
-        "input": "*(disc brake)",
+        "input": "* ( disc brake )",
         "output": "ekarb csid"
     },
     {
-        "input": "*(dock)",
+        "input": "* ( dock )",
         "output": "kcod"
     },
     {
-        "input": "*(dog sled)",
+        "input": "* ( dog sled )",
         "output": "dels god"
     },
     {
-        "input": "*(dome)",
+        "input": "* ( dome )",
         "output": "emod"
     },
     {
-        "input": "*(doormat)",
+        "input": "* ( doormat )",
         "output": "tamrood"
     },
     {
-        "input": "*(drilling rig)",
+        "input": "* ( drilling rig )",
         "output": "gir gnillird"
     },
     {
-        "input": "*(drum)",
+        "input": "* ( drum )",
         "output": "murd"
     },
     {
-        "input": "*(drumstick)",
+        "input": "* ( drumstick )",
         "output": "kcitsmurd"
     },
     {
-        "input": "*(dumbbell)",
+        "input": "* ( dumbbell )",
         "output": "llebbmud"
     },
     {
-        "input": "*(Dutch oven)",
+        "input": "* ( Dutch oven )",
         "output": "nevo hctuD"
     },
     {
-        "input": "*(electric fan)",
+        "input": "* ( electric fan )",
         "output": "naf cirtcele"
     },
     {
-        "input": "*(electric guitar)",
+        "input": "* ( electric guitar )",
         "output": "ratiug cirtcele"
     },
     {
-        "input": "*(electric locomotive)",
+        "input": "* ( electric locomotive )",
         "output": "evitomocol cirtcele"
     },
     {
-        "input": "*(entertainment center)",
+        "input": "* ( entertainment center )",
         "output": "retnec tnemniatretne"
     },
     {
-        "input": "*(envelope)",
+        "input": "* ( envelope )",
         "output": "epolevne"
     },
     {
-        "input": "*(espresso machine)",
+        "input": "* ( espresso machine )",
         "output": "enihcam osserpse"
     },
     {
-        "input": "*(face powder)",
+        "input": "* ( face powder )",
         "output": "redwop ecaf"
     },
     {
-        "input": "*(feather boa)",
+        "input": "* ( feather boa )",
         "output": "aob rehtaef"
     },
     {
-        "input": "*(filing cabinet)",
+        "input": "* ( filing cabinet )",
         "output": "tenibac gnilif"
     },
     {
-        "input": "*(fireboat)",
+        "input": "* ( fireboat )",
         "output": "taoberif"
     },
     {
-        "input": "*(fire truck)",
+        "input": "* ( fire truck )",
         "output": "kcurt erif"
     },
     {
-        "input": "*(fire screen)",
+        "input": "* ( fire screen )",
         "output": "neercs erif"
     },
     {
-        "input": "*(flagpole)",
+        "input": "* ( flagpole )",
         "output": "elopgalf"
     },
     {
-        "input": "*(flute)",
+        "input": "* ( flute )",
         "output": "etulf"
     },
     {
-        "input": "*(folding chair)",
+        "input": "* ( folding chair )",
         "output": "riahc gnidlof"
     },
     {
-        "input": "*(football helmet)",
+        "input": "* ( football helmet )",
         "output": "temleh llabtoof"
     },
     {
-        "input": "*(forklift)",
+        "input": "* ( forklift )",
         "output": "tfilkrof"
     },
     {
-        "input": "*(fountain)",
+        "input": "* ( fountain )",
         "output": "niatnuof"
     },
     {
-        "input": "*(fountain pen)",
+        "input": "* ( fountain pen )",
         "output": "nep niatnuof"
     },
     {
-        "input": "*(four-poster bed)",
+        "input": "* ( four-poster bed )",
         "output": "deb retsop-ruof"
     },
     {
-        "input": "*(freight car)",
+        "input": "* ( freight car )",
         "output": "rac thgierf"
     },
     {
-        "input": "*(French horn)",
+        "input": "* ( French horn )",
         "output": "nroh hcnerF"
     },
     {
-        "input": "*(frying pan)",
+        "input": "* ( frying pan )",
         "output": "nap gniyrf"
     },
     {
-        "input": "*(fur coat)",
+        "input": "* ( fur coat )",
         "output": "taoc ruf"
     },
     {
-        "input": "*(garbage truck)",
+        "input": "* ( garbage truck )",
         "output": "kcurt egabrag"
     },
     {
-        "input": "*(gas mask or respirator)",
+        "input": "* ( gas mask or respirator )",
         "output": "rotaripser ro ksam sag"
     },
     {
-        "input": "*(gas pump)",
+        "input": "* ( gas pump )",
         "output": "pmup sag"
     },
     {
-        "input": "*(goblet)",
+        "input": "* ( goblet )",
         "output": "telbog"
     },
     {
-        "input": "*(go-kart)",
+        "input": "* ( go-kart )",
         "output": "trak-og"
     },
     {
-        "input": "*(golf ball)",
+        "input": "* ( golf ball )",
         "output": "llab flog"
     },
     {
-        "input": "*(golf cart)",
+        "input": "* ( golf cart )",
         "output": "trac flog"
     },
     {
-        "input": "*(gondola)",
+        "input": "* ( gondola )",
         "output": "alodnog"
     },
     {
-        "input": "*(gong)",
+        "input": "* ( gong )",
         "output": "gnog"
     },
     {
-        "input": "*(gown)",
+        "input": "* ( gown )",
         "output": "nwog"
     },
     {
-        "input": "*(grand piano)",
+        "input": "* ( grand piano )",
         "output": "onaip dnarg"
     },
     {
-        "input": "*(greenhouse)",
+        "input": "* ( greenhouse )",
         "output": "esuohneerg"
     },
     {
-        "input": "*(radiator grille)",
+        "input": "* ( radiator grille )",
         "output": "ellirg rotaidar"
     },
     {
-        "input": "*(grocery store)",
+        "input": "* ( grocery store )",
         "output": "erots yrecorg"
     },
     {
-        "input": "*(guillotine)",
+        "input": "* ( guillotine )",
         "output": "enitolliug"
     },
     {
-        "input": "*(hair clip)",
+        "input": "* ( hair clip )",
         "output": "pilc riah"
     },
     {
-        "input": "*(hair spray)",
+        "input": "* ( hair spray )",
         "output": "yarps riah"
     },
     {
-        "input": "*(half-track)",
+        "input": "* ( half-track )",
         "output": "kcart-flah"
     },
     {
-        "input": "*(hammer)",
+        "input": "* ( hammer )",
         "output": "remmah"
     },
     {
-        "input": "*(hamper)",
+        "input": "* ( hamper )",
         "output": "repmah"
     },
     {
-        "input": "*(hair dryer)",
+        "input": "* ( hair dryer )",
         "output": "reyrd riah"
     },
     {
-        "input": "*(hand-held computer)",
+        "input": "* ( hand-held computer )",
         "output": "retupmoc dleh-dnah"
     },
     {
-        "input": "*(handkerchief)",
+        "input": "* ( handkerchief )",
         "output": "feihcrekdnah"
     },
     {
-        "input": "*(hard disk drive)",
+        "input": "* ( hard disk drive )",
         "output": "evird ksid drah"
     },
     {
-        "input": "*(harmonica)",
+        "input": "* ( harmonica )",
         "output": "acinomrah"
     },
     {
-        "input": "*(harp)",
+        "input": "* ( harp )",
         "output": "prah"
     },
     {
-        "input": "*(combine harvester)",
+        "input": "* ( combine harvester )",
         "output": "retsevrah enibmoc"
     },
     {
-        "input": "*(hatchet)",
+        "input": "* ( hatchet )",
         "output": "tehctah"
     },
     {
-        "input": "*(holster)",
+        "input": "* ( holster )",
         "output": "retsloh"
     },
     {
-        "input": "*(home theater)",
+        "input": "* ( home theater )",
         "output": "retaeht emoh"
     },
     {
-        "input": "*(honeycomb)",
+        "input": "* ( honeycomb )",
         "output": "bmocyenoh"
     },
     {
-        "input": "*(hook)",
+        "input": "* ( hook )",
         "output": "kooh"
     },
     {
-        "input": "*(hoop skirt)",
+        "input": "* ( hoop skirt )",
         "output": "triks pooh"
     },
     {
-        "input": "*(gymnastic horizontal bar)",
+        "input": "* ( gymnastic horizontal bar )",
         "output": "rab latnoziroh citsanmyg"
     },
     {
-        "input": "*(horse-drawn vehicle)",
+        "input": "* ( horse-drawn vehicle )",
         "output": "elcihev nward-esroh"
     },
     {
-        "input": "*(hourglass)",
+        "input": "* ( hourglass )",
         "output": "ssalgruoh"
     },
     {
-        "input": "*(iPod)",
+        "input": "* ( iPod )",
         "output": "doPi"
     },
     {
-        "input": "*(clothes iron)",
+        "input": "* ( clothes iron )",
         "output": "nori sehtolc"
     },
     {
-        "input": "*(carved pumpkin)",
+        "input": "* ( carved pumpkin )",
         "output": "nikpmup devrac"
     },
     {
-        "input": "*(jeans)",
+        "input": "* ( jeans )",
         "output": "snaej"
     },
     {
-        "input": "*(jeep)",
+        "input": "* ( jeep )",
         "output": "peej"
     },
     {
-        "input": "*(T-shirt)",
+        "input": "* ( T-shirt )",
         "output": "trihs-T"
     },
     {
-        "input": "*(jigsaw puzzle)",
+        "input": "* ( jigsaw puzzle )",
         "output": "elzzup wasgij"
     },
     {
-        "input": "*(rickshaw)",
+        "input": "* ( rickshaw )",
         "output": "wahskcir"
     },
     {
-        "input": "*(joystick)",
+        "input": "* ( joystick )",
         "output": "kcitsyoj"
     },
     {
-        "input": "*(kimono)",
+        "input": "* ( kimono )",
         "output": "onomik"
     },
     {
-        "input": "*(knee pad)",
+        "input": "* ( knee pad )",
         "output": "dap eenk"
     },
     {
-        "input": "*(knot)",
+        "input": "* ( knot )",
         "output": "tonk"
     },
     {
-        "input": "*(lab coat)",
+        "input": "* ( lab coat )",
         "output": "taoc bal"
     },
     {
-        "input": "*(ladle)",
+        "input": "* ( ladle )",
         "output": "eldal"
     },
     {
-        "input": "*(lampshade)",
+        "input": "* ( lampshade )",
         "output": "edahspmal"
     },
     {
-        "input": "*(laptop computer)",
+        "input": "* ( laptop computer )",
         "output": "retupmoc potpal"
     },
     {
-        "input": "*(lawn mower)",
+        "input": "* ( lawn mower )",
         "output": "rewom nwal"
     },
     {
-        "input": "*(lens cap)",
+        "input": "* ( lens cap )",
         "output": "pac snel"
     },
     {
-        "input": "*(letter opener)",
+        "input": "* ( letter opener )",
         "output": "renepo rettel"
     },
     {
-        "input": "*(library)",
+        "input": "* ( library )",
         "output": "yrarbil"
     },
     {
-        "input": "*(lifeboat)",
+        "input": "* ( lifeboat )",
         "output": "taobefil"
     },
     {
-        "input": "*(lighter)",
+        "input": "* ( lighter )",
         "output": "rethgil"
     },
     {
-        "input": "*(limousine)",
+        "input": "* ( limousine )",
         "output": "enisuomil"
     },
     {
-        "input": "*(ocean liner)",
+        "input": "* ( ocean liner )",
         "output": "renil naeco"
     },
     {
-        "input": "*(lipstick)",
+        "input": "* ( lipstick )",
         "output": "kcitspil"
     },
     {
-        "input": "*(slip-on shoe)",
+        "input": "* ( slip-on shoe )",
         "output": "eohs no-pils"
     },
     {
-        "input": "*(lotion)",
+        "input": "* ( lotion )",
         "output": "noitol"
     },
     {
-        "input": "*(music speaker)",
+        "input": "* ( music speaker )",
         "output": "rekaeps cisum"
     },
     {
-        "input": "*(loupe magnifying glass)",
+        "input": "* ( loupe magnifying glass )",
         "output": "ssalg gniyfingam epuol"
     },
     {
-        "input": "*(sawmill)",
+        "input": "* ( sawmill )",
         "output": "llimwas"
     },
     {
-        "input": "*(magnetic compass)",
+        "input": "* ( magnetic compass )",
         "output": "ssapmoc citengam"
     },
     {
-        "input": "*(messenger bag)",
+        "input": "* ( messenger bag )",
         "output": "gab regnessem"
     },
     {
-        "input": "*(mailbox)",
+        "input": "* ( mailbox )",
         "output": "xobliam"
     },
     {
-        "input": "*(tights)",
+        "input": "* ( tights )",
         "output": "sthgit"
     },
     {
-        "input": "*(one-piece bathing suit)",
+        "input": "* ( one-piece bathing suit )",
         "output": "tius gnihtab eceip-eno"
     },
     {
-        "input": "*(manhole cover)",
+        "input": "* ( manhole cover )",
         "output": "revoc elohnam"
     },
     {
-        "input": "*(maraca)",
+        "input": "* ( maraca )",
         "output": "acaram"
     },
     {
-        "input": "*(marimba)",
+        "input": "* ( marimba )",
         "output": "abmiram"
     },
     {
-        "input": "*(mask)",
+        "input": "* ( mask )",
         "output": "ksam"
     },
     {
-        "input": "*(matchstick)",
+        "input": "* ( matchstick )",
         "output": "kcitshctam"
     },
     {
-        "input": "*(maypole)",
+        "input": "* ( maypole )",
         "output": "elopyam"
     },
     {
-        "input": "*(maze)",
+        "input": "* ( maze )",
         "output": "ezam"
     },
     {
-        "input": "*(measuring cup)",
+        "input": "* ( measuring cup )",
         "output": "puc gnirusaem"
     },
     {
-        "input": "*(medicine cabinet)",
+        "input": "* ( medicine cabinet )",
         "output": "tenibac enicidem"
     },
     {
-        "input": "*(megalith)",
+        "input": "* ( megalith )",
         "output": "htilagem"
     },
     {
-        "input": "*(microphone)",
+        "input": "* ( microphone )",
         "output": "enohporcim"
     },
     {
-        "input": "*(microwave oven)",
+        "input": "* ( microwave oven )",
         "output": "nevo evaworcim"
     },
     {
-        "input": "*(military uniform)",
+        "input": "* ( military uniform )",
         "output": "mrofinu yratilim"
     },
     {
-        "input": "*(milk can)",
+        "input": "* ( milk can )",
         "output": "nac klim"
     },
     {
-        "input": "*(minibus)",
+        "input": "* ( minibus )",
         "output": "subinim"
     },
     {
-        "input": "*(miniskirt)",
+        "input": "* ( miniskirt )",
         "output": "triksinim"
     },
     {
-        "input": "*(minivan)",
+        "input": "* ( minivan )",
         "output": "navinim"
     },
     {
-        "input": "*(missile)",
+        "input": "* ( missile )",
         "output": "elissim"
     },
     {
-        "input": "*(mitten)",
+        "input": "* ( mitten )",
         "output": "nettim"
     },
     {
-        "input": "*(mixing bowl)",
+        "input": "* ( mixing bowl )",
         "output": "lwob gnixim"
     },
     {
-        "input": "*(mobile home)",
+        "input": "* ( mobile home )",
         "output": "emoh elibom"
     },
     {
-        "input": "*(ford model t)",
+        "input": "* ( ford model t )",
         "output": "t ledom drof"
     },
     {
-        "input": "*(modem)",
+        "input": "* ( modem )",
         "output": "medom"
     },
     {
-        "input": "*(monastery)",
+        "input": "* ( monastery )",
         "output": "yretsanom"
     },
     {
-        "input": "*(monitor)",
+        "input": "* ( monitor )",
         "output": "rotinom"
     },
     {
-        "input": "*(moped)",
+        "input": "* ( moped )",
         "output": "depom"
     },
     {
-        "input": "*(mortar and pestle)",
+        "input": "* ( mortar and pestle )",
         "output": "eltsep dna ratrom"
     },
     {
-        "input": "*(graduation cap)",
+        "input": "* ( graduation cap )",
         "output": "pac noitaudarg"
     },
     {
-        "input": "*(mosque)",
+        "input": "* ( mosque )",
         "output": "euqsom"
     },
     {
-        "input": "*(mosquito net)",
+        "input": "* ( mosquito net )",
         "output": "ten otiuqsom"
     },
     {
-        "input": "*(vespa)",
+        "input": "* ( vespa )",
         "output": "apsev"
     },
     {
-        "input": "*(mountain bike)",
+        "input": "* ( mountain bike )",
         "output": "ekib niatnuom"
     },
     {
-        "input": "*(tent)",
+        "input": "* ( tent )",
         "output": "tnet"
     },
     {
-        "input": "*(computer mouse)",
+        "input": "* ( computer mouse )",
         "output": "esuom retupmoc"
     },
     {
-        "input": "*(mousetrap)",
+        "input": "* ( mousetrap )",
         "output": "partesuom"
     },
     {
-        "input": "*(moving van)",
+        "input": "* ( moving van )",
         "output": "nav gnivom"
     },
     {
-        "input": "*(muzzle)",
+        "input": "* ( muzzle )",
         "output": "elzzum"
     },
     {
-        "input": "*(metal nail)",
+        "input": "* ( metal nail )",
         "output": "lian latem"
     },
     {
-        "input": "*(neck brace)",
+        "input": "* ( neck brace )",
         "output": "ecarb kcen"
     },
     {
-        "input": "*(necklace)",
+        "input": "* ( necklace )",
         "output": "ecalkcen"
     },
     {
-        "input": "*(baby pacifier)",
+        "input": "* ( baby pacifier )",
         "output": "reificap ybab"
     },
     {
-        "input": "*(notebook computer)",
+        "input": "* ( notebook computer )",
         "output": "retupmoc koobeton"
     },
     {
-        "input": "*(obelisk)",
+        "input": "* ( obelisk )",
         "output": "ksilebo"
     },
     {
-        "input": "*(oboe)",
+        "input": "* ( oboe )",
         "output": "eobo"
     },
     {
-        "input": "*(ocarina)",
+        "input": "* ( ocarina )",
         "output": "aniraco"
     },
     {
-        "input": "*(odometer)",
+        "input": "* ( odometer )",
         "output": "retemodo"
     },
     {
-        "input": "*(oil filter)",
+        "input": "* ( oil filter )",
         "output": "retlif lio"
     },
     {
-        "input": "*(pipe organ)",
+        "input": "* ( pipe organ )",
         "output": "nagro epip"
     },
     {
-        "input": "*(oscilloscope)",
+        "input": "* ( oscilloscope )",
         "output": "epocsollicso"
     },
     {
-        "input": "*(overskirt)",
+        "input": "* ( overskirt )",
         "output": "triksrevo"
     },
     {
-        "input": "*(bullock cart)",
+        "input": "* ( bullock cart )",
         "output": "trac kcollub"
     },
     {
-        "input": "*(oxygen mask)",
+        "input": "* ( oxygen mask )",
         "output": "ksam negyxo"
     },
     {
-        "input": "*(product packet / packaging)",
+        "input": "* ( product packet / packaging )",
         "output": "gnigakcap / tekcap tcudorp"
     },
     {
-        "input": "*(paddle)",
+        "input": "* ( paddle )",
         "output": "elddap"
     },
     {
-        "input": "*(paddle wheel)",
+        "input": "* ( paddle wheel )",
         "output": "leehw elddap"
     },
     {
-        "input": "*(padlock)",
+        "input": "* ( padlock )",
         "output": "kcoldap"
     },
     {
-        "input": "*(paintbrush)",
+        "input": "* ( paintbrush )",
         "output": "hsurbtniap"
     },
     {
-        "input": "*(pajamas)",
+        "input": "* ( pajamas )",
         "output": "samajap"
     },
     {
-        "input": "*(palace)",
+        "input": "* ( palace )",
         "output": "ecalap"
     },
     {
-        "input": "*(pan flute)",
+        "input": "* ( pan flute )",
         "output": "etulf nap"
     },
     {
-        "input": "*(paper towel)",
+        "input": "* ( paper towel )",
         "output": "lewot repap"
     },
     {
-        "input": "*(parachute)",
+        "input": "* ( parachute )",
         "output": "etuhcarap"
     },
     {
-        "input": "*(parallel bars)",
+        "input": "* ( parallel bars )",
         "output": "srab lellarap"
     },
     {
-        "input": "*(park bench)",
+        "input": "* ( park bench )",
         "output": "hcneb krap"
     },
     {
-        "input": "*(parking meter)",
+        "input": "* ( parking meter )",
         "output": "retem gnikrap"
     },
     {
-        "input": "*(railroad car)",
+        "input": "* ( railroad car )",
         "output": "rac daorliar"
     },
     {
-        "input": "*(patio)",
+        "input": "* ( patio )",
         "output": "oitap"
     },
     {
-        "input": "*(payphone)",
+        "input": "* ( payphone )",
         "output": "enohpyap"
     },
     {
-        "input": "*(pedestal)",
+        "input": "* ( pedestal )",
         "output": "latsedep"
     },
     {
-        "input": "*(pencil case)",
+        "input": "* ( pencil case )",
         "output": "esac licnep"
     },
     {
-        "input": "*(pencil sharpener)",
+        "input": "* ( pencil sharpener )",
         "output": "reneprahs licnep"
     },
     {
-        "input": "*(perfume)",
+        "input": "* ( perfume )",
         "output": "emufrep"
     },
     {
-        "input": "*(Petri dish)",
+        "input": "* ( Petri dish )",
         "output": "hsid irteP"
     },
     {
-        "input": "*(photocopier)",
+        "input": "* ( photocopier )",
         "output": "reipocotohp"
     },
     {
-        "input": "*(plectrum)",
+        "input": "* ( plectrum )",
         "output": "murtcelp"
     },
     {
-        "input": "*(Pickelhaube)",
+        "input": "* ( Pickelhaube )",
         "output": "ebuahlekciP"
     },
     {
-        "input": "*(picket fence)",
+        "input": "* ( picket fence )",
         "output": "ecnef tekcip"
     },
     {
-        "input": "*(pickup truck)",
+        "input": "* ( pickup truck )",
         "output": "kcurt pukcip"
     },
     {
-        "input": "*(pier)",
+        "input": "* ( pier )",
         "output": "reip"
     },
     {
-        "input": "*(piggy bank)",
+        "input": "* ( piggy bank )",
         "output": "knab yggip"
     },
     {
-        "input": "*(pill bottle)",
+        "input": "* ( pill bottle )",
         "output": "elttob llip"
     },
     {
-        "input": "*(pillow)",
+        "input": "* ( pillow )",
         "output": "wollip"
     },
     {
-        "input": "*(ping-pong ball)",
+        "input": "* ( ping-pong ball )",
         "output": "llab gnop-gnip"
     },
     {
-        "input": "*(pinwheel)",
+        "input": "* ( pinwheel )",
         "output": "leehwnip"
     },
     {
-        "input": "*(pirate ship)",
+        "input": "* ( pirate ship )",
         "output": "pihs etarip"
     },
     {
-        "input": "*(drink pitcher)",
+        "input": "* ( drink pitcher )",
         "output": "rehctip knird"
     },
     {
-        "input": "*(block plane)",
+        "input": "* ( block plane )",
         "output": "enalp kcolb"
     },
     {
-        "input": "*(planetarium)",
+        "input": "* ( planetarium )",
         "output": "muiratenalp"
     },
     {
-        "input": "*(plastic bag)",
+        "input": "* ( plastic bag )",
         "output": "gab citsalp"
     },
     {
-        "input": "*(plate rack)",
+        "input": "* ( plate rack )",
         "output": "kcar etalp"
     },
     {
-        "input": "*(farm plow)",
+        "input": "* ( farm plow )",
         "output": "wolp mraf"
     },
     {
-        "input": "*(plunger)",
+        "input": "* ( plunger )",
         "output": "regnulp"
     },
     {
-        "input": "*(Polaroid camera)",
+        "input": "* ( Polaroid camera )",
         "output": "aremac dioraloP"
     },
     {
-        "input": "*(pole)",
+        "input": "* ( pole )",
         "output": "elop"
     },
     {
-        "input": "*(police van)",
+        "input": "* ( police van )",
         "output": "nav ecilop"
     },
     {
-        "input": "*(poncho)",
+        "input": "* ( poncho )",
         "output": "ohcnop"
     },
     {
-        "input": "*(pool table)",
+        "input": "* ( pool table )",
         "output": "elbat loop"
     },
     {
-        "input": "*(soda bottle)",
+        "input": "* ( soda bottle )",
         "output": "elttob ados"
     },
     {
-        "input": "*(plant pot)",
+        "input": "* ( plant pot )",
         "output": "top tnalp"
     },
     {
-        "input": "*(potter's wheel)",
+        "input": "* ( potter's wheel )",
         "output": "leehw s'rettop"
     },
     {
-        "input": "*(power drill)",
+        "input": "* ( power drill )",
         "output": "llird rewop"
     },
     {
-        "input": "*(prayer rug)",
+        "input": "* ( prayer rug )",
         "output": "gur reyarp"
     },
     {
-        "input": "*(printer)",
+        "input": "* ( printer )",
         "output": "retnirp"
     },
     {
-        "input": "*(prison)",
+        "input": "* ( prison )",
         "output": "nosirp"
     },
     {
-        "input": "*(projectile)",
+        "input": "* ( projectile )",
         "output": "elitcejorp"
     },
     {
-        "input": "*(projector)",
+        "input": "* ( projector )",
         "output": "rotcejorp"
     },
     {
-        "input": "*(hockey puck)",
+        "input": "* ( hockey puck )",
         "output": "kcup yekcoh"
     },
     {
-        "input": "*(punching bag)",
+        "input": "* ( punching bag )",
         "output": "gab gnihcnup"
     },
     {
-        "input": "*(purse)",
+        "input": "* ( purse )",
         "output": "esrup"
     },
     {
-        "input": "*(quill)",
+        "input": "* ( quill )",
         "output": "lliuq"
     },
     {
-        "input": "*(quilt)",
+        "input": "* ( quilt )",
         "output": "tliuq"
     },
     {
-        "input": "*(race car)",
+        "input": "* ( race car )",
         "output": "rac ecar"
     },
     {
-        "input": "*(racket)",
+        "input": "* ( racket )",
         "output": "tekcar"
     },
     {
-        "input": "*(radiator)",
+        "input": "* ( radiator )",
         "output": "rotaidar"
     },
     {
-        "input": "*(radio)",
+        "input": "* ( radio )",
         "output": "oidar"
     },
     {
-        "input": "*(radio telescope)",
+        "input": "* ( radio telescope )",
         "output": "epocselet oidar"
     },
     {
-        "input": "*(rain barrel)",
+        "input": "* ( rain barrel )",
         "output": "lerrab niar"
     },
     {
-        "input": "*(recreational vehicle)",
+        "input": "* ( recreational vehicle )",
         "output": "elcihev lanoitaercer"
     },
     {
-        "input": "*(fishing casting reel)",
+        "input": "* ( fishing casting reel )",
         "output": "leer gnitsac gnihsif"
     },
     {
-        "input": "*(reflex camera)",
+        "input": "* ( reflex camera )",
         "output": "aremac xelfer"
     },
     {
-        "input": "*(refrigerator)",
+        "input": "* ( refrigerator )",
         "output": "rotaregirfer"
     },
     {
-        "input": "*(remote control)",
+        "input": "* ( remote control )",
         "output": "lortnoc etomer"
     },
     {
-        "input": "*(restaurant)",
+        "input": "* ( restaurant )",
         "output": "tnaruatser"
     },
     {
-        "input": "*(revolver)",
+        "input": "* ( revolver )",
         "output": "revlover"
     },
     {
-        "input": "*(rifle)",
+        "input": "* ( rifle )",
         "output": "elfir"
     },
     {
-        "input": "*(rocking chair)",
+        "input": "* ( rocking chair )",
         "output": "riahc gnikcor"
     },
     {
-        "input": "*(rotisserie)",
+        "input": "* ( rotisserie )",
         "output": "eiressitor"
     },
     {
-        "input": "*(eraser)",
+        "input": "* ( eraser )",
         "output": "resare"
     },
     {
-        "input": "*(rugby ball)",
+        "input": "* ( rugby ball )",
         "output": "llab ybgur"
     },
     {
-        "input": "*(ruler measuring stick)",
+        "input": "* ( ruler measuring stick )",
         "output": "kcits gnirusaem relur"
     },
     {
-        "input": "*(sneaker)",
+        "input": "* ( sneaker )",
         "output": "rekaens"
     },
     {
-        "input": "*(safe)",
+        "input": "* ( safe )",
         "output": "efas"
     },
     {
-        "input": "*(safety pin)",
+        "input": "* ( safety pin )",
         "output": "nip ytefas"
     },
     {
-        "input": "*(salt shaker)",
+        "input": "* ( salt shaker )",
         "output": "rekahs tlas"
     },
     {
-        "input": "*(sandal)",
+        "input": "* ( sandal )",
         "output": "ladnas"
     },
     {
-        "input": "*(sarong)",
+        "input": "* ( sarong )",
         "output": "gnoras"
     },
     {
-        "input": "*(saxophone)",
+        "input": "* ( saxophone )",
         "output": "enohpoxas"
     },
     {
-        "input": "*(scabbard)",
+        "input": "* ( scabbard )",
         "output": "drabbacs"
     },
     {
-        "input": "*(weighing scale)",
+        "input": "* ( weighing scale )",
         "output": "elacs gnihgiew"
     },
     {
-        "input": "*(school bus)",
+        "input": "* ( school bus )",
         "output": "sub loohcs"
     },
     {
-        "input": "*(schooner)",
+        "input": "* ( schooner )",
         "output": "renoohcs"
     },
     {
-        "input": "*(scoreboard)",
+        "input": "* ( scoreboard )",
         "output": "draoberocs"
     },
     {
-        "input": "*(CRT monitor)",
+        "input": "* ( CRT monitor )",
         "output": "rotinom TRC"
     },
     {
-        "input": "*(screw)",
+        "input": "* ( screw )",
         "output": "wercs"
     },
     {
-        "input": "*(screwdriver)",
+        "input": "* ( screwdriver )",
         "output": "revirdwercs"
     },
     {
-        "input": "*(seat belt)",
+        "input": "* ( seat belt )",
         "output": "tleb taes"
     },
     {
-        "input": "*(sewing machine)",
+        "input": "* ( sewing machine )",
         "output": "enihcam gniwes"
     },
     {
-        "input": "*(shield)",
+        "input": "* ( shield )",
         "output": "dleihs"
     },
     {
-        "input": "*(shoe store)",
+        "input": "* ( shoe store )",
         "output": "erots eohs"
     },
     {
-        "input": "*(shoji screen / room divider)",
+        "input": "* ( shoji screen / room divider )",
         "output": "redivid moor / neercs ijohs"
     },
     {
-        "input": "*(shopping basket)",
+        "input": "* ( shopping basket )",
         "output": "teksab gnippohs"
     },
     {
-        "input": "*(shopping cart)",
+        "input": "* ( shopping cart )",
         "output": "trac gnippohs"
     },
     {
-        "input": "*(shovel)",
+        "input": "* ( shovel )",
         "output": "levohs"
     },
     {
-        "input": "*(shower cap)",
+        "input": "* ( shower cap )",
         "output": "pac rewohs"
     },
     {
-        "input": "*(shower curtain)",
+        "input": "* ( shower curtain )",
         "output": "niatruc rewohs"
     },
     {
-        "input": "*(ski)",
+        "input": "* ( ski )",
         "output": "iks"
     },
     {
-        "input": "*(balaclava ski mask)",
+        "input": "* ( balaclava ski mask )",
         "output": "ksam iks avalcalab"
     },
     {
-        "input": "*(sleeping bag)",
+        "input": "* ( sleeping bag )",
         "output": "gab gnipeels"
     },
     {
-        "input": "*(slide rule)",
+        "input": "* ( slide rule )",
         "output": "elur edils"
     },
     {
-        "input": "*(sliding door)",
+        "input": "* ( sliding door )",
         "output": "rood gnidils"
     },
     {
-        "input": "*(slot machine)",
+        "input": "* ( slot machine )",
         "output": "enihcam tols"
     },
     {
-        "input": "*(snorkel)",
+        "input": "* ( snorkel )",
         "output": "lekrons"
     },
     {
-        "input": "*(snowmobile)",
+        "input": "* ( snowmobile )",
         "output": "elibomwons"
     },
     {
-        "input": "*(snowplow)",
+        "input": "* ( snowplow )",
         "output": "wolpwons"
     },
     {
-        "input": "*(soap dispenser)",
+        "input": "* ( soap dispenser )",
         "output": "resnepsid paos"
     },
     {
-        "input": "*(soccer ball)",
+        "input": "* ( soccer ball )",
         "output": "llab reccos"
     },
     {
-        "input": "*(sock)",
+        "input": "* ( sock )",
         "output": "kcos"
     },
     {
-        "input": "*(solar thermal collector)",
+        "input": "* ( solar thermal collector )",
         "output": "rotcelloc lamreht ralos"
     },
     {
-        "input": "*(sombrero)",
+        "input": "* ( sombrero )",
         "output": "orerbmos"
     },
     {
-        "input": "*(soup bowl)",
+        "input": "* ( soup bowl )",
         "output": "lwob puos"
     },
     {
-        "input": "*(keyboard space bar)",
+        "input": "* ( keyboard space bar )",
         "output": "rab ecaps draobyek"
     },
     {
-        "input": "*(space heater)",
+        "input": "* ( space heater )",
         "output": "retaeh ecaps"
     },
     {
-        "input": "*(space shuttle)",
+        "input": "* ( space shuttle )",
         "output": "elttuhs ecaps"
     },
     {
-        "input": "*(spatula)",
+        "input": "* ( spatula )",
         "output": "alutaps"
     },
     {
-        "input": "*(motorboat)",
+        "input": "* ( motorboat )",
         "output": "taobrotom"
     },
     {
-        "input": "*(spider web)",
+        "input": "* ( spider web )",
         "output": "bew redips"
     },
     {
-        "input": "*(spindle)",
+        "input": "* ( spindle )",
         "output": "eldnips"
     },
     {
-        "input": "*(sports car)",
+        "input": "* ( sports car )",
         "output": "rac strops"
     },
     {
-        "input": "*(spotlight)",
+        "input": "* ( spotlight )",
         "output": "thgiltops"
     },
     {
-        "input": "*(stage)",
+        "input": "* ( stage )",
         "output": "egats"
     },
     {
-        "input": "*(steam locomotive)",
+        "input": "* ( steam locomotive )",
         "output": "evitomocol maets"
     },
     {
-        "input": "*(through arch bridge)",
+        "input": "* ( through arch bridge )",
         "output": "egdirb hcra hguorht"
     },
     {
-        "input": "*(steel drum)",
+        "input": "* ( steel drum )",
         "output": "murd leets"
     },
     {
-        "input": "*(stethoscope)",
+        "input": "* ( stethoscope )",
         "output": "epocsohtets"
     },
     {
-        "input": "*(scarf)",
+        "input": "* ( scarf )",
         "output": "fracs"
     },
     {
-        "input": "*(stone wall)",
+        "input": "* ( stone wall )",
         "output": "llaw enots"
     },
     {
-        "input": "*(stopwatch)",
+        "input": "* ( stopwatch )",
         "output": "hctawpots"
     },
     {
-        "input": "*(stove)",
+        "input": "* ( stove )",
         "output": "evots"
     },
     {
-        "input": "*(strainer)",
+        "input": "* ( strainer )",
         "output": "reniarts"
     },
     {
-        "input": "*(tram)",
+        "input": "* ( tram )",
         "output": "mart"
     },
     {
-        "input": "*(stretcher)",
+        "input": "* ( stretcher )",
         "output": "rehcterts"
     },
     {
-        "input": "*(couch)",
+        "input": "* ( couch )",
         "output": "hcuoc"
     },
     {
-        "input": "*(stupa)",
+        "input": "* ( stupa )",
         "output": "aputs"
     },
     {
-        "input": "*(submarine)",
+        "input": "* ( submarine )",
         "output": "enirambus"
     },
     {
-        "input": "*(suit)",
+        "input": "* ( suit )",
         "output": "tius"
     },
     {
-        "input": "*(sundial)",
+        "input": "* ( sundial )",
         "output": "laidnus"
     },
     {
-        "input": "*(sunglasses)",
+        "input": "* ( sunglasses )",
         "output": "sessalgnus"
     },
     {
-        "input": "*(dark glasses)",
+        "input": "* ( dark glasses )",
         "output": "sessalg krad"
     },
     {
-        "input": "*(sunscreen)",
+        "input": "* ( sunscreen )",
         "output": "neercsnus"
     },
     {
-        "input": "*(suspension bridge)",
+        "input": "* ( suspension bridge )",
         "output": "egdirb noisnepsus"
     },
     {
-        "input": "*(mop)",
+        "input": "* ( mop )",
         "output": "pom"
     },
     {
-        "input": "*(sweatshirt)",
+        "input": "* ( sweatshirt )",
         "output": "trihstaews"
     },
     {
-        "input": "*(swim trunks / shorts)",
+        "input": "* ( swim trunks / shorts )",
         "output": "strohs / sknurt miws"
     },
     {
-        "input": "*(swing)",
+        "input": "* ( swing )",
         "output": "gniws"
     },
     {
-        "input": "*(electrical switch)",
+        "input": "* ( electrical switch )",
         "output": "hctiws lacirtcele"
     },
     {
-        "input": "*(syringe)",
+        "input": "* ( syringe )",
         "output": "egnirys"
     },
     {
-        "input": "*(table lamp)",
+        "input": "* ( table lamp )",
         "output": "pmal elbat"
     },
     {
-        "input": "*(tank)",
+        "input": "* ( tank )",
         "output": "knat"
     },
     {
-        "input": "*(tape player)",
+        "input": "* ( tape player )",
         "output": "reyalp epat"
     },
     {
-        "input": "*(teapot)",
+        "input": "* ( teapot )",
         "output": "topaet"
     },
     {
-        "input": "*(teddy bear)",
+        "input": "* ( teddy bear )",
         "output": "raeb yddet"
     },
     {
-        "input": "*(television)",
+        "input": "* ( television )",
         "output": "noisivelet"
     },
     {
-        "input": "*(tennis ball)",
+        "input": "* ( tennis ball )",
         "output": "llab sinnet"
     },
     {
-        "input": "*(thatched roof)",
+        "input": "* ( thatched roof )",
         "output": "foor dehctaht"
     },
     {
-        "input": "*(front curtain)",
+        "input": "* ( front curtain )",
         "output": "niatruc tnorf"
     },
     {
-        "input": "*(thimble)",
+        "input": "* ( thimble )",
         "output": "elbmiht"
     },
     {
-        "input": "*(threshing machine)",
+        "input": "* ( threshing machine )",
         "output": "enihcam gnihserht"
     },
     {
-        "input": "*(throne)",
+        "input": "* ( throne )",
         "output": "enorht"
     },
     {
-        "input": "*(tile roof)",
+        "input": "* ( tile roof )",
         "output": "foor elit"
     },
     {
-        "input": "*(toaster)",
+        "input": "* ( toaster )",
         "output": "retsaot"
     },
     {
-        "input": "*(tobacco shop)",
+        "input": "* ( tobacco shop )",
         "output": "pohs occabot"
     },
     {
-        "input": "*(toilet seat)",
+        "input": "* ( toilet seat )",
         "output": "taes teliot"
     },
     {
-        "input": "*(torch)",
+        "input": "* ( torch )",
         "output": "hcrot"
     },
     {
-        "input": "*(totem pole)",
+        "input": "* ( totem pole )",
         "output": "elop metot"
     },
     {
-        "input": "*(tow truck)",
+        "input": "* ( tow truck )",
         "output": "kcurt wot"
     },
     {
-        "input": "*(toy store)",
+        "input": "* ( toy store )",
         "output": "erots yot"
     },
     {
-        "input": "*(tractor)",
+        "input": "* ( tractor )",
         "output": "rotcart"
     },
     {
-        "input": "*(semi-trailer truck)",
+        "input": "* ( semi-trailer truck )",
         "output": "kcurt reliart-imes"
     },
     {
-        "input": "*(tray)",
+        "input": "* ( tray )",
         "output": "yart"
     },
     {
-        "input": "*(trench coat)",
+        "input": "* ( trench coat )",
         "output": "taoc hcnert"
     },
     {
-        "input": "*(tricycle)",
+        "input": "* ( tricycle )",
         "output": "elcycirt"
     },
     {
-        "input": "*(trimaran)",
+        "input": "* ( trimaran )",
         "output": "naramirt"
     },
     {
-        "input": "*(tripod)",
+        "input": "* ( tripod )",
         "output": "dopirt"
     },
     {
-        "input": "*(triumphal arch)",
+        "input": "* ( triumphal arch )",
         "output": "hcra lahpmuirt"
     },
     {
-        "input": "*(trolleybus)",
+        "input": "* ( trolleybus )",
         "output": "subyellort"
     },
     {
-        "input": "*(trombone)",
+        "input": "* ( trombone )",
         "output": "enobmort"
     },
     {
-        "input": "*(hot tub)",
+        "input": "* ( hot tub )",
         "output": "but toh"
     },
     {
-        "input": "*(turnstile)",
+        "input": "* ( turnstile )",
         "output": "elitsnrut"
     },
     {
-        "input": "*(typewriter keyboard)",
+        "input": "* ( typewriter keyboard )",
         "output": "draobyek retirwepyt"
     },
     {
-        "input": "*(umbrella)",
+        "input": "* ( umbrella )",
         "output": "allerbmu"
     },
     {
-        "input": "*(unicycle)",
+        "input": "* ( unicycle )",
         "output": "elcycinu"
     },
     {
-        "input": "*(upright piano)",
+        "input": "* ( upright piano )",
         "output": "onaip thgirpu"
     },
     {
-        "input": "*(vacuum cleaner)",
+        "input": "* ( vacuum cleaner )",
         "output": "renaelc muucav"
     },
     {
-        "input": "*(vase)",
+        "input": "* ( vase )",
         "output": "esav"
     },
     {
-        "input": "*(vaulted or arched ceiling)",
+        "input": "* ( vaulted or arched ceiling )",
         "output": "gniliec dehcra ro detluav"
     },
     {
-        "input": "*(velvet fabric)",
+        "input": "* ( velvet fabric )",
         "output": "cirbaf tevlev"
     },
     {
-        "input": "*(vending machine)",
+        "input": "* ( vending machine )",
         "output": "enihcam gnidnev"
     },
     {
-        "input": "*(vestment)",
+        "input": "* ( vestment )",
         "output": "tnemtsev"
     },
     {
-        "input": "*(viaduct)",
+        "input": "* ( viaduct )",
         "output": "tcudaiv"
     },
     {
-        "input": "*(violin)",
+        "input": "* ( violin )",
         "output": "niloiv"
     },
     {
-        "input": "*(volleyball)",
+        "input": "* ( volleyball )",
         "output": "llabyellov"
     },
     {
-        "input": "*(waffle iron)",
+        "input": "* ( waffle iron )",
         "output": "nori elffaw"
     },
     {
-        "input": "*(wall clock)",
+        "input": "* ( wall clock )",
         "output": "kcolc llaw"
     },
     {
-        "input": "*(wallet)",
+        "input": "* ( wallet )",
         "output": "tellaw"
     },
     {
-        "input": "*(wardrobe)",
+        "input": "* ( wardrobe )",
         "output": "ebordraw"
     },
     {
-        "input": "*(military aircraft)",
+        "input": "* ( military aircraft )",
         "output": "tfarcria yratilim"
     },
     {
-        "input": "*(sink)",
+        "input": "* ( sink )",
         "output": "knis"
     },
     {
-        "input": "*(washing machine)",
+        "input": "* ( washing machine )",
         "output": "enihcam gnihsaw"
     },
     {
-        "input": "*(water bottle)",
+        "input": "* ( water bottle )",
         "output": "elttob retaw"
     },
     {
-        "input": "*(water jug)",
+        "input": "* ( water jug )",
         "output": "guj retaw"
     },
     {
-        "input": "*(water tower)",
+        "input": "* ( water tower )",
         "output": "rewot retaw"
     },
     {
-        "input": "*(whiskey jug)",
+        "input": "* ( whiskey jug )",
         "output": "guj yeksihw"
     },
     {
-        "input": "*(whistle)",
+        "input": "* ( whistle )",
         "output": "eltsihw"
     },
     {
-        "input": "*(hair wig)",
+        "input": "* ( hair wig )",
         "output": "giw riah"
     },
     {
-        "input": "*(window screen)",
+        "input": "* ( window screen )",
         "output": "neercs wodniw"
     },
     {
-        "input": "*(window shade)",
+        "input": "* ( window shade )",
         "output": "edahs wodniw"
     },
     {
-        "input": "*(Windsor tie)",
+        "input": "* ( Windsor tie )",
         "output": "eit rosdniW"
     },
     {
-        "input": "*(wine bottle)",
+        "input": "* ( wine bottle )",
         "output": "elttob eniw"
     },
     {
-        "input": "*(airplane wing)",
+        "input": "* ( airplane wing )",
         "output": "gniw enalpria"
     },
     {
-        "input": "*(wok)",
+        "input": "* ( wok )",
         "output": "kow"
     },
     {
-        "input": "*(wooden spoon)",
+        "input": "* ( wooden spoon )",
         "output": "noops nedoow"
     },
     {
-        "input": "*(wool)",
+        "input": "* ( wool )",
         "output": "loow"
     },
     {
-        "input": "*(split-rail fence)",
+        "input": "* ( split-rail fence )",
         "output": "ecnef liar-tilps"
     },
     {
-        "input": "*(shipwreck)",
+        "input": "* ( shipwreck )",
         "output": "kcerwpihs"
     },
     {
-        "input": "*(sailboat)",
+        "input": "* ( sailboat )",
         "output": "taoblias"
     },
     {
-        "input": "*(yurt)",
+        "input": "* ( yurt )",
         "output": "truy"
     },
     {
-        "input": "*(website)",
+        "input": "* ( website )",
         "output": "etisbew"
     },
     {
-        "input": "*(comic book)",
+        "input": "* ( comic book )",
         "output": "koob cimoc"
     },
     {
-        "input": "*(crossword)",
+        "input": "* ( crossword )",
         "output": "drowssorc"
     },
     {
-        "input": "*(traffic or street sign)",
+        "input": "* ( traffic or street sign )",
         "output": "ngis teerts ro ciffart"
     },
     {
-        "input": "*(traffic light)",
+        "input": "* ( traffic light )",
         "output": "thgil ciffart"
     },
     {
-        "input": "*(dust jacket)",
+        "input": "* ( dust jacket )",
         "output": "tekcaj tsud"
     },
     {
-        "input": "*(menu)",
+        "input": "* ( menu )",
         "output": "unem"
     },
     {
-        "input": "*(plate)",
+        "input": "* ( plate )",
         "output": "etalp"
     },
     {
-        "input": "*(guacamole)",
+        "input": "* ( guacamole )",
         "output": "elomacaug"
     },
     {
-        "input": "*(consomme)",
+        "input": "* ( consomme )",
         "output": "emmosnoc"
     },
     {
-        "input": "*(hot pot)",
+        "input": "* ( hot pot )",
         "output": "top toh"
     },
     {
-        "input": "*(trifle)",
+        "input": "* ( trifle )",
         "output": "elfirt"
     },
     {
-        "input": "*(ice cream)",
+        "input": "* ( ice cream )",
         "output": "maerc eci"
     },
     {
-        "input": "*(popsicle)",
+        "input": "* ( popsicle )",
         "output": "elcispop"
     },
     {
-        "input": "*(baguette)",
+        "input": "* ( baguette )",
         "output": "etteugab"
     },
     {
-        "input": "*(bagel)",
+        "input": "* ( bagel )",
         "output": "legab"
     },
     {
-        "input": "*(pretzel)",
+        "input": "* ( pretzel )",
         "output": "lezterp"
     },
     {
-        "input": "*(cheeseburger)",
+        "input": "* ( cheeseburger )",
         "output": "regrubeseehc"
     },
     {
-        "input": "*(hot dog)",
+        "input": "* ( hot dog )",
         "output": "god toh"
     },
     {
-        "input": "*(mashed potatoes)",
+        "input": "* ( mashed potatoes )",
         "output": "seotatop dehsam"
     },
     {
-        "input": "*(cabbage)",
+        "input": "* ( cabbage )",
         "output": "egabbac"
     },
     {
-        "input": "*(broccoli)",
+        "input": "* ( broccoli )",
         "output": "iloccorb"
     },
     {
-        "input": "*(cauliflower)",
+        "input": "* ( cauliflower )",
         "output": "rewolfiluac"
     },
     {
-        "input": "*(zucchini)",
+        "input": "* ( zucchini )",
         "output": "inihccuz"
     },
     {
-        "input": "*(spaghetti squash)",
+        "input": "* ( spaghetti squash )",
         "output": "hsauqs ittehgaps"
     },
     {
-        "input": "*(acorn squash)",
+        "input": "* ( acorn squash )",
         "output": "hsauqs nroca"
     },
     {
-        "input": "*(butternut squash)",
+        "input": "* ( butternut squash )",
         "output": "hsauqs tunrettub"
     },
     {
-        "input": "*(cucumber)",
+        "input": "* ( cucumber )",
         "output": "rebmucuc"
     },
     {
-        "input": "*(artichoke)",
+        "input": "* ( artichoke )",
         "output": "ekohcitra"
     },
     {
-        "input": "*(bell pepper)",
+        "input": "* ( bell pepper )",
         "output": "reppep lleb"
     },
     {
-        "input": "*(cardoon)",
+        "input": "* ( cardoon )",
         "output": "noodrac"
     },
     {
-        "input": "*(mushroom)",
+        "input": "* ( mushroom )",
         "output": "moorhsum"
     },
     {
-        "input": "*(Granny Smith apple)",
+        "input": "* ( Granny Smith apple )",
         "output": "elppa htimS ynnarG"
     },
     {
-        "input": "*(strawberry)",
+        "input": "* ( strawberry )",
         "output": "yrrebwarts"
     },
     {
-        "input": "*(orange)",
+        "input": "* ( orange )",
         "output": "egnaro"
     },
     {
-        "input": "*(lemon)",
+        "input": "* ( lemon )",
         "output": "nomel"
     },
     {
-        "input": "*(fig)",
+        "input": "* ( fig )",
         "output": "gif"
     },
     {
-        "input": "*(pineapple)",
+        "input": "* ( pineapple )",
         "output": "elppaenip"
     },
     {
-        "input": "*(banana)",
+        "input": "* ( banana )",
         "output": "ananab"
     },
     {
-        "input": "*(jackfruit)",
+        "input": "* ( jackfruit )",
         "output": "tiurfkcaj"
     },
     {
-        "input": "*(cherimoya (custard apple))",
+        "input": "* ( cherimoya (custard apple) )",
         "output": ")elppa dratsuc( ayomirehc"
     },
     {
-        "input": "*(pomegranate)",
+        "input": "* ( pomegranate )",
         "output": "etanargemop"
     },
     {
-        "input": "*(hay)",
+        "input": "* ( hay )",
         "output": "yah"
     },
     {
-        "input": "*(carbonara)",
+        "input": "* ( carbonara )",
         "output": "aranobrac"
     },
     {
-        "input": "*(chocolate syrup)",
+        "input": "* ( chocolate syrup )",
         "output": "purys etalocohc"
     },
     {
-        "input": "*(dough)",
+        "input": "* ( dough )",
         "output": "hguod"
     },
     {
-        "input": "*(meatloaf)",
+        "input": "* ( meatloaf )",
         "output": "faoltaem"
     },
     {
-        "input": "*(pizza)",
+        "input": "* ( pizza )",
         "output": "azzip"
     },
     {
-        "input": "*(pot pie)",
+        "input": "* ( pot pie )",
         "output": "eip top"
     },
     {
-        "input": "*(burrito)",
+        "input": "* ( burrito )",
         "output": "otirrub"
     },
     {
-        "input": "*(red wine)",
+        "input": "* ( red wine )",
         "output": "eniw der"
     },
     {
-        "input": "*(espresso)",
+        "input": "* ( espresso )",
         "output": "osserpse"
     },
     {
-        "input": "*(tea cup)",
+        "input": "* ( tea cup )",
         "output": "puc aet"
     },
     {
-        "input": "*(eggnog)",
+        "input": "* ( eggnog )",
         "output": "gongge"
     },
     {
-        "input": "*(mountain)",
+        "input": "* ( mountain )",
         "output": "niatnuom"
     },
     {
-        "input": "*(bubble)",
+        "input": "* ( bubble )",
         "output": "elbbub"
     },
     {
-        "input": "*(cliff)",
+        "input": "* ( cliff )",
         "output": "ffilc"
     },
     {
-        "input": "*(coral reef)",
+        "input": "* ( coral reef )",
         "output": "feer laroc"
     },
     {
-        "input": "*(geyser)",
+        "input": "* ( geyser )",
         "output": "resyeg"
     },
     {
-        "input": "*(lakeshore)",
+        "input": "* ( lakeshore )",
         "output": "erohsekal"
     },
     {
-        "input": "*(promontory)",
+        "input": "* ( promontory )",
         "output": "yrotnomorp"
     },
     {
-        "input": "*(sandbar)",
+        "input": "* ( sandbar )",
         "output": "rabdnas"
     },
     {
-        "input": "*(beach)",
+        "input": "* ( beach )",
         "output": "hcaeb"
     },
     {
-        "input": "*(valley)",
+        "input": "* ( valley )",
         "output": "yellav"
     },
     {
-        "input": "*(volcano)",
+        "input": "* ( volcano )",
         "output": "onaclov"
     },
     {
-        "input": "*(baseball player)",
+        "input": "* ( baseball player )",
         "output": "reyalp llabesab"
     },
     {
-        "input": "*(bridegroom)",
+        "input": "* ( bridegroom )",
         "output": "moorgedirb"
     },
     {
-        "input": "*(scuba diver)",
+        "input": "* ( scuba diver )",
         "output": "revid abucs"
     },
     {
-        "input": "*(rapeseed)",
+        "input": "* ( rapeseed )",
         "output": "deesepar"
     },
     {
-        "input": "*(daisy)",
+        "input": "* ( daisy )",
         "output": "ysiad"
     },
     {
-        "input": "*(yellow lady's slipper)",
+        "input": "* ( yellow lady's slipper )",
         "output": "reppils s'ydal wolley"
     },
     {
-        "input": "*(corn)",
+        "input": "* ( corn )",
         "output": "nroc"
     },
     {
-        "input": "*(acorn)",
+        "input": "* ( acorn )",
         "output": "nroca"
     },
     {
-        "input": "*(rose hip)",
+        "input": "* ( rose hip )",
         "output": "pih esor"
     },
     {
-        "input": "*(horse chestnut seed)",
+        "input": "* ( horse chestnut seed )",
         "output": "dees tuntsehc esroh"
     },
     {
-        "input": "*(coral fungus)",
+        "input": "* ( coral fungus )",
         "output": "sugnuf laroc"
     },
     {
-        "input": "*(agaric)",
+        "input": "* ( agaric )",
         "output": "ciraga"
     },
     {
-        "input": "*(gyromitra)",
+        "input": "* ( gyromitra )",
         "output": "artimoryg"
     },
     {
-        "input": "*(stinkhorn mushroom)",
+        "input": "* ( stinkhorn mushroom )",
         "output": "moorhsum nrohknits"
     },
     {
-        "input": "*(earth star fungus)",
+        "input": "* ( earth star fungus )",
         "output": "sugnuf rats htrae"
     },
     {
-        "input": "*(hen of the woods mushroom)",
+        "input": "* ( hen of the woods mushroom )",
         "output": "moorhsum sdoow eht fo neh"
     },
     {
-        "input": "*(bolete)",
+        "input": "* ( bolete )",
         "output": "etelob"
     },
     {
-        "input": "*(corn cob)",
+        "input": "* ( corn cob )",
         "output": "boc nroc"
     },
     {
-        "input": "*(toilet paper)",
+        "input": "* ( toilet paper )",
         "output": "repap teliot"
     }
 ]
